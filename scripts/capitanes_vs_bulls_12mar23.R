@@ -12,7 +12,7 @@ library(webshot2)
 # ------------------------------------------------------------------------
 # ------------------------------------------------------------------------
 
-capitanes_fourfactors_12mar23 <- read.csv('data/capitanes_vs_gogo_05mar23_fourfactors.csv')
+capitanes_fourfactors_12mar23 <- read.csv('data/capitanes_vs_bulls_12mar23_fourfactors.csv')
 
 #Generate a gt table from head of data
 head(capitanes_fourfactors_12mar23) %>% 
