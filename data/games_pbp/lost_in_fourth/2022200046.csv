@@ -1,0 +1,439 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+2022200046,2,12,0,1,8:03 PM,12:00,,Start of 1st Period (8:03 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+2022200046,4,10,0,1,8:03 PM,12:00,Jump Ball Lofton Jr. vs. Faried: Tip to Williams Jr.,,,,,4,1631254,Kenneth Lofton Jr.,1612709926.0,Memphis,Hustle,MHU,5,202702,Kenneth Faried,1612709931.0,Mexico City,Capitanes,MXC,4,1631246,Vince Williams Jr.,1612709926.0,Memphis,Hustle,MHU,0
+2022200046,7,6,1,1,8:03 PM,11:51,,,Jones P.FOUL (P1.T1),,,5,1630222,Mason Jones,1612709931.0,Mexico City,Capitanes,MXC,4,1631113,Kennedy Chandler,1612709926.0,Memphis,Hustle,MHU,1,0,,,,,,0
+2022200046,9,2,1,1,8:03 PM,11:40,MISS LaRavia 3PT Jump Shot,,,,,4,1631222,Jake LaRavia,1612709926.0,Memphis,Hustle,MHU,0,0,,,,,,0,0,,,,,,0
+2022200046,10,4,0,1,8:03 PM,11:35,,,Jones REBOUND (Off:0 Def:1),,,5,1630222,Mason Jones,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200046,11,1,98,1,8:03 PM,11:23,,,Minaya 3' Cutting Layup Shot (2 PTS) (Jones 1 AST),2 - 0,-2,5,1631303,Justin Minaya,1612709931.0,Mexico City,Capitanes,MXC,5,1630222,Mason Jones,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0
+2022200046,13,1,99,1,8:04 PM,11:09,Lofton Jr. 2' Cutting Finger Roll Layup Shot (2 PTS) (LaRavia 1 AST),,,2 - 2,TIE,4,1631254,Kenneth Lofton Jr.,1612709926.0,Memphis,Hustle,MHU,4,1631222,Jake LaRavia,1612709926.0,Memphis,Hustle,MHU,0,0,,,,,,0
+2022200046,15,1,1,1,8:04 PM,10:47,,,Mendoza 25' 3PT Jump Shot (3 PTS) (Minaya 1 AST),5 - 2,-3,5,1628150,Rigoberto Mendoza,1612709931.0,Mexico City,Capitanes,MXC,5,1631303,Justin Minaya,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0
+2022200046,17,1,79,1,8:04 PM,10:31,LaRavia 25' 3PT Pullup Jump Shot (3 PTS) (Chandler 1 AST),,,5 - 5,TIE,4,1631222,Jake LaRavia,1612709926.0,Memphis,Hustle,MHU,4,1631113,Kennedy Chandler,1612709926.0,Memphis,Hustle,MHU,0,0,,,,,,0
+2022200046,19,2,98,1,8:05 PM,10:19,,,MISS Faried 2' Cutting Layup Shot,,,5,202702,Kenneth Faried,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200046,20,4,0,1,8:05 PM,10:15,Mathias REBOUND (Off:0 Def:1),,,,,4,1629751,Dakota Mathias,1612709926.0,Memphis,Hustle,MHU,0,0,,,,,,0,0,,,,,,0
+2022200046,21,1,52,1,8:05 PM,10:11,Williams Jr. 1' Alley Oop Dunk (2 PTS) (Chandler 2 AST),,,5 - 7,2,4,1631246,Vince Williams Jr.,1612709926.0,Memphis,Hustle,MHU,4,1631113,Kennedy Chandler,1612709926.0,Memphis,Hustle,MHU,0,0,,,,,,0
+2022200046,23,5,2,1,8:05 PM,9:52,Chandler STEAL (1 STL),,Faried Lost Ball Turnover (P1.T1),,,5,202702,Kenneth Faried,1612709931.0,Mexico City,Capitanes,MXC,4,1631113,Kennedy Chandler,1612709926.0,Memphis,Hustle,MHU,0,0,,,,,,0
+2022200046,25,1,73,1,8:05 PM,9:44,Lofton Jr. 2' Driving Reverse Layup (4 PTS) (Chandler 3 AST),,,5 - 9,4,4,1631254,Kenneth Lofton Jr.,1612709926.0,Memphis,Hustle,MHU,4,1631113,Kennedy Chandler,1612709926.0,Memphis,Hustle,MHU,0,0,,,,,,0
+2022200046,27,2,1,1,8:05 PM,9:24,,,MISS Clark 25' 3PT Jump Shot,,,5,1629109,Gary Clark,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200046,28,4,0,1,8:05 PM,9:23,,,Capitanes Rebound,,,3,1612709931,,,,,,0,0,,,,,,0,0,,,,,,0
+2022200046,29,6,3,1,8:06 PM,9:23,Lofton Jr. L.B.FOUL (P1.T1),,,,,4,1631254,Kenneth Lofton Jr.,1612709926.0,Memphis,Hustle,MHU,5,202702,Kenneth Faried,1612709931.0,Mexico City,Capitanes,MXC,1,0,,,,,,0
+2022200046,31,1,6,1,8:06 PM,9:15,,,Jones 3' Driving Layup (2 PTS),7 - 9,2,5,1630222,Mason Jones,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200046,33,9,1,1,8:07 PM,9:13,HUSTLE Timeout: Regular (Full 1 Short 0),,,,,2,1612709926,,,,,,0,0,,,,,,0,0,,,,,,0
+2022200046,34,2,101,1,8:09 PM,9:01,MISS Chandler 7' Driving Floating Jump Shot,,Faried BLOCK (1 BLK),,,4,1631113,Kennedy Chandler,1612709926.0,Memphis,Hustle,MHU,0,0,,,,,,5,202702,Kenneth Faried,1612709931.0,Mexico City,Capitanes,MXC,0
+2022200046,36,4,0,1,8:09 PM,8:58,,,Faried REBOUND (Off:0 Def:1),,,5,202702,Kenneth Faried,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200046,37,1,5,1,8:09 PM,8:55,,,Jones 2' Layup (4 PTS),9 - 9,TIE,5,1630222,Mason Jones,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200046,38,1,9,1,8:09 PM,8:47,LaRavia 1' Driving Dunk (5 PTS),,,9 - 11,2,4,1631222,Jake LaRavia,1612709926.0,Memphis,Hustle,MHU,0,0,,,,,,0,0,,,,,,0
+2022200046,39,2,1,1,8:09 PM,8:30,,,MISS Minaya 26' 3PT Jump Shot,,,5,1631303,Justin Minaya,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200046,40,4,0,1,8:09 PM,8:27,Lofton Jr. REBOUND (Off:0 Def:1),,,,,4,1631254,Kenneth Lofton Jr.,1612709926.0,Memphis,Hustle,MHU,0,0,,,,,,0,0,,,,,,0
+2022200046,41,5,45,1,8:09 PM,8:25,Lofton Jr. Out of Bounds - Bad Pass Turnover Turnover (P1.T1),,,,,4,1631254,Kenneth Lofton Jr.,1612709926.0,Memphis,Hustle,MHU,0,0,,,,,,1,0,,,,,,0
+2022200046,42,1,79,1,8:10 PM,8:17,,,Mendoza 10' Pullup Jump Shot (5 PTS),11 - 11,TIE,5,1628150,Rigoberto Mendoza,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200046,44,5,4,1,8:10 PM,8:06,Mathias Traveling Turnover (P1.T2),,,,,4,1629751,Dakota Mathias,1612709926.0,Memphis,Hustle,MHU,0,0,,,,,,1,0,,,,,,0
+2022200046,45,2,96,1,8:10 PM,7:50,,,MISS Clark 4' Turnaround Bank Hook Shot,,,5,1629109,Gary Clark,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200046,46,4,0,1,8:10 PM,7:46,LaRavia REBOUND (Off:0 Def:1),,,,,4,1631222,Jake LaRavia,1612709926.0,Memphis,Hustle,MHU,0,0,,,,,,0,0,,,,,,0
+2022200046,47,2,1,1,8:11 PM,7:35,MISS Williams Jr. 25' 3PT Jump Shot,,,,,4,1631246,Vince Williams Jr.,1612709926.0,Memphis,Hustle,MHU,0,0,,,,,,0,0,,,,,,0
+2022200046,48,4,0,1,8:11 PM,7:32,Mathias REBOUND (Off:1 Def:1),,,,,4,1629751,Dakota Mathias,1612709926.0,Memphis,Hustle,MHU,0,0,,,,,,0,0,,,,,,0
+2022200046,49,1,86,1,8:11 PM,7:30,Mathias 17' Turnaround Fadeaway (2 PTS),,,11 - 13,2,4,1629751,Dakota Mathias,1612709926.0,Memphis,Hustle,MHU,0,0,,,,,,0,0,,,,,,0
+2022200046,50,1,101,1,8:11 PM,7:21,,,Jones 12' Driving Floating Jump Shot (6 PTS),13 - 13,TIE,5,1630222,Mason Jones,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200046,51,6,1,1,8:11 PM,7:03,,,Mendoza P.FOUL (P1.T2),,,5,1628150,Rigoberto Mendoza,1612709931.0,Mexico City,Capitanes,MXC,4,1631113,Kennedy Chandler,1612709926.0,Memphis,Hustle,MHU,1,0,,,,,,0
+2022200046,53,2,75,1,8:11 PM,6:58,MISS Chandler 1' Driving Finger Roll Layup,,Faried BLOCK (2 BLK),,,4,1631113,Kennedy Chandler,1612709926.0,Memphis,Hustle,MHU,0,0,,,,,,5,202702,Kenneth Faried,1612709931.0,Mexico City,Capitanes,MXC,0
+2022200046,55,4,0,1,8:11 PM,6:57,HUSTLE Rebound,,,,,2,1612709926,,,,,,0,0,,,,,,0,0,,,,,,0
+2022200046,57,2,1,1,8:12 PM,6:55,MISS Mathias 3PT Jump Shot,,,,,4,1629751,Dakota Mathias,1612709926.0,Memphis,Hustle,MHU,0,0,,,,,,0,0,,,,,,0
+2022200046,58,4,0,1,8:12 PM,6:51,,,Clark REBOUND (Off:0 Def:1),,,5,1629109,Gary Clark,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200046,59,5,1,1,8:12 PM,6:48,Williams Jr. STEAL (1 STL),,Clark Bad Pass Turnover (P1.T2),,,5,1629109,Gary Clark,1612709931.0,Mexico City,Capitanes,MXC,4,1631246,Vince Williams Jr.,1612709926.0,Memphis,Hustle,MHU,0,0,,,,,,0
+2022200046,61,1,1,1,8:12 PM,6:45,Mathias 26' 3PT Jump Shot (5 PTS) (Lofton Jr. 1 AST),,,13 - 16,3,4,1629751,Dakota Mathias,1612709926.0,Memphis,Hustle,MHU,4,1631254,Kenneth Lofton Jr.,1612709926.0,Memphis,Hustle,MHU,0,0,,,,,,0
+2022200046,63,2,6,1,8:12 PM,6:24,,,MISS Jones 2' Driving Layup,,,5,1630222,Mason Jones,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200046,64,4,0,1,8:12 PM,6:23,,,Faried REBOUND (Off:1 Def:1),,,5,202702,Kenneth Faried,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200046,640,2,72,1,8:12 PM,6:23,Lofton Jr. BLOCK (1 BLK),,MISS Faried 2' Putback Layup,,,5,202702,Kenneth Faried,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,4,1631254,Kenneth Lofton Jr.,1612709926.0,Memphis,Hustle,MHU,0
+2022200046,642,4,0,1,8:12 PM,6:22,LaRavia REBOUND (Off:0 Def:2),,,,,4,1631222,Jake LaRavia,1612709926.0,Memphis,Hustle,MHU,0,0,,,,,,0,0,,,,,,0
+2022200046,67,1,1,1,8:12 PM,6:16,Mathias 24' 3PT Jump Shot (8 PTS) (Lofton Jr. 2 AST),,,13 - 19,6,4,1629751,Dakota Mathias,1612709926.0,Memphis,Hustle,MHU,4,1631254,Kenneth Lofton Jr.,1612709926.0,Memphis,Hustle,MHU,0,0,,,,,,0
+2022200046,69,2,1,1,8:13 PM,5:59,,,MISS Mendoza 26' 3PT Jump Shot,,,5,1628150,Rigoberto Mendoza,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200046,70,4,0,1,8:13 PM,5:57,,,Faried REBOUND (Off:2 Def:1),,,5,202702,Kenneth Faried,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200046,71,2,72,1,8:13 PM,5:55,,,MISS Faried 3' Putback Layup,,,5,202702,Kenneth Faried,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200046,72,4,0,1,8:13 PM,5:51,Williams Jr. REBOUND (Off:0 Def:1),,,,,4,1631246,Vince Williams Jr.,1612709926.0,Memphis,Hustle,MHU,0,0,,,,,,0,0,,,,,,0
+2022200046,73,6,2,1,8:13 PM,5:49,,,Faried S.FOUL (P1.T3),,,5,202702,Kenneth Faried,1612709931.0,Mexico City,Capitanes,MXC,4,1631254,Kenneth Lofton Jr.,1612709926.0,Memphis,Hustle,MHU,1,0,,,,,,0
+2022200046,75,8,0,1,8:13 PM,5:49,SUB: Bean FOR LaRavia,,,,,4,1631222,Jake LaRavia,1612709926.0,Memphis,Hustle,MHU,4,1631368,Justin Bean,1612709926.0,Memphis,Hustle,MHU,0,0,,,,,,0
+2022200046,76,8,0,1,8:13 PM,5:49,,,SUB: Napier FOR Mendoza,,,5,1628150,Rigoberto Mendoza,1612709931.0,Mexico City,Capitanes,MXC,5,203894,Shabazz Napier,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0
+2022200046,77,8,0,1,8:13 PM,5:49,,,SUB: McKinnie FOR Clark,,,5,1629109,Gary Clark,1612709931.0,Mexico City,Capitanes,MXC,5,1628035,Alfonzo McKinnie,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0
+2022200046,81,3,31,1,8:14 PM,5:49,Lofton Jr. Free Throw 2PT (6 PTS),,,13 - 21,8,4,1631254,Kenneth Lofton Jr.,1612709926.0,Memphis,Hustle,MHU,0,0,,,,,,0,0,,,,,,0
+2022200046,82,2,79,1,8:14 PM,5:32,,,MISS Napier 26' 3PT Pullup Jump Shot,,,5,203894,Shabazz Napier,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200046,83,4,0,1,8:14 PM,5:29,Lofton Jr. REBOUND (Off:0 Def:2),,,,,4,1631254,Kenneth Lofton Jr.,1612709926.0,Memphis,Hustle,MHU,0,0,,,,,,0,0,,,,,,0
+2022200046,84,5,2,1,8:14 PM,5:29,Lofton Jr. Lost Ball Turnover (P2.T3),,,,,4,1631254,Kenneth Lofton Jr.,1612709926.0,Memphis,Hustle,MHU,0,0,,,,,,0,0,,,,,,0
+2022200046,86,1,79,1,8:15 PM,5:11,,,Napier 19' Pullup Jump Shot (2 PTS),15 - 21,6,5,203894,Shabazz Napier,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200046,87,1,80,1,8:15 PM,4:57,Chandler 19' Step Back Jump Shot (2 PTS),,,15 - 23,8,4,1631113,Kennedy Chandler,1612709926.0,Memphis,Hustle,MHU,0,0,,,,,,0,0,,,,,,0
+2022200046,88,1,52,1,8:15 PM,4:37,,,Faried 2' Alley Oop Dunk (2 PTS) (Napier 1 AST),17 - 23,6,5,202702,Kenneth Faried,1612709931.0,Mexico City,Capitanes,MXC,5,203894,Shabazz Napier,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0
+2022200046,90,1,79,1,8:15 PM,4:25,Chandler 18' Pullup Jump Shot (4 PTS),,,17 - 25,8,4,1631113,Kennedy Chandler,1612709926.0,Memphis,Hustle,MHU,0,0,,,,,,0,0,,,,,,0
+2022200046,91,5,2,1,8:16 PM,4:15,Lofton Jr. STEAL (1 STL),,Napier Lost Ball Turnover (P1.T3),,,5,203894,Shabazz Napier,1612709931.0,Mexico City,Capitanes,MXC,4,1631254,Kenneth Lofton Jr.,1612709926.0,Memphis,Hustle,MHU,0,0,,,,,,0
+2022200046,93,1,44,1,8:16 PM,4:09,Bean 2' Reverse Layup (2 PTS) (Lofton Jr. 3 AST),,,17 - 27,10,4,1631368,Justin Bean,1612709926.0,Memphis,Hustle,MHU,4,1631254,Kenneth Lofton Jr.,1612709926.0,Memphis,Hustle,MHU,0,0,,,,,,0
+2022200046,95,2,79,1,8:16 PM,3:57,,,MISS McKinnie 26' 3PT Pullup Jump Shot,,,5,1628035,Alfonzo McKinnie,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200046,96,4,0,1,8:16 PM,3:57,Williams Jr. REBOUND (Off:0 Def:2),,,,,4,1631246,Vince Williams Jr.,1612709926.0,Memphis,Hustle,MHU,0,0,,,,,,0,0,,,,,,0
+2022200046,97,2,1,1,8:16 PM,3:46,MISS Lofton Jr. 26' 3PT Jump Shot,,,,,4,1631254,Kenneth Lofton Jr.,1612709926.0,Memphis,Hustle,MHU,0,0,,,,,,0,0,,,,,,0
+2022200046,98,4,0,1,8:16 PM,3:42,,,McKinnie REBOUND (Off:0 Def:1),,,5,1628035,Alfonzo McKinnie,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200046,99,2,80,1,8:16 PM,3:39,,,MISS Jones 25' 3PT Step Back Jump Shot,,,5,1630222,Mason Jones,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200046,100,4,0,1,8:16 PM,3:36,Lofton Jr. REBOUND (Off:0 Def:3),,,,,4,1631254,Kenneth Lofton Jr.,1612709926.0,Memphis,Hustle,MHU,0,0,,,,,,0,0,,,,,,0
+2022200046,101,1,79,1,8:16 PM,3:31,Williams Jr. 25' 3PT Pullup Jump Shot (5 PTS),,,17 - 30,13,4,1631246,Vince Williams Jr.,1612709926.0,Memphis,Hustle,MHU,0,0,,,,,,0,0,,,,,,0
+2022200046,102,9,1,1,8:16 PM,3:29,,,Capitanes Timeout: Regular (Reg.1 Short 0),,,3,1612709931,,,,,,0,0,,,,,,0,0,,,,,,0
+2022200046,103,8,0,1,8:18 PM,3:29,SUB: Weems FOR Williams Jr.,,,,,4,1631246,Vince Williams Jr.,1612709926.0,Memphis,Hustle,MHU,4,1630651,Romeo Weems,1612709926.0,Memphis,Hustle,MHU,0,0,,,,,,0
+2022200046,104,8,0,1,8:18 PM,3:29,SUB: Jefferson FOR Mathias,,,,,4,1629751,Dakota Mathias,1612709926.0,Memphis,Hustle,MHU,4,1630808,Damien Jefferson,1612709926.0,Memphis,Hustle,MHU,0,0,,,,,,0
+2022200046,105,8,0,1,8:18 PM,3:29,,,SUB: Clark FOR Minaya,,,5,1631303,Justin Minaya,1612709931.0,Mexico City,Capitanes,MXC,5,1629109,Gary Clark,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0
+2022200046,106,8,0,1,8:18 PM,3:29,,,SUB: Pacheco FOR Faried,,,5,202702,Kenneth Faried,1612709931.0,Mexico City,Capitanes,MXC,5,1631344,Caio Pacheco,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0
+2022200046,111,2,1,1,8:19 PM,3:07,,,MISS Clark 26' 3PT Jump Shot,,,5,1629109,Gary Clark,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200046,112,4,0,1,8:19 PM,3:06,,,Capitanes Rebound,,,3,1612709931,,,,,,0,0,,,,,,0,0,,,,,,0
+2022200046,113,6,3,1,8:19 PM,3:06,Chandler L.B.FOUL (P1.T2),,,,,4,1631113,Kennedy Chandler,1612709926.0,Memphis,Hustle,MHU,5,1630222,Mason Jones,1612709931.0,Mexico City,Capitanes,MXC,1,0,,,,,,0
+2022200046,115,1,1,1,8:19 PM,2:55,,,Pacheco 24' 3PT Jump Shot (3 PTS) (Clark 1 AST),20 - 30,10,5,1631344,Caio Pacheco,1612709931.0,Mexico City,Capitanes,MXC,5,1629109,Gary Clark,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0
+2022200046,118,2,63,1,8:20 PM,2:36,MISS Jefferson 19' Fadeaway Jumper,,,,,4,1630808,Damien Jefferson,1612709926.0,Memphis,Hustle,MHU,0,0,,,,,,0,0,,,,,,0
+2022200046,119,4,0,1,8:20 PM,2:33,,,Napier REBOUND (Off:0 Def:1),,,5,203894,Shabazz Napier,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200046,120,6,1,1,8:20 PM,2:25,Weems P.FOUL (P1.T3),,,,,4,1630651,Romeo Weems,1612709926.0,Memphis,Hustle,MHU,5,1629109,Gary Clark,1612709931.0,Mexico City,Capitanes,MXC,1,0,,,,,,0
+2022200046,122,8,0,1,8:20 PM,2:25,SUB: Hurt FOR Chandler,,,,,4,1631113,Kennedy Chandler,1612709926.0,Memphis,Hustle,MHU,4,1630562,Matt Hurt,1612709926.0,Memphis,Hustle,MHU,0,0,,,,,,0
+2022200046,123,8,0,1,8:20 PM,2:25,SUB: Gilyard FOR Lofton Jr.,,,,,4,1631254,Kenneth Lofton Jr.,1612709926.0,Memphis,Hustle,MHU,4,1631367,Jacob Gilyard,1612709926.0,Memphis,Hustle,MHU,0,0,,,,,,0
+2022200046,126,2,79,1,8:21 PM,2:12,,,MISS Napier 20' Pullup Jump Shot,,,5,203894,Shabazz Napier,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200046,127,4,0,1,8:21 PM,2:09,,,Capitanes Rebound,,,3,1612709931,,,,,,0,0,,,,,,0,0,,,,,,0
+2022200046,129,1,1,1,8:21 PM,2:01,,,Clark 26' 3PT Jump Shot (3 PTS) (Pacheco 1 AST),23 - 30,7,5,1629109,Gary Clark,1612709931.0,Mexico City,Capitanes,MXC,5,1631344,Caio Pacheco,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0
+2022200046,131,1,5,1,8:21 PM,1:43,Hurt 1' Layup (2 PTS) (Weems 1 AST),,,23 - 32,9,4,1630562,Matt Hurt,1612709926.0,Memphis,Hustle,MHU,4,1630651,Romeo Weems,1612709926.0,Memphis,Hustle,MHU,0,0,,,,,,0
+2022200046,133,7,2,1,8:21 PM,1:43,,,McKinnie Violation:Defensive Goaltending,,,5,1628035,Alfonzo McKinnie,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,1,0,,,,,,0
+2022200046,134,2,1,1,8:22 PM,1:31,,,MISS Clark 27' 3PT Jump Shot,,,5,1629109,Gary Clark,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200046,135,4,0,1,8:22 PM,1:27,Gilyard REBOUND (Off:0 Def:1),,,,,4,1631367,Jacob Gilyard,1612709926.0,Memphis,Hustle,MHU,0,0,,,,,,0,0,,,,,,0
+2022200046,136,1,6,1,8:22 PM,1:18,Hurt 3' Driving Layup (4 PTS),,,23 - 34,11,4,1630562,Matt Hurt,1612709926.0,Memphis,Hustle,MHU,0,0,,,,,,0,0,,,,,,0
+2022200046,138,1,1,1,8:22 PM,1:01,,,Clark 26' 3PT Jump Shot (6 PTS) (Pacheco 2 AST),26 - 34,8,5,1629109,Gary Clark,1612709931.0,Mexico City,Capitanes,MXC,5,1631344,Caio Pacheco,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0
+2022200046,140,5,2,1,8:23 PM,0:43,Weems Lost Ball Turnover (P1.T4),,Napier STEAL (1 STL),,,4,1630651,Romeo Weems,1612709926.0,Memphis,Hustle,MHU,5,203894,Shabazz Napier,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0
+2022200046,142,1,6,1,8:23 PM,0:39,,,McKinnie 3' Driving Layup (2 PTS) (Napier 2 AST),28 - 34,6,5,1628035,Alfonzo McKinnie,1612709931.0,Mexico City,Capitanes,MXC,5,203894,Shabazz Napier,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0
+2022200046,144,6,2,1,8:23 PM,0:34,,,Pacheco S.FOUL (P1.T4),,,5,1631344,Caio Pacheco,1612709931.0,Mexico City,Capitanes,MXC,4,1631367,Jacob Gilyard,1612709926.0,Memphis,Hustle,MHU,1,0,,,,,,0
+2022200046,146,8,0,1,8:23 PM,0:34,,,SUB: Mendoza FOR Jones,,,5,1630222,Mason Jones,1612709931.0,Mexico City,Capitanes,MXC,5,1628150,Rigoberto Mendoza,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0
+2022200046,148,3,31,1,8:23 PM,0:34,Gilyard Free Throw 2PT (2 PTS),,,28 - 36,8,4,1631367,Jacob Gilyard,1612709926.0,Memphis,Hustle,MHU,0,0,,,,,,0,0,,,,,,0
+2022200046,149,1,6,1,8:23 PM,0:29,,,Napier 4' Driving Layup (4 PTS),30 - 36,6,5,203894,Shabazz Napier,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200046,150,1,98,1,8:24 PM,0:08,Weems 2' Cutting Layup Shot (2 PTS) (Gilyard 1 AST),,,30 - 38,8,4,1630651,Romeo Weems,1612709926.0,Memphis,Hustle,MHU,4,1631367,Jacob Gilyard,1612709926.0,Memphis,Hustle,MHU,0,0,,,,,,0
+2022200046,152,6,2,1,8:24 PM,0:01,Hurt S.FOUL (P1.T4),,,,,4,1630562,Matt Hurt,1612709926.0,Memphis,Hustle,MHU,5,203894,Shabazz Napier,1612709931.0,Mexico City,Capitanes,MXC,1,0,,,,,,0
+2022200046,154,3,31,1,8:25 PM,0:01,,,Napier Free Throw 2PT (6 PTS),32 - 38,6,5,203894,Shabazz Napier,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200046,155,13,0,1,8:25 PM,0:00,,End of 1st Period (8:25 PM EST),,32 - 38,6,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+2022200046,158,12,0,2,8:28 PM,12:00,,Start of 2nd Period (8:28 PM EST),,32 - 38,6,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+2022200046,159,2,98,2,8:28 PM,11:49,Hurt BLOCK (1 BLK),,MISS McKinnie 3' Cutting Layup Shot,,,5,1628035,Alfonzo McKinnie,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,4,1630562,Matt Hurt,1612709926.0,Memphis,Hustle,MHU,0
+2022200046,160,4,0,2,8:28 PM,11:49,Jefferson REBOUND (Off:0 Def:1),,,,,4,1630808,Damien Jefferson,1612709926.0,Memphis,Hustle,MHU,0,0,,,,,,0,0,,,,,,0
+2022200046,161,1,6,2,8:28 PM,11:42,Jefferson 2' Driving Layup (2 PTS) (Gilyard 2 AST),,,32 - 40,8,4,1630808,Damien Jefferson,1612709926.0,Memphis,Hustle,MHU,4,1631367,Jacob Gilyard,1612709926.0,Memphis,Hustle,MHU,0,0,,,,,,0
+2022200046,163,6,2,2,8:28 PM,11:31,Weems S.FOUL (P2.T1),,,,,4,1630651,Romeo Weems,1612709926.0,Memphis,Hustle,MHU,5,1628035,Alfonzo McKinnie,1612709931.0,Mexico City,Capitanes,MXC,1,0,,,,,,0
+2022200046,165,3,31,2,8:28 PM,11:31,,,MISS McKinnie Free Throw 2PT,,,5,1628035,Alfonzo McKinnie,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200046,166,4,0,2,8:28 PM,11:28,Weems REBOUND (Off:0 Def:1),,,,,4,1630651,Romeo Weems,1612709926.0,Memphis,Hustle,MHU,0,0,,,,,,0,0,,,,,,0
+2022200046,167,2,1,2,8:29 PM,11:16,MISS Jefferson 25' 3PT Jump Shot,,,,,4,1630808,Damien Jefferson,1612709926.0,Memphis,Hustle,MHU,0,0,,,,,,0,0,,,,,,0
+2022200046,168,4,0,2,8:29 PM,11:14,LaRavia REBOUND (Off:1 Def:2),,,,,4,1631222,Jake LaRavia,1612709926.0,Memphis,Hustle,MHU,0,0,,,,,,0,0,,,,,,0
+2022200046,169,2,1,2,8:29 PM,11:12,MISS LaRavia 26' 3PT Jump Shot,,,,,4,1631222,Jake LaRavia,1612709926.0,Memphis,Hustle,MHU,0,0,,,,,,0,0,,,,,,0
+2022200046,171,1,87,2,8:29 PM,11:04,Jefferson Putback Dunk (4 PTS),,,32 - 42,10,4,1630808,Damien Jefferson,1612709926.0,Memphis,Hustle,MHU,0,0,,,,,,0,0,,,,,,0
+2022200046,170,4,0,2,8:29 PM,11:04,Jefferson REBOUND (Off:1 Def:1),,,,,4,1630808,Damien Jefferson,1612709926.0,Memphis,Hustle,MHU,0,0,,,,,,0,0,,,,,,0
+2022200046,172,1,7,2,8:29 PM,11:00,,,Clark 2' Dunk (8 PTS) (Napier 3 AST),34 - 42,8,5,1629109,Gary Clark,1612709931.0,Mexico City,Capitanes,MXC,5,203894,Shabazz Napier,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0
+2022200046,174,6,4,2,8:29 PM,10:50,Hurt OFF.Foul (P2),,,,,4,1630562,Matt Hurt,1612709926.0,Memphis,Hustle,MHU,5,203894,Shabazz Napier,1612709931.0,Mexico City,Capitanes,MXC,1,0,,,,,,0
+2022200046,176,5,37,2,8:29 PM,10:50,Hurt Offensive Foul Turnover (P1.T5),,,,,4,1630562,Matt Hurt,1612709926.0,Memphis,Hustle,MHU,0,0,,,,,,1,0,,,,,,0
+2022200046,177,2,1,2,8:30 PM,10:31,,,MISS McKinnie 27' 3PT Jump Shot,,,5,1628035,Alfonzo McKinnie,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200046,178,4,0,2,8:30 PM,10:29,HUSTLE Rebound,,,,,2,1612709926,,,,,,0,0,,,,,,0,0,,,,,,0
+2022200046,180,1,5,2,8:30 PM,10:19,LaRavia 2' Layup (7 PTS),,,34 - 44,10,4,1631222,Jake LaRavia,1612709926.0,Memphis,Hustle,MHU,0,0,,,,,,0,0,,,,,,0
+2022200046,181,2,1,2,8:30 PM,10:06,,,MISS Napier 26' 3PT Jump Shot,,,5,203894,Shabazz Napier,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200046,182,4,0,2,8:30 PM,10:03,Weems REBOUND (Off:0 Def:2),,,,,4,1630651,Romeo Weems,1612709926.0,Memphis,Hustle,MHU,0,0,,,,,,0,0,,,,,,0
+2022200046,183,2,1,2,8:30 PM,9:59,MISS LaRavia 22' Jump Shot,,,,,4,1631222,Jake LaRavia,1612709926.0,Memphis,Hustle,MHU,0,0,,,,,,0,0,,,,,,0
+2022200046,184,4,0,2,8:30 PM,9:56,,,Clark REBOUND (Off:0 Def:2),,,5,1629109,Gary Clark,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200046,185,6,1,2,8:30 PM,9:51,Hurt P.FOUL (P3.T2),,,,,4,1630562,Matt Hurt,1612709926.0,Memphis,Hustle,MHU,5,203894,Shabazz Napier,1612709931.0,Mexico City,Capitanes,MXC,1,0,,,,,,0
+2022200046,187,8,0,2,8:31 PM,9:51,,,SUB: Minaya FOR McKinnie,,,5,1628035,Alfonzo McKinnie,1612709931.0,Mexico City,Capitanes,MXC,5,1631303,Justin Minaya,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0
+2022200046,189,5,1,2,8:31 PM,9:39,LaRavia STEAL (1 STL),,Mendoza Bad Pass Turnover (P1.T4),,,5,1628150,Rigoberto Mendoza,1612709931.0,Mexico City,Capitanes,MXC,4,1631222,Jake LaRavia,1612709926.0,Memphis,Hustle,MHU,0,0,,,,,,0
+2022200046,191,1,1,2,8:31 PM,9:31,Jefferson 26' 3PT Jump Shot (7 PTS) (Gilyard 3 AST),,,34 - 47,13,4,1630808,Damien Jefferson,1612709926.0,Memphis,Hustle,MHU,4,1631367,Jacob Gilyard,1612709926.0,Memphis,Hustle,MHU,0,0,,,,,,0
+2022200046,193,1,75,2,8:31 PM,9:10,,,Napier 3' Driving Finger Roll Layup (8 PTS),36 - 47,11,5,203894,Shabazz Napier,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200046,194,6,2,2,8:31 PM,9:10,Gilyard S.FOUL (P1.T3),,,,,4,1631367,Jacob Gilyard,1612709926.0,Memphis,Hustle,MHU,5,203894,Shabazz Napier,1612709931.0,Mexico City,Capitanes,MXC,1,0,,,,,,0
+2022200046,196,8,0,2,8:32 PM,9:10,SUB: Bean FOR Hurt,,,,,4,1630562,Matt Hurt,1612709926.0,Memphis,Hustle,MHU,4,1631368,Justin Bean,1612709926.0,Memphis,Hustle,MHU,0,0,,,,,,0
+2022200046,197,8,0,2,8:32 PM,9:10,,,SUB: Faried FOR Pacheco,,,5,1631344,Caio Pacheco,1612709931.0,Mexico City,Capitanes,MXC,5,202702,Kenneth Faried,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0
+2022200046,200,3,30,2,8:32 PM,9:10,,,Napier Free Throw 1PT (9 PTS),37 - 47,10,5,203894,Shabazz Napier,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200046,201,1,76,2,8:32 PM,8:59,LaRavia 3' Running Finger Roll Layup (9 PTS),,,37 - 49,12,4,1631222,Jake LaRavia,1612709926.0,Memphis,Hustle,MHU,0,0,,,,,,0,0,,,,,,0
+2022200046,202,2,1,2,8:33 PM,8:44,,,MISS Minaya 25' 3PT Jump Shot,,,5,1631303,Justin Minaya,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200046,203,4,0,2,8:33 PM,8:41,,,Faried REBOUND (Off:3 Def:1),,,5,202702,Kenneth Faried,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200046,204,1,63,2,8:33 PM,8:40,,,Faried 10' Fadeaway Jumper (4 PTS),39 - 49,10,5,202702,Kenneth Faried,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200046,205,5,45,2,8:33 PM,8:28,Gilyard Out of Bounds - Bad Pass Turnover Turnover (P1.T6),,,,,4,1631367,Jacob Gilyard,1612709926.0,Memphis,Hustle,MHU,0,0,,,,,,1,0,,,,,,0
+2022200046,206,8,0,2,8:33 PM,8:28,,,SUB: Jones FOR Clark,,,5,1629109,Gary Clark,1612709931.0,Mexico City,Capitanes,MXC,5,1630222,Mason Jones,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0
+2022200046,208,1,80,2,8:33 PM,8:08,,,Napier 25' 3PT Step Back Jump Shot (12 PTS) (Minaya 2 AST),42 - 49,7,5,203894,Shabazz Napier,1612709931.0,Mexico City,Capitanes,MXC,5,1631303,Justin Minaya,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0
+2022200046,211,2,1,2,8:34 PM,8:00,MISS LaRavia 24' 3PT Jump Shot,,,,,4,1631222,Jake LaRavia,1612709926.0,Memphis,Hustle,MHU,0,0,,,,,,0,0,,,,,,0
+2022200046,212,4,0,2,8:34 PM,7:57,,,Napier REBOUND (Off:0 Def:2),,,5,203894,Shabazz Napier,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200046,213,1,6,2,8:34 PM,7:55,,,Jones 3' Driving Layup (8 PTS) (Napier 4 AST),44 - 49,5,5,1630222,Mason Jones,1612709931.0,Mexico City,Capitanes,MXC,5,203894,Shabazz Napier,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0
+2022200046,215,6,2,2,8:34 PM,7:55,Weems S.FOUL (P3.T4),,,,,4,1630651,Romeo Weems,1612709926.0,Memphis,Hustle,MHU,5,1630222,Mason Jones,1612709931.0,Mexico City,Capitanes,MXC,1,0,,,,,,0
+2022200046,217,9,1,2,8:34 PM,7:55,HUSTLE Timeout: Regular (Full 2 Short 0),,,,,2,1612709926,,,,,,0,0,,,,,,0,0,,,,,,0
+2022200046,219,8,0,2,8:36 PM,7:55,SUB: Williams Jr. FOR Weems,,,,,4,1630651,Romeo Weems,1612709926.0,Memphis,Hustle,MHU,4,1631246,Vince Williams Jr.,1612709926.0,Memphis,Hustle,MHU,0,0,,,,,,0
+2022200046,221,3,30,2,8:37 PM,7:55,,,MISS Jones Free Throw 1PT,,,5,1630222,Mason Jones,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200046,222,4,0,2,8:37 PM,7:51,Gilyard REBOUND (Off:0 Def:2),,,,,4,1631367,Jacob Gilyard,1612709926.0,Memphis,Hustle,MHU,0,0,,,,,,0,0,,,,,,0
+2022200046,223,2,6,2,8:37 PM,7:39,MISS Bean 2' Driving Layup,,,,,4,1631368,Justin Bean,1612709926.0,Memphis,Hustle,MHU,0,0,,,,,,0,0,,,,,,0
+2022200046,224,4,0,2,8:37 PM,7:37,,,Jones REBOUND (Off:0 Def:2),,,5,1630222,Mason Jones,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200046,225,1,99,2,8:37 PM,7:25,,,Jones 3' Cutting Finger Roll Layup Shot (10 PTS) (Faried 1 AST),46 - 49,3,5,1630222,Mason Jones,1612709931.0,Mexico City,Capitanes,MXC,5,202702,Kenneth Faried,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0
+2022200046,227,1,1,2,8:37 PM,7:13,LaRavia 3PT Jump Shot (12 PTS) (Gilyard 4 AST),,,46 - 52,6,4,1631222,Jake LaRavia,1612709926.0,Memphis,Hustle,MHU,4,1631367,Jacob Gilyard,1612709926.0,Memphis,Hustle,MHU,0,0,,,,,,0
+2022200046,229,6,4,2,8:38 PM,6:46,,,Napier OFF.Foul (P1),,,5,203894,Shabazz Napier,1612709931.0,Mexico City,Capitanes,MXC,4,1630808,Damien Jefferson,1612709926.0,Memphis,Hustle,MHU,1,0,,,,,,0
+2022200046,231,5,37,2,8:38 PM,6:46,,,Napier Offensive Foul Turnover (P2.T5),,,5,203894,Shabazz Napier,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,1,0,,,,,,0
+2022200046,232,8,0,2,8:38 PM,6:46,SUB: Lofton Jr. FOR Jefferson,,,,,4,1630808,Damien Jefferson,1612709926.0,Memphis,Hustle,MHU,4,1631254,Kenneth Lofton Jr.,1612709926.0,Memphis,Hustle,MHU,0,0,,,,,,0
+2022200046,233,8,0,2,8:38 PM,6:46,,,SUB: Pacheco FOR Napier,,,5,203894,Shabazz Napier,1612709931.0,Mexico City,Capitanes,MXC,5,1631344,Caio Pacheco,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0
+2022200046,236,2,80,2,8:38 PM,6:34,MISS Gilyard 23' Step Back Jump Shot,,,,,4,1631367,Jacob Gilyard,1612709926.0,Memphis,Hustle,MHU,0,0,,,,,,0,0,,,,,,0
+2022200046,237,4,0,2,8:38 PM,6:31,,,Faried REBOUND (Off:3 Def:2),,,5,202702,Kenneth Faried,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200046,238,2,1,2,8:38 PM,6:26,,,MISS Mendoza 25' 3PT Jump Shot,,,5,1628150,Rigoberto Mendoza,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200046,239,4,0,2,8:38 PM,6:23,Williams Jr. REBOUND (Off:0 Def:3),,,,,4,1631246,Vince Williams Jr.,1612709926.0,Memphis,Hustle,MHU,0,0,,,,,,0,0,,,,,,0
+2022200046,240,6,1,2,8:39 PM,6:19,,,Mendoza P.FOUL (P2.T1),,,5,1628150,Rigoberto Mendoza,1612709931.0,Mexico City,Capitanes,MXC,4,1631222,Jake LaRavia,1612709926.0,Memphis,Hustle,MHU,1,0,,,,,,0
+2022200046,242,8,0,2,8:39 PM,6:19,SUB: Mathias FOR Gilyard,,,,,4,1631367,Jacob Gilyard,1612709926.0,Memphis,Hustle,MHU,4,1629751,Dakota Mathias,1612709926.0,Memphis,Hustle,MHU,0,0,,,,,,0
+2022200046,243,8,0,2,8:39 PM,6:19,SUB: Chandler FOR Bean,,,,,4,1631368,Justin Bean,1612709926.0,Memphis,Hustle,MHU,4,1631113,Kennedy Chandler,1612709926.0,Memphis,Hustle,MHU,0,0,,,,,,0
+2022200046,246,2,78,2,8:39 PM,6:13,MISS LaRavia 3' Floating Jump Shot,,,,,4,1631222,Jake LaRavia,1612709926.0,Memphis,Hustle,MHU,0,0,,,,,,0,0,,,,,,0
+2022200046,247,4,0,2,8:39 PM,6:10,,,Faried REBOUND (Off:3 Def:3),,,5,202702,Kenneth Faried,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200046,248,5,1,2,8:39 PM,6:07,Chandler STEAL (2 STL),,Jones Bad Pass Turnover (P1.T6),,,5,1630222,Mason Jones,1612709931.0,Mexico City,Capitanes,MXC,4,1631113,Kennedy Chandler,1612709926.0,Memphis,Hustle,MHU,0,0,,,,,,0
+2022200046,250,1,44,2,8:39 PM,6:02,Williams Jr. 1' Reverse Layup (7 PTS) (LaRavia 2 AST),,,46 - 54,8,4,1631246,Vince Williams Jr.,1612709926.0,Memphis,Hustle,MHU,4,1631222,Jake LaRavia,1612709926.0,Memphis,Hustle,MHU,0,0,,,,,,0
+2022200046,252,1,98,2,8:40 PM,5:43,,,Mendoza 3' Cutting Layup Shot (7 PTS) (Jones 2 AST),48 - 54,6,5,1628150,Rigoberto Mendoza,1612709931.0,Mexico City,Capitanes,MXC,5,1630222,Mason Jones,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0
+2022200046,254,2,1,2,8:40 PM,5:23,MISS Mathias 25' 3PT Jump Shot,,,,,4,1629751,Dakota Mathias,1612709926.0,Memphis,Hustle,MHU,0,0,,,,,,0,0,,,,,,0
+2022200046,255,4,0,2,8:40 PM,5:19,,,Faried REBOUND (Off:3 Def:4),,,5,202702,Kenneth Faried,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200046,256,6,2,2,8:40 PM,5:16,LaRavia S.FOUL (P1.PN),,,,,4,1631222,Jake LaRavia,1612709926.0,Memphis,Hustle,MHU,5,1630222,Mason Jones,1612709931.0,Mexico City,Capitanes,MXC,1,0,,,,,,0
+2022200046,258,3,31,2,8:41 PM,5:16,,,Jones Free Throw 2PT (12 PTS),50 - 54,4,5,1630222,Mason Jones,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200046,259,1,101,2,8:41 PM,5:03,LaRavia 11' Driving Floating Jump Shot (14 PTS),,,50 - 56,6,4,1631222,Jake LaRavia,1612709926.0,Memphis,Hustle,MHU,0,0,,,,,,0,0,,,,,,0
+2022200046,260,2,1,2,8:41 PM,4:40,,,MISS Mendoza 25' 3PT Jump Shot,,,5,1628150,Rigoberto Mendoza,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200046,261,4,0,2,8:41 PM,4:37,Lofton Jr. REBOUND (Off:0 Def:4),,,,,4,1631254,Kenneth Lofton Jr.,1612709926.0,Memphis,Hustle,MHU,0,0,,,,,,0,0,,,,,,0
+2022200046,262,5,1,2,8:42 PM,4:33,Lofton Jr. Bad Pass Turnover (P3.T7),,Faried STEAL (1 STL),,,4,1631254,Kenneth Lofton Jr.,1612709926.0,Memphis,Hustle,MHU,5,202702,Kenneth Faried,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0
+2022200046,264,1,98,2,8:42 PM,4:28,,,Minaya 3' Cutting Layup Shot (4 PTS) (Pacheco 3 AST),52 - 56,4,5,1631303,Justin Minaya,1612709931.0,Mexico City,Capitanes,MXC,5,1631344,Caio Pacheco,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0
+2022200046,266,2,63,2,8:42 PM,4:06,MISS Lofton Jr. 5' Fadeaway Jumper,,,,,4,1631254,Kenneth Lofton Jr.,1612709926.0,Memphis,Hustle,MHU,0,0,,,,,,0,0,,,,,,0
+2022200046,267,4,0,2,8:42 PM,4:02,Williams Jr. REBOUND (Off:1 Def:3),,,,,4,1631246,Vince Williams Jr.,1612709926.0,Memphis,Hustle,MHU,0,0,,,,,,0,0,,,,,,0
+2022200046,268,1,72,2,8:42 PM,4:02,Williams Jr. Putback Layup (9 PTS),,,52 - 58,6,4,1631246,Vince Williams Jr.,1612709926.0,Memphis,Hustle,MHU,0,0,,,,,,0,0,,,,,,0
+2022200046,269,2,5,2,8:42 PM,3:52,,,MISS Jones 4' Layup,,,5,1630222,Mason Jones,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200046,270,4,0,2,8:42 PM,3:48,LaRavia REBOUND (Off:1 Def:3),,,,,4,1631222,Jake LaRavia,1612709926.0,Memphis,Hustle,MHU,0,0,,,,,,0,0,,,,,,0
+2022200046,271,2,1,2,8:42 PM,3:38,MISS LaRavia 27' 3PT Jump Shot,,,,,4,1631222,Jake LaRavia,1612709926.0,Memphis,Hustle,MHU,0,0,,,,,,0,0,,,,,,0
+2022200046,272,4,0,2,8:43 PM,3:34,,,Faried REBOUND (Off:3 Def:5),,,5,202702,Kenneth Faried,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200046,273,2,78,2,8:43 PM,3:30,,,MISS Minaya 7' Floating Jump Shot,,,5,1631303,Justin Minaya,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200046,274,4,0,2,8:43 PM,3:26,,,Mendoza REBOUND (Off:1 Def:0),,,5,1628150,Rigoberto Mendoza,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200046,275,2,47,2,8:43 PM,3:24,LaRavia BLOCK (1 BLK),,MISS Jones 4' Turnaround Jump Shot,,,5,1630222,Mason Jones,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,4,1631222,Jake LaRavia,1612709926.0,Memphis,Hustle,MHU,0
+2022200046,277,4,0,2,8:43 PM,3:24,,,Jones REBOUND (Off:1 Def:2),,,5,1630222,Mason Jones,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200046,278,1,1,2,8:43 PM,3:21,,,Jones 24' 3PT Jump Shot (15 PTS),55 - 58,3,5,1630222,Mason Jones,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200046,279,2,1,2,8:43 PM,3:04,MISS Chandler 26' 3PT Jump Shot,,,,,4,1631113,Kennedy Chandler,1612709926.0,Memphis,Hustle,MHU,0,0,,,,,,0,0,,,,,,0
+2022200046,280,4,0,2,8:43 PM,3:00,,,Jones REBOUND (Off:1 Def:3),,,5,1630222,Mason Jones,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200046,281,1,63,2,8:43 PM,2:39,,,Mendoza 14' Fadeaway Jumper (9 PTS) (Jones 3 AST),57 - 58,1,5,1628150,Rigoberto Mendoza,1612709931.0,Mexico City,Capitanes,MXC,5,1630222,Mason Jones,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0
+2022200046,283,2,1,2,8:44 PM,2:22,MISS Lofton Jr. 26' 3PT Jump Shot,,,,,4,1631254,Kenneth Lofton Jr.,1612709926.0,Memphis,Hustle,MHU,0,0,,,,,,0,0,,,,,,0
+2022200046,284,4,0,2,8:44 PM,2:19,,,Pacheco REBOUND (Off:0 Def:1),,,5,1631344,Caio Pacheco,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200046,285,2,44,2,8:44 PM,2:14,,,MISS Minaya 3' Reverse Layup,,,5,1631303,Justin Minaya,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200046,287,1,97,2,8:44 PM,2:11,,,Faried Tip Layup Shot (6 PTS),59 - 58,-1,5,202702,Kenneth Faried,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200046,286,4,0,2,8:44 PM,2:11,,,Faried REBOUND (Off:4 Def:5),,,5,202702,Kenneth Faried,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200046,289,8,0,2,8:45 PM,2:09,,,SUB: Clark FOR Mendoza,,,5,1628150,Rigoberto Mendoza,1612709931.0,Mexico City,Capitanes,MXC,5,1629109,Gary Clark,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0
+2022200046,291,8,0,2,8:45 PM,2:09,SUB: Gilyard FOR LaRavia,,,,,4,1631222,Jake LaRavia,1612709926.0,Memphis,Hustle,MHU,4,1631367,Jacob Gilyard,1612709926.0,Memphis,Hustle,MHU,0,0,,,,,,0
+2022200046,293,5,1,2,8:45 PM,1:58,Chandler Bad Pass Turnover (P1.T8),,Pacheco STEAL (1 STL),,,4,1631113,Kennedy Chandler,1612709926.0,Memphis,Hustle,MHU,5,1631344,Caio Pacheco,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0
+2022200046,295,2,41,2,8:45 PM,1:54,,,MISS Pacheco 3' Running Layup,,,5,1631344,Caio Pacheco,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200046,296,4,0,2,8:45 PM,1:50,,,Clark REBOUND (Off:1 Def:2),,,5,1629109,Gary Clark,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200046,297,1,72,2,8:45 PM,1:50,,,Clark Putback Layup (10 PTS),61 - 58,-3,5,1629109,Gary Clark,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200046,298,1,1,2,8:46 PM,1:40,Mathias 3PT Jump Shot (11 PTS) (Gilyard 5 AST),,,61 - 61,TIE,4,1629751,Dakota Mathias,1612709926.0,Memphis,Hustle,MHU,4,1631367,Jacob Gilyard,1612709926.0,Memphis,Hustle,MHU,0,0,,,,,,0
+2022200046,300,6,2,2,8:46 PM,1:21,Williams Jr. S.FOUL (P1.PN),,,,,4,1631246,Vince Williams Jr.,1612709926.0,Memphis,Hustle,MHU,5,1629109,Gary Clark,1612709931.0,Mexico City,Capitanes,MXC,1,0,,,,,,0
+2022200046,302,9,1,2,8:46 PM,1:21,,,Capitanes Timeout: Regular (Reg.2 Short 0),,,3,1612709931,,,,,,0,0,,,,,,0,0,,,,,,0
+2022200046,303,8,0,2,8:48 PM,1:21,,,SUB: Napier FOR Faried,,,5,202702,Kenneth Faried,1612709931.0,Mexico City,Capitanes,MXC,5,203894,Shabazz Napier,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0
+2022200046,305,3,31,2,8:48 PM,1:21,,,Clark Free Throw 2PT (12 PTS),63 - 61,-2,5,1629109,Gary Clark,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200046,306,5,1,2,8:48 PM,1:11,Mathias Bad Pass Turnover (P2.T9),,Clark STEAL (1 STL),,,4,1629751,Dakota Mathias,1612709926.0,Memphis,Hustle,MHU,5,1629109,Gary Clark,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0
+2022200046,309,1,86,2,8:49 PM,0:51,,,Napier 17' Turnaround Fadeaway (14 PTS),65 - 61,-4,5,203894,Shabazz Napier,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200046,310,1,101,2,8:50 PM,0:30,Lofton Jr. 5' Driving Floating Jump Shot (8 PTS),,,65 - 63,-2,4,1631254,Kenneth Lofton Jr.,1612709926.0,Memphis,Hustle,MHU,0,0,,,,,,0,0,,,,,,0
+2022200046,311,2,86,2,8:50 PM,0:06,,,MISS Clark 16' Turnaround Fadeaway Shot,,,5,1629109,Gary Clark,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200046,312,4,0,2,8:50 PM,0:04,,,Jones REBOUND (Off:2 Def:3),,,5,1630222,Mason Jones,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200046,313,1,72,2,8:50 PM,0:04,,,Jones Putback Layup (17 PTS),67 - 63,-4,5,1630222,Mason Jones,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200046,314,2,1,2,8:50 PM,0:00,MISS Mathias 43' 3PT Jump Shot,,,,,4,1629751,Dakota Mathias,1612709926.0,Memphis,Hustle,MHU,0,0,,,,,,0,0,,,,,,0
+2022200046,315,4,0,2,8:50 PM,0:00,HUSTLE Rebound,,,,,2,1612709926,,,,,,0,0,,,,,,0,0,,,,,,0
+2022200046,316,13,0,2,8:50 PM,0:00,,End of 2nd Period (8:50 PM EST),,67 - 63,-4,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+2022200046,323,12,0,3,9:06 PM,12:00,,Start of 3rd Period (9:06 PM EST),,67 - 63,-4,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+2022200046,324,2,80,3,9:06 PM,11:47,Williams Jr. BLOCK (1 BLK),,MISS Clark 26' 3PT Step Back Jump Shot,,,5,1629109,Gary Clark,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,4,1631246,Vince Williams Jr.,1612709926.0,Memphis,Hustle,MHU,0
+2022200046,325,4,0,3,9:06 PM,11:41,Lofton Jr. REBOUND (Off:0 Def:5),,,,,4,1631254,Kenneth Lofton Jr.,1612709926.0,Memphis,Hustle,MHU,0,0,,,,,,0,0,,,,,,0
+2022200046,327,2,1,3,9:07 PM,11:31,MISS Chandler 25' 3PT Jump Shot,,,,,4,1631113,Kennedy Chandler,1612709926.0,Memphis,Hustle,MHU,0,0,,,,,,0,0,,,,,,0
+2022200046,328,4,0,3,9:07 PM,11:28,,,Jones REBOUND (Off:2 Def:4),,,5,1630222,Mason Jones,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200046,329,6,2,3,9:07 PM,11:24,Chandler S.FOUL (P2.T1),,,,,4,1631113,Kennedy Chandler,1612709926.0,Memphis,Hustle,MHU,5,1630222,Mason Jones,1612709931.0,Mexico City,Capitanes,MXC,1,0,,,,,,0
+2022200046,331,3,31,3,9:07 PM,11:24,,,MISS Jones Free Throw 2PT,,,5,1630222,Mason Jones,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200046,332,4,0,3,9:07 PM,11:22,Williams Jr. REBOUND (Off:1 Def:4),,,,,4,1631246,Vince Williams Jr.,1612709926.0,Memphis,Hustle,MHU,0,0,,,,,,0,0,,,,,,0
+2022200046,333,5,1,3,9:07 PM,11:13,Williams Jr. Bad Pass Turnover (P1.T10),,Minaya STEAL (1 STL),,,4,1631246,Vince Williams Jr.,1612709926.0,Memphis,Hustle,MHU,5,1631303,Justin Minaya,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0
+2022200046,335,6,2,3,9:07 PM,11:11,Chandler S.FOUL (P3.T2),,,,,4,1631113,Kennedy Chandler,1612709926.0,Memphis,Hustle,MHU,5,1631303,Justin Minaya,1612709931.0,Mexico City,Capitanes,MXC,1,0,,,,,,0
+2022200046,337,3,31,3,9:08 PM,11:11,,,MISS Minaya Free Throw 2PT,,,5,1631303,Justin Minaya,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200046,338,4,0,3,9:08 PM,11:08,Mathias REBOUND (Off:1 Def:2),,,,,4,1629751,Dakota Mathias,1612709926.0,Memphis,Hustle,MHU,0,0,,,,,,0,0,,,,,,0
+2022200046,339,2,1,3,9:08 PM,10:54,MISS Williams Jr. 26' 3PT Jump Shot,,,,,4,1631246,Vince Williams Jr.,1612709926.0,Memphis,Hustle,MHU,0,0,,,,,,0,0,,,,,,0
+2022200046,340,4,0,3,9:08 PM,10:49,,,Clark REBOUND (Off:1 Def:3),,,5,1629109,Gary Clark,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200046,341,10,0,3,9:09 PM,10:47,Jump Ball Lofton Jr. vs. Clark: Tip to Mathias,,,,,4,1631254,Kenneth Lofton Jr.,1612709926.0,Memphis,Hustle,MHU,5,1629109,Gary Clark,1612709931.0,Mexico City,Capitanes,MXC,4,1629751,Dakota Mathias,1612709926.0,Memphis,Hustle,MHU,0
+2022200046,344,5,2,3,9:09 PM,10:47,Lofton Jr. STEAL (2 STL),,Clark Lost Ball Turnover (P2.T7),,,5,1629109,Gary Clark,1612709931.0,Mexico City,Capitanes,MXC,4,1631254,Kenneth Lofton Jr.,1612709926.0,Memphis,Hustle,MHU,0,0,,,,,,0
+2022200046,346,2,1,3,9:09 PM,10:45,MISS Mathias 19' Jump Shot,,,,,4,1629751,Dakota Mathias,1612709926.0,Memphis,Hustle,MHU,0,0,,,,,,0,0,,,,,,0
+2022200046,347,4,0,3,9:09 PM,10:42,Lofton Jr. REBOUND (Off:1 Def:5),,,,,4,1631254,Kenneth Lofton Jr.,1612709926.0,Memphis,Hustle,MHU,0,0,,,,,,0,0,,,,,,0
+2022200046,348,2,72,3,9:09 PM,10:42,MISS Lofton Jr. Putback Layup,,,,,4,1631254,Kenneth Lofton Jr.,1612709926.0,Memphis,Hustle,MHU,0,0,,,,,,0,0,,,,,,0
+2022200046,349,4,0,3,9:09 PM,10:42,Williams Jr. REBOUND (Off:2 Def:4),,,,,4,1631246,Vince Williams Jr.,1612709926.0,Memphis,Hustle,MHU,0,0,,,,,,0,0,,,,,,0
+2022200046,350,1,72,3,9:09 PM,10:42,Williams Jr. 3' Putback Layup (11 PTS),,,67 - 65,-2,4,1631246,Vince Williams Jr.,1612709926.0,Memphis,Hustle,MHU,0,0,,,,,,0,0,,,,,,0
+2022200046,351,6,2,3,9:09 PM,10:42,,,Minaya S.FOUL (P1.T1),,,5,1631303,Justin Minaya,1612709931.0,Mexico City,Capitanes,MXC,4,1631246,Vince Williams Jr.,1612709926.0,Memphis,Hustle,MHU,1,0,,,,,,0
+2022200046,353,3,30,3,9:09 PM,10:42,Williams Jr. Free Throw 1PT (12 PTS),,,67 - 66,-1,4,1631246,Vince Williams Jr.,1612709926.0,Memphis,Hustle,MHU,0,0,,,,,,0,0,,,,,,0
+2022200046,354,1,1,3,9:10 PM,10:29,,,Clark 24' 3PT Jump Shot (15 PTS) (Jones 4 AST),70 - 66,-4,5,1629109,Gary Clark,1612709931.0,Mexico City,Capitanes,MXC,5,1630222,Mason Jones,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0
+2022200046,356,6,26,3,9:10 PM,10:12,LaRavia Offensive Charge Foul (P2),,,,,4,1631222,Jake LaRavia,1612709926.0,Memphis,Hustle,MHU,5,1629109,Gary Clark,1612709931.0,Mexico City,Capitanes,MXC,1,0,,,,,,0
+2022200046,358,5,37,3,9:10 PM,10:12,LaRavia Offensive Foul Turnover (P1.T11),,,,,4,1631222,Jake LaRavia,1612709926.0,Memphis,Hustle,MHU,0,0,,,,,,1,0,,,,,,0
+2022200046,359,2,1,3,9:10 PM,10:02,,,MISS Clark 26' 3PT Jump Shot,,,5,1629109,Gary Clark,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200046,360,4,0,3,9:11 PM,9:58,Chandler REBOUND (Off:0 Def:1),,,,,4,1631113,Kennedy Chandler,1612709926.0,Memphis,Hustle,MHU,0,0,,,,,,0,0,,,,,,0
+2022200046,361,1,71,3,9:11 PM,9:55,Chandler 4' Finger Roll Layup (6 PTS),,,70 - 68,-2,4,1631113,Kennedy Chandler,1612709926.0,Memphis,Hustle,MHU,0,0,,,,,,0,0,,,,,,0
+2022200046,362,7,2,3,9:11 PM,9:55,,,Faried Violation:Defensive Goaltending,,,5,202702,Kenneth Faried,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,1,0,,,,,,0
+2022200046,364,5,11,3,9:12 PM,9:30,,,Capitanes Turnover: Shot Clock (T#8),,,3,1612709931,,,,,,0,0,,,,,,1,0,,,,,,0
+2022200046,365,2,5,3,9:13 PM,9:13,MISS Chandler 3' Layup,,Faried BLOCK (3 BLK),,,4,1631113,Kennedy Chandler,1612709926.0,Memphis,Hustle,MHU,0,0,,,,,,5,202702,Kenneth Faried,1612709931.0,Mexico City,Capitanes,MXC,0
+2022200046,367,4,0,3,9:13 PM,9:10,,,Faried REBOUND (Off:4 Def:6),,,5,202702,Kenneth Faried,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200046,368,1,80,3,9:13 PM,9:00,,,Jones 26' 3PT Step Back Jump Shot (20 PTS),73 - 68,-5,5,1630222,Mason Jones,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200046,369,2,57,3,9:13 PM,8:36,MISS Lofton Jr. 3' Driving Hook Shot,,,,,4,1631254,Kenneth Lofton Jr.,1612709926.0,Memphis,Hustle,MHU,0,0,,,,,,0,0,,,,,,0
+2022200046,370,4,0,3,9:13 PM,8:32,Lofton Jr. REBOUND (Off:2 Def:5),,,,,4,1631254,Kenneth Lofton Jr.,1612709926.0,Memphis,Hustle,MHU,0,0,,,,,,0,0,,,,,,0
+2022200046,371,1,72,3,9:13 PM,8:32,Lofton Jr. Putback Layup (10 PTS),,,73 - 70,-3,4,1631254,Kenneth Lofton Jr.,1612709926.0,Memphis,Hustle,MHU,0,0,,,,,,0,0,,,,,,0
+2022200046,372,2,6,3,9:13 PM,8:17,Williams Jr. BLOCK (2 BLK),,MISS Clark 2' Driving Layup,,,5,1629109,Gary Clark,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,4,1631246,Vince Williams Jr.,1612709926.0,Memphis,Hustle,MHU,0
+2022200046,374,4,0,3,9:13 PM,8:17,,,Capitanes Rebound,,,3,1612709931,,,,,,0,0,,,,,,0,0,,,,,,0
+2022200046,376,5,2,3,9:14 PM,8:15,Williams Jr. STEAL (2 STL),,Mendoza Lost Ball Turnover (P2.T9),,,5,1628150,Rigoberto Mendoza,1612709931.0,Mexico City,Capitanes,MXC,4,1631246,Vince Williams Jr.,1612709926.0,Memphis,Hustle,MHU,0,0,,,,,,0
+2022200046,378,1,50,3,9:14 PM,8:11,LaRavia 1' Running Dunk (16 PTS) (Williams Jr. 1 AST),,,73 - 72,-1,4,1631222,Jake LaRavia,1612709926.0,Memphis,Hustle,MHU,4,1631246,Vince Williams Jr.,1612709926.0,Memphis,Hustle,MHU,0,0,,,,,,0
+2022200046,380,2,80,3,9:14 PM,7:45,,,MISS Jones 26' 3PT Step Back Jump Shot,,,5,1630222,Mason Jones,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200046,381,4,0,3,9:14 PM,7:42,,,Minaya REBOUND (Off:1 Def:0),,,5,1631303,Justin Minaya,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200046,382,2,1,3,9:14 PM,7:41,,,MISS Jones 25' 3PT Jump Shot,,,5,1630222,Mason Jones,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200046,383,4,0,3,9:14 PM,7:37,Mathias REBOUND (Off:1 Def:3),,,,,4,1629751,Dakota Mathias,1612709926.0,Memphis,Hustle,MHU,0,0,,,,,,0,0,,,,,,0
+2022200046,384,1,1,3,9:14 PM,7:33,Williams Jr. 3PT Jump Shot (15 PTS) (Mathias 1 AST),,,73 - 75,2,4,1631246,Vince Williams Jr.,1612709926.0,Memphis,Hustle,MHU,4,1629751,Dakota Mathias,1612709926.0,Memphis,Hustle,MHU,0,0,,,,,,0
+2022200046,386,1,1,3,9:15 PM,7:06,,,Clark 20' Jump Shot (17 PTS) (Mendoza 1 AST),75 - 75,TIE,5,1629109,Gary Clark,1612709931.0,Mexico City,Capitanes,MXC,5,1628150,Rigoberto Mendoza,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0
+2022200046,388,2,86,3,9:15 PM,7:00,MISS LaRavia 21' Turnaround Fadeaway Shot,,,,,4,1631222,Jake LaRavia,1612709926.0,Memphis,Hustle,MHU,0,0,,,,,,0,0,,,,,,0
+2022200046,389,4,0,3,9:15 PM,6:56,,,Clark REBOUND (Off:1 Def:4),,,5,1629109,Gary Clark,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200046,390,2,1,3,9:15 PM,6:49,,,MISS Clark 26' 3PT Jump Shot,,,5,1629109,Gary Clark,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200046,391,4,0,3,9:15 PM,6:45,,,Faried REBOUND (Off:5 Def:6),,,5,202702,Kenneth Faried,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200046,392,1,72,3,9:15 PM,6:45,,,Faried Putback Layup (8 PTS),77 - 75,-2,5,202702,Kenneth Faried,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200046,393,1,98,3,9:15 PM,6:41,Williams Jr. 2' Cutting Layup Shot (17 PTS) (Chandler 4 AST),,,77 - 77,TIE,4,1631246,Vince Williams Jr.,1612709926.0,Memphis,Hustle,MHU,4,1631113,Kennedy Chandler,1612709926.0,Memphis,Hustle,MHU,0,0,,,,,,0
+2022200046,394,6,2,3,9:16 PM,6:28,Williams Jr. S.FOUL (P2.T3),,,,,4,1631246,Vince Williams Jr.,1612709926.0,Memphis,Hustle,MHU,5,1630222,Mason Jones,1612709931.0,Mexico City,Capitanes,MXC,1,0,,,,,,0
+2022200046,396,9,1,3,9:16 PM,6:28,HUSTLE Timeout: Regular (Full 3 Short 0),,,,,2,1612709926,,,,,,0,0,,,,,,0,0,,,,,,0
+2022200046,397,8,0,3,9:17 PM,6:28,,,SUB: Napier FOR Faried,,,5,202702,Kenneth Faried,1612709931.0,Mexico City,Capitanes,MXC,5,203894,Shabazz Napier,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0
+2022200046,398,8,0,3,9:17 PM,6:28,,,SUB: McKinnie FOR Mendoza,,,5,1628150,Rigoberto Mendoza,1612709931.0,Mexico City,Capitanes,MXC,5,1628035,Alfonzo McKinnie,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0
+2022200046,401,3,31,3,9:18 PM,6:28,,,Jones Free Throw 2PT (22 PTS),79 - 77,-2,5,1630222,Mason Jones,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200046,402,6,1,3,9:18 PM,6:12,,,Clark P.FOUL (P1.T2),,,5,1629109,Gary Clark,1612709931.0,Mexico City,Capitanes,MXC,4,1631254,Kenneth Lofton Jr.,1612709926.0,Memphis,Hustle,MHU,1,0,,,,,,0
+2022200046,404,2,1,3,9:19 PM,6:06,MISS Mathias 26' 3PT Jump Shot,,,,,4,1629751,Dakota Mathias,1612709926.0,Memphis,Hustle,MHU,0,0,,,,,,0,0,,,,,,0
+2022200046,405,4,0,3,9:19 PM,6:05,,,Capitanes Rebound,,,3,1612709931,,,,,,0,0,,,,,,0,0,,,,,,0
+2022200046,407,1,79,3,9:19 PM,5:43,,,Clark 27' 3PT Pullup Jump Shot (20 PTS),82 - 77,-5,5,1629109,Gary Clark,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200046,408,1,1,3,9:19 PM,5:32,Mathias 24' 3PT Jump Shot (14 PTS) (LaRavia 3 AST),,,82 - 80,-2,4,1629751,Dakota Mathias,1612709926.0,Memphis,Hustle,MHU,4,1631222,Jake LaRavia,1612709926.0,Memphis,Hustle,MHU,0,0,,,,,,0
+2022200046,410,1,1,3,9:20 PM,5:13,,,Minaya 26' 3PT Jump Shot (7 PTS) (McKinnie 1 AST),85 - 80,-5,5,1631303,Justin Minaya,1612709931.0,Mexico City,Capitanes,MXC,5,1628035,Alfonzo McKinnie,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0
+2022200046,413,1,75,3,9:20 PM,5:00,Chandler 2' Driving Finger Roll Layup (8 PTS),,,85 - 82,-3,4,1631113,Kennedy Chandler,1612709926.0,Memphis,Hustle,MHU,0,0,,,,,,0,0,,,,,,0
+2022200046,414,5,4,3,9:20 PM,4:58,,,Jones Traveling Turnover (P2.T10),,,5,1630222,Mason Jones,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,1,0,,,,,,0
+2022200046,415,8,0,3,9:20 PM,4:58,SUB: Bean FOR LaRavia,,,,,4,1631222,Jake LaRavia,1612709926.0,Memphis,Hustle,MHU,4,1631368,Justin Bean,1612709926.0,Memphis,Hustle,MHU,0,0,,,,,,0
+2022200046,416,8,0,3,9:20 PM,4:58,SUB: Jefferson FOR Mathias,,,,,4,1629751,Dakota Mathias,1612709926.0,Memphis,Hustle,MHU,4,1630808,Damien Jefferson,1612709926.0,Memphis,Hustle,MHU,0,0,,,,,,0
+2022200046,417,8,0,3,9:20 PM,4:58,,,SUB: Pacheco FOR Minaya,,,5,1631303,Justin Minaya,1612709931.0,Mexico City,Capitanes,MXC,5,1631344,Caio Pacheco,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0
+2022200046,421,6,2,3,9:21 PM,4:49,,,Jones S.FOUL (P2.T3),,,5,1630222,Mason Jones,1612709931.0,Mexico City,Capitanes,MXC,4,1630808,Damien Jefferson,1612709926.0,Memphis,Hustle,MHU,1,0,,,,,,0
+2022200046,423,3,31,3,9:21 PM,4:49,Jefferson Free Throw 2PT (9 PTS),,,85 - 84,-1,4,1630808,Damien Jefferson,1612709926.0,Memphis,Hustle,MHU,0,0,,,,,,0,0,,,,,,0
+2022200046,425,2,1,3,9:22 PM,4:29,,,MISS Clark 26' 3PT Jump Shot,,,5,1629109,Gary Clark,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200046,426,4,0,3,9:22 PM,4:28,,,Capitanes Rebound,,,3,1612709931,,,,,,0,0,,,,,,0,0,,,,,,0
+2022200046,427,6,3,3,9:22 PM,4:28,Chandler L.B.FOUL (P4.T4),,,,,4,1631113,Kennedy Chandler,1612709926.0,Memphis,Hustle,MHU,5,1630222,Mason Jones,1612709931.0,Mexico City,Capitanes,MXC,1,0,,,,,,0
+2022200046,429,2,57,3,9:22 PM,4:13,,,MISS McKinnie 11' Driving Hook Shot,,,5,1628035,Alfonzo McKinnie,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200046,430,4,0,3,9:22 PM,4:10,Williams Jr. REBOUND (Off:2 Def:5),,,,,4,1631246,Vince Williams Jr.,1612709926.0,Memphis,Hustle,MHU,0,0,,,,,,0,0,,,,,,0
+2022200046,431,2,44,3,9:23 PM,3:58,MISS Chandler 3' Reverse Layup,,Clark BLOCK (1 BLK),,,4,1631113,Kennedy Chandler,1612709926.0,Memphis,Hustle,MHU,0,0,,,,,,5,1629109,Gary Clark,1612709931.0,Mexico City,Capitanes,MXC,0
+2022200046,433,4,0,3,9:23 PM,3:53,Jefferson REBOUND (Off:2 Def:1),,,,,4,1630808,Damien Jefferson,1612709926.0,Memphis,Hustle,MHU,0,0,,,,,,0,0,,,,,,0
+2022200046,434,1,5,3,9:23 PM,3:52,Jefferson 3' Layup (11 PTS),,,85 - 86,1,4,1630808,Damien Jefferson,1612709926.0,Memphis,Hustle,MHU,0,0,,,,,,0,0,,,,,,0
+2022200046,435,7,1,3,9:23 PM,3:52,HUSTLE Violation: Delay of game Violation,,,,,2,1612709926,,,,,,0,0,,,,,,1,0,,,,,,0
+2022200046,436,6,1,3,9:23 PM,3:42,Lofton Jr. P.FOUL (P2.PN),,,,,4,1631254,Kenneth Lofton Jr.,1612709926.0,Memphis,Hustle,MHU,5,203894,Shabazz Napier,1612709931.0,Mexico City,Capitanes,MXC,1,0,,,,,,0
+2022200046,438,8,0,3,9:23 PM,3:42,SUB: Gilyard FOR Chandler,,,,,4,1631113,Kennedy Chandler,1612709926.0,Memphis,Hustle,MHU,4,1631367,Jacob Gilyard,1612709926.0,Memphis,Hustle,MHU,0,0,,,,,,0
+2022200046,439,8,0,3,9:23 PM,3:42,,,SUB: Faried FOR Clark,,,5,1629109,Gary Clark,1612709931.0,Mexico City,Capitanes,MXC,5,202702,Kenneth Faried,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0
+2022200046,442,3,31,3,9:24 PM,3:42,,,MISS Napier Free Throw 2PT,,,5,203894,Shabazz Napier,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200046,443,4,0,3,9:24 PM,3:40,Bean REBOUND (Off:0 Def:1),,,,,4,1631368,Justin Bean,1612709926.0,Memphis,Hustle,MHU,0,0,,,,,,0,0,,,,,,0
+2022200046,444,5,2,3,9:24 PM,3:27,Bean Lost Ball Turnover (P1.T12),,Jones STEAL (1 STL),,,4,1631368,Justin Bean,1612709926.0,Memphis,Hustle,MHU,5,1630222,Mason Jones,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0
+2022200046,446,2,7,3,9:24 PM,3:21,Bean BLOCK (1 BLK),,MISS McKinnie 2' Dunk,,,5,1628035,Alfonzo McKinnie,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,4,1631368,Justin Bean,1612709926.0,Memphis,Hustle,MHU,0
+2022200046,448,4,0,3,9:24 PM,3:16,Jefferson REBOUND (Off:2 Def:2),,,,,4,1630808,Damien Jefferson,1612709926.0,Memphis,Hustle,MHU,0,0,,,,,,0,0,,,,,,0
+2022200046,449,1,41,3,9:24 PM,3:16,Jefferson 3' Running Layup (13 PTS),,,85 - 88,3,4,1630808,Damien Jefferson,1612709926.0,Memphis,Hustle,MHU,0,0,,,,,,0,0,,,,,,0
+2022200046,450,5,2,3,9:24 PM,3:04,Lofton Jr. STEAL (3 STL),,Jones Lost Ball Turnover (P3.T11),,,5,1630222,Mason Jones,1612709931.0,Mexico City,Capitanes,MXC,4,1631254,Kenneth Lofton Jr.,1612709926.0,Memphis,Hustle,MHU,0,0,,,,,,0
+2022200046,452,5,1,3,9:24 PM,3:00,Lofton Jr. Bad Pass Turnover (P4.T13),,,,,4,1631254,Kenneth Lofton Jr.,1612709926.0,Memphis,Hustle,MHU,0,0,,,,,,0,0,,,,,,0
+2022200046,453,8,0,3,9:24 PM,3:00,SUB: Weems FOR Williams Jr.,,,,,4,1631246,Vince Williams Jr.,1612709926.0,Memphis,Hustle,MHU,4,1630651,Romeo Weems,1612709926.0,Memphis,Hustle,MHU,0,0,,,,,,0
+2022200046,454,8,0,3,9:24 PM,3:00,SUB: Hurt FOR Lofton Jr.,,,,,4,1631254,Kenneth Lofton Jr.,1612709926.0,Memphis,Hustle,MHU,4,1630562,Matt Hurt,1612709926.0,Memphis,Hustle,MHU,0,0,,,,,,0
+2022200046,455,8,0,3,9:24 PM,3:00,,,SUB: Mendoza FOR Jones,,,5,1630222,Mason Jones,1612709931.0,Mexico City,Capitanes,MXC,5,1628150,Rigoberto Mendoza,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0
+2022200046,459,2,98,3,9:25 PM,2:46,Hurt BLOCK (2 BLK),,MISS Mendoza 2' Cutting Layup Shot,,,5,1628150,Rigoberto Mendoza,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,4,1630562,Matt Hurt,1612709926.0,Memphis,Hustle,MHU,0
+2022200046,461,4,0,3,9:25 PM,2:43,Jefferson REBOUND (Off:2 Def:3),,,,,4,1630808,Damien Jefferson,1612709926.0,Memphis,Hustle,MHU,0,0,,,,,,0,0,,,,,,0
+2022200046,462,2,2,3,9:25 PM,2:41,MISS Gilyard 26' 3PT Running Jump Shot,,,,,4,1631367,Jacob Gilyard,1612709926.0,Memphis,Hustle,MHU,0,0,,,,,,0,0,,,,,,0
+2022200046,463,4,0,3,9:25 PM,2:41,Bean REBOUND (Off:1 Def:1),,,,,4,1631368,Justin Bean,1612709926.0,Memphis,Hustle,MHU,0,0,,,,,,0,0,,,,,,0
+2022200046,464,1,97,3,9:25 PM,2:39,Bean Tip Layup Shot (4 PTS),,,85 - 90,5,4,1631368,Justin Bean,1612709926.0,Memphis,Hustle,MHU,0,0,,,,,,0,0,,,,,,0
+2022200046,465,9,1,3,9:25 PM,2:39,,,Capitanes Timeout: Regular (Reg.3 Short 0),,,3,1612709931,,,,,,0,0,,,,,,0,0,,,,,,0
+2022200046,466,2,79,3,9:27 PM,2:26,,,MISS Napier 18' Pullup Jump Shot,,,5,203894,Shabazz Napier,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200046,468,2,87,3,9:28 PM,2:16,,,MISS McKinnie Putback Dunk,,,5,1628035,Alfonzo McKinnie,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200046,469,4,0,3,9:28 PM,2:16,Weems REBOUND (Off:0 Def:3),,,,,4,1630651,Romeo Weems,1612709926.0,Memphis,Hustle,MHU,0,0,,,,,,0,0,,,,,,0
+2022200046,467,4,0,3,9:28 PM,2:16,,,McKinnie REBOUND (Off:1 Def:1),,,5,1628035,Alfonzo McKinnie,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200046,470,2,80,3,9:28 PM,2:05,MISS Weems 3PT Step Back Jump Shot,,,,,4,1630651,Romeo Weems,1612709926.0,Memphis,Hustle,MHU,0,0,,,,,,0,0,,,,,,0
+2022200046,471,4,0,3,9:28 PM,2:04,,,Capitanes Rebound,,,3,1612709931,,,,,,0,0,,,,,,0,0,,,,,,0
+2022200046,473,1,79,3,9:28 PM,1:50,,,Napier 26' 3PT Pullup Jump Shot (17 PTS),88 - 90,2,5,203894,Shabazz Napier,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200046,474,1,1,3,9:29 PM,1:28,Jefferson 11' Jump Shot (15 PTS),,,88 - 92,4,4,1630808,Damien Jefferson,1612709926.0,Memphis,Hustle,MHU,0,0,,,,,,0,0,,,,,,0
+2022200046,475,1,1,3,9:29 PM,1:11,,,Napier 26' 3PT Jump Shot (20 PTS) (Mendoza 2 AST),91 - 92,1,5,203894,Shabazz Napier,1612709931.0,Mexico City,Capitanes,MXC,5,1628150,Rigoberto Mendoza,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0
+2022200046,477,9,1,3,9:29 PM,1:10,HUSTLE Timeout: Regular (Full 4 Short 0),,,,,2,1612709926,,,,,,0,0,,,,,,0,0,,,,,,0
+2022200046,478,2,63,3,9:30 PM,0:52,MISS Jefferson 12' Fadeaway Jumper,,,,,4,1630808,Damien Jefferson,1612709926.0,Memphis,Hustle,MHU,0,0,,,,,,0,0,,,,,,0
+2022200046,479,4,0,3,9:30 PM,0:48,,,Pacheco REBOUND (Off:0 Def:2),,,5,1631344,Caio Pacheco,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200046,480,6,2,3,9:30 PM,0:35,Jefferson S.FOUL (P1.PN),,,,,4,1630808,Damien Jefferson,1612709926.0,Memphis,Hustle,MHU,5,1628150,Rigoberto Mendoza,1612709931.0,Mexico City,Capitanes,MXC,1,0,,,,,,0
+2022200046,482,3,31,3,9:31 PM,0:35,,,Mendoza Free Throw 2PT (11 PTS),93 - 92,-1,5,1628150,Rigoberto Mendoza,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200046,483,1,75,3,9:31 PM,0:28,Jefferson 3' Driving Finger Roll Layup (17 PTS) (Hurt 1 AST),,,93 - 94,1,4,1630808,Damien Jefferson,1612709926.0,Memphis,Hustle,MHU,4,1630562,Matt Hurt,1612709926.0,Memphis,Hustle,MHU,0,0,,,,,,0
+2022200046,485,2,1,3,9:31 PM,0:10,,,MISS Napier 26' 3PT Jump Shot,,,5,203894,Shabazz Napier,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200046,486,4,0,3,9:31 PM,0:05,,,Faried REBOUND (Off:6 Def:6),,,5,202702,Kenneth Faried,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200046,487,1,3,3,9:31 PM,0:05,,,Faried 7' Hook Shot (10 PTS),95 - 94,-1,5,202702,Kenneth Faried,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200046,488,2,79,3,9:32 PM,0:00,MISS Jefferson 25' 3PT Pullup Jump Shot,,,,,4,1630808,Damien Jefferson,1612709926.0,Memphis,Hustle,MHU,0,0,,,,,,0,0,,,,,,0
+2022200046,489,4,0,3,9:32 PM,0:00,HUSTLE Rebound,,,,,2,1612709926,,,,,,0,0,,,,,,0,0,,,,,,0
+2022200046,490,13,0,3,9:32 PM,0:00,,End of 3rd Period (9:32 PM EST),,95 - 94,-1,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+2022200046,495,12,0,4,9:34 PM,12:00,,Start of 4th Period (9:34 PM EST),,95 - 94,-1,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+2022200046,496,5,2,4,9:34 PM,11:54,Gilyard Lost Ball Turnover (P2.T14),,Minaya STEAL (2 STL),,,4,1631367,Jacob Gilyard,1612709926.0,Memphis,Hustle,MHU,5,1631303,Justin Minaya,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0
+2022200046,498,1,50,4,9:34 PM,11:50,,,Faried Running Dunk (12 PTS) (Napier 5 AST),97 - 94,-3,5,202702,Kenneth Faried,1612709931.0,Mexico City,Capitanes,MXC,5,203894,Shabazz Napier,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0
+2022200046,500,2,1,4,9:35 PM,11:28,MISS Bean 25' 3PT Jump Shot,,,,,4,1631368,Justin Bean,1612709926.0,Memphis,Hustle,MHU,0,0,,,,,,0,0,,,,,,0
+2022200046,501,4,0,4,9:35 PM,11:25,,,Faried REBOUND (Off:6 Def:7),,,5,202702,Kenneth Faried,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200046,502,1,1,4,9:35 PM,11:10,,,Mendoza 27' 3PT Jump Shot (14 PTS) (Napier 6 AST),100 - 94,-6,5,1628150,Rigoberto Mendoza,1612709931.0,Mexico City,Capitanes,MXC,5,203894,Shabazz Napier,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0
+2022200046,504,1,6,4,9:35 PM,10:47,Jefferson 4' Driving Layup (19 PTS),,,100 - 96,-4,4,1630808,Damien Jefferson,1612709926.0,Memphis,Hustle,MHU,0,0,,,,,,0,0,,,,,,0
+2022200046,505,2,98,4,9:36 PM,10:30,Bean BLOCK (2 BLK),,MISS Faried 1' Cutting Layup Shot,,,5,202702,Kenneth Faried,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,4,1631368,Justin Bean,1612709926.0,Memphis,Hustle,MHU,0
+2022200046,510,4,0,4,9:36 PM,10:25,,,Capitanes Rebound,,,3,1612709931,,,,,,0,0,,,,,,0,0,,,,,,0
+2022200046,507,10,0,4,9:36 PM,10:25,Jump Ball Bean vs. Faried: Tip to Pacheco,,,,,4,1631368,Justin Bean,1612709926.0,Memphis,Hustle,MHU,5,202702,Kenneth Faried,1612709931.0,Mexico City,Capitanes,MXC,5,1631344,Caio Pacheco,1612709931.0,Mexico City,Capitanes,MXC,0
+2022200046,511,2,47,4,9:36 PM,10:20,,,MISS Mendoza 30' 3PT Turnaround Jump Shot,,,5,1628150,Rigoberto Mendoza,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200046,512,4,0,4,9:36 PM,10:16,Bean REBOUND (Off:1 Def:2),,,,,4,1631368,Justin Bean,1612709926.0,Memphis,Hustle,MHU,0,0,,,,,,0,0,,,,,,0
+2022200046,513,6,2,4,9:37 PM,10:06,,,Pacheco S.FOUL (P2.T1),,,5,1631344,Caio Pacheco,1612709931.0,Mexico City,Capitanes,MXC,4,1631222,Jake LaRavia,1612709926.0,Memphis,Hustle,MHU,1,0,,,,,,0
+2022200046,515,3,31,4,9:37 PM,10:06,LaRavia Free Throw 2PT (18 PTS),,,100 - 98,-2,4,1631222,Jake LaRavia,1612709926.0,Memphis,Hustle,MHU,0,0,,,,,,0,0,,,,,,0
+2022200046,516,5,2,4,9:37 PM,9:55,Gilyard STEAL (1 STL),,Napier Lost Ball Turnover (P3.T12),,,5,203894,Shabazz Napier,1612709931.0,Mexico City,Capitanes,MXC,4,1631367,Jacob Gilyard,1612709926.0,Memphis,Hustle,MHU,0,0,,,,,,0
+2022200046,518,1,41,4,9:37 PM,9:50,Gilyard 3' Running Layup (4 PTS) (Hurt 2 AST),,,100 - 100,TIE,4,1631367,Jacob Gilyard,1612709926.0,Memphis,Hustle,MHU,4,1630562,Matt Hurt,1612709926.0,Memphis,Hustle,MHU,0,0,,,,,,0
+2022200046,519,1,58,4,9:38 PM,9:36,,,Faried 3' Turnaround Hook Shot (14 PTS) (Mendoza 3 AST),102 - 100,-2,5,202702,Kenneth Faried,1612709931.0,Mexico City,Capitanes,MXC,5,1628150,Rigoberto Mendoza,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0
+2022200046,520,1,80,4,9:38 PM,9:21,Gilyard 20' Step Back Jump Shot (6 PTS),,,102 - 102,TIE,4,1631367,Jacob Gilyard,1612709926.0,Memphis,Hustle,MHU,0,0,,,,,,0,0,,,,,,0
+2022200046,521,1,79,4,9:38 PM,9:08,,,Napier 17' Pullup Jump Shot (22 PTS),104 - 102,-2,5,203894,Shabazz Napier,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200046,522,6,2,4,9:38 PM,8:58,,,Mendoza S.FOUL (P3.T2),,,5,1628150,Rigoberto Mendoza,1612709931.0,Mexico City,Capitanes,MXC,4,1631367,Jacob Gilyard,1612709926.0,Memphis,Hustle,MHU,1,0,,,,,,0
+2022200046,524,8,0,4,9:38 PM,8:58,,,SUB: Clark FOR Pacheco,,,5,1631344,Caio Pacheco,1612709931.0,Mexico City,Capitanes,MXC,5,1629109,Gary Clark,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0
+2022200046,526,3,31,4,9:39 PM,8:58,Gilyard Free Throw 2PT (8 PTS),,,104 - 104,TIE,4,1631367,Jacob Gilyard,1612709926.0,Memphis,Hustle,MHU,0,0,,,,,,0,0,,,,,,0
+2022200046,527,2,1,4,9:39 PM,8:48,,,MISS Clark 26' 3PT Jump Shot,,,5,1629109,Gary Clark,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200046,528,4,0,4,9:39 PM,8:46,,,Capitanes Rebound,,,3,1612709931,,,,,,0,0,,,,,,0,0,,,,,,0
+2022200046,529,6,3,4,9:39 PM,8:46,Hurt L.B.FOUL (P4.T1),,,,,4,1630562,Matt Hurt,1612709926.0,Memphis,Hustle,MHU,5,202702,Kenneth Faried,1612709931.0,Mexico City,Capitanes,MXC,1,0,,,,,,0
+2022200046,531,8,0,4,9:39 PM,8:46,,,SUB: Jones FOR Faried,,,5,202702,Kenneth Faried,1612709931.0,Mexico City,Capitanes,MXC,5,1630222,Mason Jones,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0
+2022200046,533,1,83,4,9:40 PM,8:36,,,Clark 9' Fadeaway Bank Shot (22 PTS),106 - 104,-2,5,1629109,Gary Clark,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200046,534,6,2,4,9:40 PM,8:23,,,Clark S.FOUL (P2.T3),,,5,1629109,Gary Clark,1612709931.0,Mexico City,Capitanes,MXC,4,1631222,Jake LaRavia,1612709926.0,Memphis,Hustle,MHU,1,0,,,,,,0
+2022200046,536,8,0,4,9:40 PM,8:23,SUB: Lofton Jr. FOR Hurt,,,,,4,1630562,Matt Hurt,1612709926.0,Memphis,Hustle,MHU,4,1631254,Kenneth Lofton Jr.,1612709926.0,Memphis,Hustle,MHU,0,0,,,,,,0
+2022200046,538,3,31,4,9:41 PM,8:23,LaRavia Free Throw 2PT (20 PTS),,,106 - 106,TIE,4,1631222,Jake LaRavia,1612709926.0,Memphis,Hustle,MHU,0,0,,,,,,0,0,,,,,,0
+2022200046,539,1,1,4,9:41 PM,8:15,,,Clark 26' 3PT Jump Shot (25 PTS) (Jones 5 AST),109 - 106,-3,5,1629109,Gary Clark,1612709931.0,Mexico City,Capitanes,MXC,5,1630222,Mason Jones,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0
+2022200046,541,2,73,4,9:41 PM,7:53,MISS LaRavia 3' Driving Reverse Layup,,,,,4,1631222,Jake LaRavia,1612709926.0,Memphis,Hustle,MHU,0,0,,,,,,0,0,,,,,,0
+2022200046,542,4,0,4,9:41 PM,7:44,Lofton Jr. REBOUND (Off:3 Def:5),,,,,4,1631254,Kenneth Lofton Jr.,1612709926.0,Memphis,Hustle,MHU,0,0,,,,,,0,0,,,,,,0
+2022200046,543,1,72,4,9:41 PM,7:44,Lofton Jr. Putback Layup (12 PTS),,,109 - 108,-1,4,1631254,Kenneth Lofton Jr.,1612709926.0,Memphis,Hustle,MHU,0,0,,,,,,0,0,,,,,,0
+2022200046,544,2,5,4,9:41 PM,7:41,Bean BLOCK (3 BLK),,MISS Napier 3' Layup,,,5,203894,Shabazz Napier,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,4,1631368,Justin Bean,1612709926.0,Memphis,Hustle,MHU,0
+2022200046,546,4,0,4,9:41 PM,7:41,,,Capitanes Rebound,,,3,1612709931,,,,,,0,0,,,,,,0,0,,,,,,0
+2022200046,548,8,0,4,9:41 PM,7:41,SUB: Williams Jr. FOR LaRavia,,,,,4,1631222,Jake LaRavia,1612709926.0,Memphis,Hustle,MHU,4,1631246,Vince Williams Jr.,1612709926.0,Memphis,Hustle,MHU,0,0,,,,,,0
+2022200046,550,2,80,4,9:42 PM,7:26,,,MISS Napier 24' 3PT Step Back Jump Shot,,,5,203894,Shabazz Napier,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200046,551,4,0,4,9:42 PM,7:24,,,Minaya REBOUND (Off:2 Def:0),,,5,1631303,Justin Minaya,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200046,552,2,1,4,9:42 PM,7:21,,,MISS Clark 3PT Jump Shot,,,5,1629109,Gary Clark,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200046,553,4,0,4,9:42 PM,7:17,Bean REBOUND (Off:1 Def:3),,,,,4,1631368,Justin Bean,1612709926.0,Memphis,Hustle,MHU,0,0,,,,,,0,0,,,,,,0
+2022200046,554,1,5,4,9:42 PM,7:03,Lofton Jr. 4' Layup (14 PTS),,,109 - 110,1,4,1631254,Kenneth Lofton Jr.,1612709926.0,Memphis,Hustle,MHU,0,0,,,,,,0,0,,,,,,0
+2022200046,555,5,1,4,9:42 PM,6:57,Williams Jr. STEAL (3 STL),,Clark Bad Pass Turnover (P3.T13),,,5,1629109,Gary Clark,1612709931.0,Mexico City,Capitanes,MXC,4,1631246,Vince Williams Jr.,1612709926.0,Memphis,Hustle,MHU,0,0,,,,,,0
+2022200046,557,6,1,4,9:43 PM,6:50,,,Jones P.FOUL (P3.T4),,,5,1630222,Mason Jones,1612709931.0,Mexico City,Capitanes,MXC,4,1631368,Justin Bean,1612709926.0,Memphis,Hustle,MHU,1,0,,,,,,0
+2022200046,559,9,1,4,9:43 PM,6:50,HUSTLE Timeout: Regular (Full 5 Short 0),,,,,2,1612709926,,,,,,0,0,,,,,,0,0,,,,,,0
+2022200046,562,8,0,4,9:44 PM,6:50,SUB: Chandler FOR Gilyard,,,,,4,1631367,Jacob Gilyard,1612709926.0,Memphis,Hustle,MHU,4,1631113,Kennedy Chandler,1612709926.0,Memphis,Hustle,MHU,0,0,,,,,,0
+2022200046,563,8,0,4,9:44 PM,6:50,,,SUB: Faried FOR Napier,,,5,203894,Shabazz Napier,1612709931.0,Mexico City,Capitanes,MXC,5,202702,Kenneth Faried,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0
+2022200046,566,6,1,4,9:45 PM,6:40,,,Faried P.FOUL (P2.PN),,,5,202702,Kenneth Faried,1612709931.0,Mexico City,Capitanes,MXC,4,1631254,Kenneth Lofton Jr.,1612709926.0,Memphis,Hustle,MHU,1,0,,,,,,0
+2022200046,568,8,0,4,9:45 PM,6:40,SUB: Mathias FOR Jefferson,,,,,4,1630808,Damien Jefferson,1612709926.0,Memphis,Hustle,MHU,4,1629751,Dakota Mathias,1612709926.0,Memphis,Hustle,MHU,0,0,,,,,,0
+2022200046,570,3,31,4,9:45 PM,6:40,Lofton Jr. Free Throw 2PT (16 PTS),,,109 - 112,3,4,1631254,Kenneth Lofton Jr.,1612709926.0,Memphis,Hustle,MHU,0,0,,,,,,0,0,,,,,,0
+2022200046,571,2,98,4,9:46 PM,6:26,Chandler BLOCK (1 BLK),,MISS Faried 2' Cutting Layup Shot,,,5,202702,Kenneth Faried,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,4,1631113,Kennedy Chandler,1612709926.0,Memphis,Hustle,MHU,0
+2022200046,573,4,0,4,9:46 PM,6:23,Williams Jr. REBOUND (Off:2 Def:6),,,,,4,1631246,Vince Williams Jr.,1612709926.0,Memphis,Hustle,MHU,0,0,,,,,,0,0,,,,,,0
+2022200046,574,2,2,4,9:46 PM,6:19,MISS Bean 26' 3PT Running Jump Shot,,,,,4,1631368,Justin Bean,1612709926.0,Memphis,Hustle,MHU,0,0,,,,,,0,0,,,,,,0
+2022200046,575,4,0,4,9:46 PM,6:16,Lofton Jr. REBOUND (Off:4 Def:5),,,,,4,1631254,Kenneth Lofton Jr.,1612709926.0,Memphis,Hustle,MHU,0,0,,,,,,0,0,,,,,,0
+2022200046,578,2,1,4,9:47 PM,6:04,MISS Mathias 26' 3PT Jump Shot,,,,,4,1629751,Dakota Mathias,1612709926.0,Memphis,Hustle,MHU,0,0,,,,,,0,0,,,,,,0
+2022200046,579,4,0,4,9:47 PM,6:01,,,Faried REBOUND (Off:6 Def:8),,,5,202702,Kenneth Faried,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200046,580,2,98,4,9:47 PM,5:53,,,MISS Jones 3' Cutting Layup Shot,,,5,1630222,Mason Jones,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200046,581,4,0,4,9:47 PM,5:49,Bean REBOUND (Off:1 Def:4),,,,,4,1631368,Justin Bean,1612709926.0,Memphis,Hustle,MHU,0,0,,,,,,0,0,,,,,,0
+2022200046,582,1,79,4,9:47 PM,5:35,Mathias 14' Pullup Jump Shot (16 PTS) (Lofton Jr. 4 AST),,,109 - 114,5,4,1629751,Dakota Mathias,1612709926.0,Memphis,Hustle,MHU,4,1631254,Kenneth Lofton Jr.,1612709926.0,Memphis,Hustle,MHU,0,0,,,,,,0
+2022200046,583,6,1,4,9:47 PM,5:17,Mathias P.FOUL (P1.T2),,,,,4,1629751,Dakota Mathias,1612709926.0,Memphis,Hustle,MHU,5,202702,Kenneth Faried,1612709931.0,Mexico City,Capitanes,MXC,1,0,,,,,,0
+2022200046,585,8,0,4,9:48 PM,5:17,,,SUB: Napier FOR Mendoza,,,5,1628150,Rigoberto Mendoza,1612709931.0,Mexico City,Capitanes,MXC,5,203894,Shabazz Napier,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0
+2022200046,587,5,2,4,9:48 PM,5:08,Chandler STEAL (3 STL),,Jones Lost Ball Turnover (P4.T14),,,5,1630222,Mason Jones,1612709931.0,Mexico City,Capitanes,MXC,4,1631113,Kennedy Chandler,1612709926.0,Memphis,Hustle,MHU,0,0,,,,,,0
+2022200046,589,10,0,4,9:49 PM,5:00,Jump Ball Bean vs. Clark: Tip to Mathias,,,,,4,1631368,Justin Bean,1612709926.0,Memphis,Hustle,MHU,5,1629109,Gary Clark,1612709931.0,Mexico City,Capitanes,MXC,4,1629751,Dakota Mathias,1612709926.0,Memphis,Hustle,MHU,0
+2022200046,592,1,3,4,9:49 PM,4:55,Bean 4' Hook Shot (6 PTS),,,109 - 116,7,4,1631368,Justin Bean,1612709926.0,Memphis,Hustle,MHU,0,0,,,,,,0,0,,,,,,0
+2022200046,593,2,1,4,9:50 PM,4:32,,,MISS Minaya 26' 3PT Jump Shot,,,5,1631303,Justin Minaya,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200046,594,4,0,4,9:50 PM,4:29,Williams Jr. REBOUND (Off:2 Def:7),,,,,4,1631246,Vince Williams Jr.,1612709926.0,Memphis,Hustle,MHU,0,0,,,,,,0,0,,,,,,0
+2022200046,595,1,98,4,9:50 PM,4:21,Bean 4' Cutting Layup Shot (8 PTS) (Williams Jr. 2 AST),,,109 - 118,9,4,1631368,Justin Bean,1612709926.0,Memphis,Hustle,MHU,4,1631246,Vince Williams Jr.,1612709926.0,Memphis,Hustle,MHU,0,0,,,,,,0
+2022200046,597,9,1,4,9:50 PM,4:21,,,Capitanes Timeout: Regular (Reg.4 Short 0),,,3,1612709931,,,,,,0,0,,,,,,0,0,,,,,,0
+2022200046,599,8,0,4,9:51 PM,4:21,SUB: LaRavia FOR Mathias,,,,,4,1629751,Dakota Mathias,1612709926.0,Memphis,Hustle,MHU,4,1631222,Jake LaRavia,1612709926.0,Memphis,Hustle,MHU,0,0,,,,,,0
+2022200046,601,5,45,4,9:52 PM,4:10,,,Napier Out of Bounds - Bad Pass Turnover Turnover (P4.T15),,,5,203894,Shabazz Napier,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,1,0,,,,,,0
+2022200046,602,1,6,4,9:53 PM,3:51,Chandler 2' Driving Layup (10 PTS) (Lofton Jr. 5 AST),,,109 - 120,11,4,1631113,Kennedy Chandler,1612709926.0,Memphis,Hustle,MHU,4,1631254,Kenneth Lofton Jr.,1612709926.0,Memphis,Hustle,MHU,0,0,,,,,,0
+2022200046,604,5,1,4,9:53 PM,3:45,Williams Jr. STEAL (4 STL),,Faried Bad Pass Turnover (P2.T16),,,5,202702,Kenneth Faried,1612709931.0,Mexico City,Capitanes,MXC,4,1631246,Vince Williams Jr.,1612709926.0,Memphis,Hustle,MHU,0,0,,,,,,0
+2022200046,606,1,1,4,9:53 PM,3:41,Williams Jr. 3PT Jump Shot (20 PTS),,,109 - 123,14,4,1631246,Vince Williams Jr.,1612709926.0,Memphis,Hustle,MHU,0,0,,,,,,0,0,,,,,,0
+2022200046,607,1,44,4,9:53 PM,3:28,,,Napier 3' Reverse Layup (24 PTS),111 - 123,12,5,203894,Shabazz Napier,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200046,608,1,6,4,9:53 PM,3:08,Lofton Jr. 3' Driving Layup (18 PTS) (Chandler 5 AST),,,111 - 125,14,4,1631254,Kenneth Lofton Jr.,1612709926.0,Memphis,Hustle,MHU,4,1631113,Kennedy Chandler,1612709926.0,Memphis,Hustle,MHU,0,0,,,,,,0
+2022200046,610,5,2,4,9:53 PM,2:56,Williams Jr. STEAL (5 STL),,Napier Lost Ball Turnover (P5.T17),,,5,203894,Shabazz Napier,1612709931.0,Mexico City,Capitanes,MXC,4,1631246,Vince Williams Jr.,1612709926.0,Memphis,Hustle,MHU,0,0,,,,,,0
+2022200046,612,9,1,4,9:54 PM,2:56,HUSTLE Timeout: Regular (Full 6 Short 0),,,,,2,1612709926,,,,,,0,0,,,,,,0,0,,,,,,0
+2022200046,613,2,80,4,9:55 PM,2:34,MISS LaRavia 25' 3PT Step Back Jump Shot,,,,,4,1631222,Jake LaRavia,1612709926.0,Memphis,Hustle,MHU,0,0,,,,,,0,0,,,,,,0
+2022200046,614,4,0,4,9:55 PM,2:29,,,Clark REBOUND (Off:1 Def:5),,,5,1629109,Gary Clark,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200046,615,2,80,4,9:55 PM,2:12,,,MISS Jones 25' 3PT Step Back Jump Shot,,,5,1630222,Mason Jones,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200046,616,4,0,4,9:55 PM,2:08,Bean REBOUND (Off:1 Def:5),,,,,4,1631368,Justin Bean,1612709926.0,Memphis,Hustle,MHU,0,0,,,,,,0,0,,,,,,0
+2022200046,617,5,2,4,9:55 PM,2:07,Chandler Lost Ball Turnover (P2.T15),,Clark STEAL (2 STL),,,4,1631113,Kennedy Chandler,1612709926.0,Memphis,Hustle,MHU,5,1629109,Gary Clark,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0
+2022200046,619,2,1,4,9:55 PM,2:02,,,MISS Clark 3PT Jump Shot,,,5,1629109,Gary Clark,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200046,620,4,0,4,9:56 PM,1:59,Bean REBOUND (Off:1 Def:6),,,,,4,1631368,Justin Bean,1612709926.0,Memphis,Hustle,MHU,0,0,,,,,,0,0,,,,,,0
+2022200046,621,2,6,4,9:56 PM,1:38,MISS Chandler 3' Driving Layup,,,,,4,1631113,Kennedy Chandler,1612709926.0,Memphis,Hustle,MHU,0,0,,,,,,0,0,,,,,,0
+2022200046,622,4,0,4,9:56 PM,1:35,,,Jones REBOUND (Off:2 Def:5),,,5,1630222,Mason Jones,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200046,623,1,41,4,9:56 PM,1:34,,,Jones 1' Running Layup (24 PTS),113 - 125,12,5,1630222,Mason Jones,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200046,624,5,1,4,9:56 PM,1:29,Bean Bad Pass Turnover (P2.T16),,Napier STEAL (2 STL),,,4,1631368,Justin Bean,1612709926.0,Memphis,Hustle,MHU,5,203894,Shabazz Napier,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0
+2022200046,626,2,1,4,9:56 PM,1:24,,,MISS Napier 28' 3PT Jump Shot,,,5,203894,Shabazz Napier,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200046,627,4,0,4,9:56 PM,1:24,HUSTLE Rebound,,,,,2,1612709926,,,,,,0,0,,,,,,0,0,,,,,,0
+2022200046,629,1,1,4,9:57 PM,1:06,Bean 26' 3PT Jump Shot (11 PTS) (Lofton Jr. 6 AST),,,113 - 128,15,4,1631368,Justin Bean,1612709926.0,Memphis,Hustle,MHU,4,1631254,Kenneth Lofton Jr.,1612709926.0,Memphis,Hustle,MHU,0,0,,,,,,0
+2022200046,631,2,1,4,9:57 PM,0:58,,,MISS Minaya 24' 3PT Jump Shot,,,5,1631303,Justin Minaya,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200046,632,4,0,4,9:57 PM,0:54,,,Faried REBOUND (Off:7 Def:8),,,5,202702,Kenneth Faried,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200046,633,2,108,4,9:57 PM,0:51,Lofton Jr. BLOCK (2 BLK),,MISS Faried 3' Cutting Dunk Shot,,,5,202702,Kenneth Faried,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,4,1631254,Kenneth Lofton Jr.,1612709926.0,Memphis,Hustle,MHU,0
+2022200046,635,4,0,4,9:57 PM,0:48,Lofton Jr. REBOUND (Off:4 Def:6),,,,,4,1631254,Kenneth Lofton Jr.,1612709926.0,Memphis,Hustle,MHU,0,0,,,,,,0,0,,,,,,0
+2022200046,636,5,11,4,9:58 PM,0:27,HUSTLE Turnover: Shot Clock (T#17),,,,,2,1612709926,,,,,,0,0,,,,,,0,0,,,,,,0
+2022200046,637,5,11,4,9:58 PM,0:03,,,Capitanes Turnover: Shot Clock (T#18),,,3,1612709931,,,,,,0,0,,,,,,0,0,,,,,,0
+2022200046,638,13,0,4,9:59 PM,0:00,,End of 4th Period (9:59 PM EST),,113 - 128,15,0,0,,,,,,0,0,,,,,,0,0,,,,,,0

@@ -1,0 +1,13 @@
+EVENTMSGTYPE,EVENTMSGTYPE_STRING
+1,MADE_FG
+2,MISS
+3,Free Throw
+4,Rebound
+5,Turnover
+6,FOUL
+7,Violation
+8,SUB
+9,Timeout
+10,Jump Ball
+12,START Q
+13,END Q

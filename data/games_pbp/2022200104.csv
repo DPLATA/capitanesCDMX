@@ -1,0 +1,445 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+2022200104,2,12,0,1,9:04 PM,12:00,,Start of 1st Period (9:04 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+2022200104,4,10,0,1,9:04 PM,12:00,Jump Ball Faried vs. Bassey: Tip to Jones,,,,,4,202702,Kenneth Faried,1612709931.0,Mexico City,Capitanes,MXC,5,1629646,Charles Bassey,1612709890.0,Austin,Spurs,AUS,4,1630222,Mason Jones,1612709931.0,Mexico City,Capitanes,MXC,0
+2022200104,7,1,1,1,9:05 PM,11:34,Mendoza 26' 3PT Jump Shot (3 PTS) (Jones 1 AST),,,0 - 3,3,4,1628150,Rigoberto Mendoza,1612709931.0,Mexico City,Capitanes,MXC,4,1630222,Mason Jones,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0
+2022200104,9,1,99,1,9:05 PM,11:10,,,Zegarowski 2' Cutting Finger Roll Layup Shot (2 PTS) (Bassey 1 AST),2 - 3,1,5,1630681,Marcus Zegarowski,1612709890.0,Austin,Spurs,AUS,5,1629646,Charles Bassey,1612709890.0,Austin,Spurs,AUS,0,0,,,,,,0
+2022200104,11,2,3,1,9:06 PM,10:52,MISS Faried 5' Hook Shot,,,,,4,202702,Kenneth Faried,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200104,13,4,0,1,9:06 PM,10:49,Mendoza REBOUND (Off:1 Def:0),,,,,4,1628150,Rigoberto Mendoza,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200104,14,1,80,1,9:06 PM,10:47,Mendoza 24' 3PT Step Back Jump Shot (6 PTS),,,2 - 6,4,4,1628150,Rigoberto Mendoza,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200104,15,2,5,1,9:06 PM,10:20,,,MISS Johnson 2' Layup,,,5,1628993,Alize Johnson,1612709890.0,Austin,Spurs,AUS,0,0,,,,,,0,0,,,,,,0
+2022200104,16,4,0,1,9:06 PM,10:18,,,Johnson REBOUND (Off:1 Def:0),,,5,1628993,Alize Johnson,1612709890.0,Austin,Spurs,AUS,0,0,,,,,,0,0,,,,,,0
+2022200104,17,1,72,1,9:06 PM,10:17,,,Johnson 2' Putback Layup (2 PTS),4 - 6,2,5,1628993,Alize Johnson,1612709890.0,Austin,Spurs,AUS,0,0,,,,,,0,0,,,,,,0
+2022200104,18,1,80,1,9:07 PM,9:59,Mendoza 27' 3PT Step Back Jump Shot (9 PTS),,,4 - 9,5,4,1628150,Rigoberto Mendoza,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200104,19,2,6,1,9:07 PM,9:36,,,MISS Johnson 4' Driving Layup,,,5,1628993,Alize Johnson,1612709890.0,Austin,Spurs,AUS,0,0,,,,,,0,0,,,,,,0
+2022200104,21,2,97,1,9:07 PM,9:32,,,MISS Bassey Tip Layup Shot,,,5,1629646,Charles Bassey,1612709890.0,Austin,Spurs,AUS,0,0,,,,,,0,0,,,,,,0
+2022200104,22,4,0,1,9:07 PM,9:32,Jones REBOUND (Off:0 Def:1),,,,,4,1630222,Mason Jones,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200104,20,4,0,1,9:07 PM,9:32,,,Bassey REBOUND (Off:1 Def:0),,,5,1629646,Charles Bassey,1612709890.0,Austin,Spurs,AUS,0,0,,,,,,0,0,,,,,,0
+2022200104,23,1,41,1,9:07 PM,9:30,Jones 5' Running Layup (2 PTS),,,4 - 11,7,4,1630222,Mason Jones,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200104,24,5,4,1,9:08 PM,9:19,,,Bassey Traveling Turnover (P1.T1),,,5,1629646,Charles Bassey,1612709890.0,Austin,Spurs,AUS,0,0,,,,,,1,0,,,,,,0
+2022200104,25,8,0,1,9:08 PM,9:19,,,SUB: Kier FOR Hall,,,5,1631160,Jordan Hall,1612709890.0,Austin,Spurs,AUS,5,1641505,Justin Kier,1612709890.0,Austin,Spurs,AUS,0,0,,,,,,0
+2022200104,27,2,1,1,9:08 PM,8:51,MISS Clark 3PT Jump Shot,,,,,4,1629109,Gary Clark,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200104,28,4,0,1,9:08 PM,8:50,Faried REBOUND (Off:1 Def:0),,,,,4,202702,Kenneth Faried,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200104,29,2,3,1,9:08 PM,8:48,MISS Faried 5' Hook Shot,,,,,4,202702,Kenneth Faried,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200104,30,4,0,1,9:08 PM,8:47,,,Bassey REBOUND (Off:1 Def:1),,,5,1629646,Charles Bassey,1612709890.0,Austin,Spurs,AUS,0,0,,,,,,0,0,,,,,,0
+2022200104,31,1,1,1,9:09 PM,8:34,,,Bassey 17' Jump Shot (2 PTS) (Zegarowski 1 AST),6 - 11,5,5,1629646,Charles Bassey,1612709890.0,Austin,Spurs,AUS,5,1630681,Marcus Zegarowski,1612709890.0,Austin,Spurs,AUS,0,0,,,,,,0
+2022200104,33,2,80,1,9:09 PM,8:21,MISS Jones 26' 3PT Step Back Jump Shot,,,,,4,1630222,Mason Jones,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200104,34,4,0,1,9:09 PM,8:18,,,Johnson REBOUND (Off:1 Def:1),,,5,1628993,Alize Johnson,1612709890.0,Austin,Spurs,AUS,0,0,,,,,,0,0,,,,,,0
+2022200104,35,1,5,1,9:09 PM,8:08,,,Bassey 3' Layup (4 PTS),8 - 11,3,5,1629646,Charles Bassey,1612709890.0,Austin,Spurs,AUS,0,0,,,,,,0,0,,,,,,0
+2022200104,36,2,1,1,9:09 PM,7:52,MISS Mendoza 14' Jump Shot,,,,,4,1628150,Rigoberto Mendoza,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200104,37,4,0,1,9:09 PM,7:50,,,Bassey REBOUND (Off:1 Def:2),,,5,1629646,Charles Bassey,1612709890.0,Austin,Spurs,AUS,0,0,,,,,,0,0,,,,,,0
+2022200104,38,1,75,1,9:10 PM,7:34,,,Kier 8' Driving Finger Roll Layup (2 PTS),10 - 11,1,5,1641505,Justin Kier,1612709890.0,Austin,Spurs,AUS,0,0,,,,,,0,0,,,,,,0
+2022200104,39,1,1,1,9:10 PM,7:10,Jones 30' 3PT Jump Shot (5 PTS) (Clark 1 AST),,,10 - 14,4,4,1630222,Mason Jones,1612709931.0,Mexico City,Capitanes,MXC,4,1629109,Gary Clark,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0
+2022200104,41,1,6,1,9:10 PM,6:44,,,Johnson 4' Driving Layup (4 PTS),12 - 14,2,5,1628993,Alize Johnson,1612709890.0,Austin,Spurs,AUS,0,0,,,,,,0,0,,,,,,0
+2022200104,43,9,1,1,9:11 PM,6:36,CAPITANES Timeout: Regular (Full 1 Short 0),,,,,2,1612709931,,,,,,0,0,,,,,,0,0,,,,,,0
+2022200104,44,8,0,1,9:11 PM,6:36,SUB: Minaya FOR Pacheco,,,,,4,1631344,Caio Pacheco,1612709931.0,Mexico City,Capitanes,MXC,4,1631303,Justin Minaya,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0
+2022200104,46,2,3,1,9:13 PM,6:22,MISS Faried 7' Hook Shot,,,,,4,202702,Kenneth Faried,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200104,47,4,0,1,9:13 PM,6:20,,,Bassey REBOUND (Off:1 Def:3),,,5,1629646,Charles Bassey,1612709890.0,Austin,Spurs,AUS,0,0,,,,,,0,0,,,,,,0
+2022200104,48,5,1,1,9:14 PM,6:07,Faried STEAL (1 STL),,Kier Bad Pass Turnover (P1.T2),,,5,1641505,Justin Kier,1612709890.0,Austin,Spurs,AUS,4,202702,Kenneth Faried,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0
+2022200104,50,1,41,1,9:14 PM,6:03,Jones 1' Running Layup (7 PTS) (Faried 1 AST),,,12 - 16,4,4,1630222,Mason Jones,1612709931.0,Mexico City,Capitanes,MXC,4,202702,Kenneth Faried,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0
+2022200104,52,1,1,1,9:14 PM,5:38,,,Mahoney 25' 3PT Jump Shot (3 PTS) (Bassey 2 AST),15 - 16,1,5,1630778,Denzel Mahoney,1612709890.0,Austin,Spurs,AUS,5,1629646,Charles Bassey,1612709890.0,Austin,Spurs,AUS,0,0,,,,,,0
+2022200104,55,1,108,1,9:14 PM,5:27,Minaya 2' Cutting Dunk Shot (2 PTS) (Clark 2 AST),,,15 - 18,3,4,1631303,Justin Minaya,1612709931.0,Mexico City,Capitanes,MXC,4,1629109,Gary Clark,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0
+2022200104,57,5,1,1,9:15 PM,5:15,Minaya STEAL (1 STL),,Kier Bad Pass Turnover (P2.T3),,,5,1641505,Justin Kier,1612709890.0,Austin,Spurs,AUS,4,1631303,Justin Minaya,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0
+2022200104,59,1,50,1,9:15 PM,5:13,Minaya 2' Running Dunk (4 PTS),,,15 - 20,5,4,1631303,Justin Minaya,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200104,60,9,1,1,9:15 PM,5:13,,,Spurs Timeout: Regular (Reg.1 Short 0),,,3,1612709890,,,,,,0,0,,,,,,0,0,,,,,,0
+2022200104,61,8,0,1,9:15 PM,5:13,SUB: McKinnie FOR Mendoza,,,,,4,1628150,Rigoberto Mendoza,1612709931.0,Mexico City,Capitanes,MXC,4,1628035,Alfonzo McKinnie,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0
+2022200104,62,8,0,1,9:15 PM,5:13,SUB: Napier FOR Clark,,,,,4,1629109,Gary Clark,1612709931.0,Mexico City,Capitanes,MXC,4,203894,Shabazz Napier,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0
+2022200104,63,8,0,1,9:15 PM,5:13,SUB: Culver FOR Faried,,,,,4,202702,Kenneth Faried,1612709931.0,Mexico City,Capitanes,MXC,4,1630633,Derek Culver,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0
+2022200104,64,8,0,1,9:15 PM,5:13,,,SUB: Adaway FOR Zegarowski,,,5,1630681,Marcus Zegarowski,1612709890.0,Austin,Spurs,AUS,5,1631286,Jalen Adaway,1612709890.0,Austin,Spurs,AUS,0,0,,,,,,0
+2022200104,65,8,0,1,9:15 PM,5:13,,,SUB: Kuhse FOR Johnson,,,5,1628993,Alize Johnson,1612709890.0,Austin,Spurs,AUS,5,1631339,Tommy Kuhse,1612709890.0,Austin,Spurs,AUS,0,0,,,,,,0
+2022200104,71,8,0,1,9:17 PM,5:13,,,SUB: Barlow FOR Mahoney,,,5,1630778,Denzel Mahoney,1612709890.0,Austin,Spurs,AUS,5,1631230,Dominick Barlow,1612709890.0,Austin,Spurs,AUS,0,0,,,,,,0
+2022200104,73,1,6,1,9:17 PM,5:02,,,Kuhse 5' Driving Layup (2 PTS),17 - 20,3,5,1631339,Tommy Kuhse,1612709890.0,Austin,Spurs,AUS,0,0,,,,,,0,0,,,,,,0
+2022200104,74,6,2,1,9:17 PM,4:42,,,Adaway S.FOUL (P1.T1),,,5,1631286,Jalen Adaway,1612709890.0,Austin,Spurs,AUS,4,1630633,Derek Culver,1612709931.0,Mexico City,Capitanes,MXC,1,0,,,,,,0
+2022200104,76,3,31,1,9:18 PM,4:42,Culver Free Throw 2PT (2 PTS),,,17 - 22,5,4,1630633,Derek Culver,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200104,77,8,0,1,9:18 PM,4:30,,,SUB: Murphy FOR Bassey,,,5,1629646,Charles Bassey,1612709890.0,Austin,Spurs,AUS,5,1629818,Jordan Murphy,1612709890.0,Austin,Spurs,AUS,0,0,,,,,,0
+2022200104,79,1,6,1,9:18 PM,4:22,,,Kuhse 2' Driving Layup (4 PTS),19 - 22,3,5,1631339,Tommy Kuhse,1612709890.0,Austin,Spurs,AUS,0,0,,,,,,0,0,,,,,,0
+2022200104,80,2,93,1,9:19 PM,4:08,MISS Culver 6' Driving Bank Hook Shot,,,,,4,1630633,Derek Culver,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200104,81,4,0,1,9:19 PM,4:05,,,Barlow REBOUND (Off:0 Def:1),,,5,1631230,Dominick Barlow,1612709890.0,Austin,Spurs,AUS,0,0,,,,,,0,0,,,,,,0
+2022200104,82,1,1,1,9:19 PM,3:59,,,Murphy 26' 3PT Jump Shot (3 PTS) (Kuhse 1 AST),22 - 22,TIE,5,1629818,Jordan Murphy,1612709890.0,Austin,Spurs,AUS,5,1631339,Tommy Kuhse,1612709890.0,Austin,Spurs,AUS,0,0,,,,,,0
+2022200104,84,1,79,1,9:19 PM,3:36,Jones 30' 3PT Pullup Jump Shot (10 PTS) (Culver 1 AST),,,22 - 25,3,4,1630222,Mason Jones,1612709931.0,Mexico City,Capitanes,MXC,4,1630633,Derek Culver,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0
+2022200104,86,1,6,1,9:19 PM,3:16,,,Adaway 2' Driving Layup (2 PTS) (Kuhse 2 AST),24 - 25,1,5,1631286,Jalen Adaway,1612709890.0,Austin,Spurs,AUS,5,1631339,Tommy Kuhse,1612709890.0,Austin,Spurs,AUS,0,0,,,,,,0
+2022200104,87,1,86,1,9:20 PM,3:01,Jones 11' Turnaround Fadeaway (12 PTS),,,24 - 27,3,4,1630222,Mason Jones,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200104,88,2,6,1,9:20 PM,2:45,,,MISS Murphy 4' Driving Layup,,,5,1629818,Jordan Murphy,1612709890.0,Austin,Spurs,AUS,0,0,,,,,,0,0,,,,,,0
+2022200104,89,4,0,1,9:20 PM,2:44,,,Barlow REBOUND (Off:1 Def:1),,,5,1631230,Dominick Barlow,1612709890.0,Austin,Spurs,AUS,0,0,,,,,,0,0,,,,,,0
+2022200104,90,2,3,1,9:20 PM,2:41,,,MISS Barlow 8' Hook Shot,,,5,1631230,Dominick Barlow,1612709890.0,Austin,Spurs,AUS,0,0,,,,,,0,0,,,,,,0
+2022200104,91,4,0,1,9:20 PM,2:37,Jones REBOUND (Off:0 Def:2),,,,,4,1630222,Mason Jones,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200104,92,2,1,1,9:20 PM,2:26,MISS McKinnie 27' 3PT Jump Shot,,,,,4,1628035,Alfonzo McKinnie,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200104,93,4,0,1,9:20 PM,2:24,,,Kuhse REBOUND (Off:0 Def:1),,,5,1631339,Tommy Kuhse,1612709890.0,Austin,Spurs,AUS,0,0,,,,,,0,0,,,,,,0
+2022200104,94,5,45,1,9:20 PM,2:21,,,Kuhse Out of Bounds - Bad Pass Turnover Turnover (P1.T4),,,5,1631339,Tommy Kuhse,1612709890.0,Austin,Spurs,AUS,0,0,,,,,,1,0,,,,,,0
+2022200104,95,8,0,1,9:20 PM,2:21,SUB: Pacheco FOR Jones,,,,,4,1630222,Mason Jones,1612709931.0,Mexico City,Capitanes,MXC,4,1631344,Caio Pacheco,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0
+2022200104,96,8,0,1,9:20 PM,2:21,,,SUB: Hall FOR Kier,,,5,1641505,Justin Kier,1612709890.0,Austin,Spurs,AUS,5,1631160,Jordan Hall,1612709890.0,Austin,Spurs,AUS,0,0,,,,,,0
+2022200104,99,1,6,1,9:21 PM,2:04,Pacheco 2' Driving Layup (2 PTS),,,24 - 29,5,4,1631344,Caio Pacheco,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200104,100,1,6,1,9:21 PM,1:53,,,Kuhse 3' Driving Layup (6 PTS),26 - 29,3,5,1631339,Tommy Kuhse,1612709890.0,Austin,Spurs,AUS,0,0,,,,,,0,0,,,,,,0
+2022200104,101,1,78,1,9:21 PM,1:42,Minaya 8' Floating Jump Shot (6 PTS) (Napier 1 AST),,,26 - 31,5,4,1631303,Justin Minaya,1612709931.0,Mexico City,Capitanes,MXC,4,203894,Shabazz Napier,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0
+2022200104,103,2,1,1,9:22 PM,1:22,,,MISS Barlow 3PT Jump Shot,,,5,1631230,Dominick Barlow,1612709890.0,Austin,Spurs,AUS,0,0,,,,,,0,0,,,,,,0
+2022200104,104,4,0,1,9:22 PM,1:20,Culver REBOUND (Off:0 Def:1),,,,,4,1630633,Derek Culver,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200104,105,2,1,1,9:22 PM,1:02,MISS Minaya 3PT Jump Shot,,,,,4,1631303,Justin Minaya,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200104,106,4,0,1,9:22 PM,0:57,Culver REBOUND (Off:1 Def:1),,,,,4,1630633,Derek Culver,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200104,107,1,72,1,9:22 PM,0:56,Culver 4' Putback Layup (4 PTS),,,26 - 33,7,4,1630633,Derek Culver,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200104,108,2,6,1,9:22 PM,0:47,,,MISS Hall 2' Driving Layup,,,5,1631160,Jordan Hall,1612709890.0,Austin,Spurs,AUS,0,0,,,,,,0,0,,,,,,0
+2022200104,109,4,0,1,9:22 PM,0:47,,,Murphy REBOUND (Off:1 Def:0),,,5,1629818,Jordan Murphy,1612709890.0,Austin,Spurs,AUS,0,0,,,,,,0,0,,,,,,0
+2022200104,110,1,72,1,9:22 PM,0:47,,,Murphy 1' Putback Layup (5 PTS),28 - 33,5,5,1629818,Jordan Murphy,1612709890.0,Austin,Spurs,AUS,0,0,,,,,,0,0,,,,,,0
+2022200104,111,6,2,1,9:23 PM,0:29,,,Hall S.FOUL (P1.T2),,,5,1631160,Jordan Hall,1612709890.0,Austin,Spurs,AUS,4,1631344,Caio Pacheco,1612709931.0,Mexico City,Capitanes,MXC,1,0,,,,,,0
+2022200104,113,8,0,1,9:23 PM,0:29,SUB: Bonilla FOR Minaya,,,,,4,1631303,Justin Minaya,1612709931.0,Mexico City,Capitanes,MXC,4,1641566,Gael Bonilla,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0
+2022200104,115,3,31,1,9:23 PM,0:29,MISS Pacheco Free Throw 2PT,,,,,4,1631344,Caio Pacheco,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200104,116,4,0,1,9:23 PM,0:27,,,Murphy REBOUND (Off:1 Def:1),,,5,1629818,Jordan Murphy,1612709890.0,Austin,Spurs,AUS,0,0,,,,,,0,0,,,,,,0
+2022200104,117,6,1,1,9:24 PM,0:16,McKinnie P.FOUL (P1.T1),,,,,4,1628035,Alfonzo McKinnie,1612709931.0,Mexico City,Capitanes,MXC,5,1631230,Dominick Barlow,1612709890.0,Austin,Spurs,AUS,1,0,,,,,,0
+2022200104,119,2,57,1,9:24 PM,0:02,,,MISS Kuhse 6' Driving Hook Shot,,,5,1631339,Tommy Kuhse,1612709890.0,Austin,Spurs,AUS,0,0,,,,,,0,0,,,,,,0
+2022200104,120,4,0,1,9:24 PM,0:02,,,Adaway REBOUND (Off:1 Def:0),,,5,1631286,Jalen Adaway,1612709890.0,Austin,Spurs,AUS,0,0,,,,,,0,0,,,,,,0
+2022200104,123,13,0,1,9:24 PM,0:00,,End of 1st Period (9:24 PM EST),,28 - 33,5,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+2022200104,133,12,0,2,9:27 PM,12:00,,Start of 2nd Period (9:27 PM EST),,28 - 33,5,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+2022200104,134,2,1,2,9:27 PM,11:42,,,MISS Hall 13' Jump Shot,,,5,1631160,Jordan Hall,1612709890.0,Austin,Spurs,AUS,0,0,,,,,,0,0,,,,,,0
+2022200104,135,4,0,2,9:27 PM,11:40,,,Barlow REBOUND (Off:2 Def:1),,,5,1631230,Dominick Barlow,1612709890.0,Austin,Spurs,AUS,0,0,,,,,,0,0,,,,,,0
+2022200104,136,2,78,2,9:27 PM,11:38,,,MISS Barlow 8' Floating Jump Shot,,,5,1631230,Dominick Barlow,1612709890.0,Austin,Spurs,AUS,0,0,,,,,,0,0,,,,,,0
+2022200104,137,4,0,2,9:27 PM,11:38,Pacheco REBOUND (Off:0 Def:1),,,,,4,1631344,Caio Pacheco,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200104,138,6,2,2,9:28 PM,11:29,,,Mahoney S.FOUL (P1.T1),,,5,1630778,Denzel Mahoney,1612709890.0,Austin,Spurs,AUS,4,1631344,Caio Pacheco,1612709931.0,Mexico City,Capitanes,MXC,1,0,,,,,,0
+2022200104,140,3,31,2,9:28 PM,11:29,Pacheco Free Throw 2PT (4 PTS),,,28 - 35,7,4,1631344,Caio Pacheco,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200104,141,1,79,2,9:28 PM,11:14,,,Mahoney 17' Pullup Jump Shot (5 PTS) (Barlow 1 AST),30 - 35,5,5,1630778,Denzel Mahoney,1612709890.0,Austin,Spurs,AUS,5,1631230,Dominick Barlow,1612709890.0,Austin,Spurs,AUS,0,0,,,,,,0
+2022200104,142,2,79,2,9:29 PM,10:52,MISS McKinnie 19' Pullup Jump Shot,,,,,4,1628035,Alfonzo McKinnie,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200104,143,4,0,2,9:29 PM,10:49,,,Johnson REBOUND (Off:1 Def:2),,,5,1628993,Alize Johnson,1612709890.0,Austin,Spurs,AUS,0,0,,,,,,0,0,,,,,,0
+2022200104,144,1,57,2,9:29 PM,10:44,,,Barlow 7' Driving Hook Shot (2 PTS),32 - 35,3,5,1631230,Dominick Barlow,1612709890.0,Austin,Spurs,AUS,0,0,,,,,,0,0,,,,,,0
+2022200104,145,6,4,2,9:29 PM,10:33,Faried OFF.Foul (P1),,,,,4,202702,Kenneth Faried,1612709931.0,Mexico City,Capitanes,MXC,5,1630778,Denzel Mahoney,1612709890.0,Austin,Spurs,AUS,1,0,,,,,,0
+2022200104,147,5,37,2,9:29 PM,10:33,Faried Offensive Foul Turnover (P1.T1),,,,,4,202702,Kenneth Faried,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,1,0,,,,,,0
+2022200104,148,1,98,2,9:30 PM,10:16,,,Johnson 1' Cutting Layup Shot (6 PTS) (Hall 1 AST),34 - 35,1,5,1628993,Alize Johnson,1612709890.0,Austin,Spurs,AUS,5,1631160,Jordan Hall,1612709890.0,Austin,Spurs,AUS,0,0,,,,,,0
+2022200104,150,2,1,2,9:30 PM,10:04,MISS Pacheco 26' 3PT Jump Shot,,,,,4,1631344,Caio Pacheco,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200104,151,4,0,2,9:30 PM,10:01,,,Zegarowski REBOUND (Off:0 Def:1),,,5,1630681,Marcus Zegarowski,1612709890.0,Austin,Spurs,AUS,0,0,,,,,,0,0,,,,,,0
+2022200104,152,5,2,2,9:30 PM,9:57,Napier STEAL (1 STL),,Johnson Lost Ball Turnover (P1.T5),,,5,1628993,Alize Johnson,1612709890.0,Austin,Spurs,AUS,4,203894,Shabazz Napier,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0
+2022200104,154,2,74,2,9:30 PM,9:52,MISS Pacheco 4' Running Reverse Layup,,,,,4,1631344,Caio Pacheco,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200104,155,4,0,2,9:30 PM,9:50,Faried REBOUND (Off:2 Def:0),,,,,4,202702,Kenneth Faried,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200104,156,2,58,2,9:30 PM,9:48,MISS Faried 7' Turnaround Hook Shot,,,,,4,202702,Kenneth Faried,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200104,157,4,0,2,9:30 PM,9:45,,,Johnson REBOUND (Off:1 Def:3),,,5,1628993,Alize Johnson,1612709890.0,Austin,Spurs,AUS,0,0,,,,,,0,0,,,,,,0
+2022200104,159,2,2,2,9:30 PM,9:41,,,MISS Zegarowski 26' 3PT Running Jump Shot,,,5,1630681,Marcus Zegarowski,1612709890.0,Austin,Spurs,AUS,0,0,,,,,,0,0,,,,,,0
+2022200104,160,4,0,2,9:30 PM,9:37,,,Johnson REBOUND (Off:2 Def:3),,,5,1628993,Alize Johnson,1612709890.0,Austin,Spurs,AUS,0,0,,,,,,0,0,,,,,,0
+2022200104,161,1,72,2,9:30 PM,9:37,,,Johnson 3' Putback Layup (8 PTS),36 - 35,-1,5,1628993,Alize Johnson,1612709890.0,Austin,Spurs,AUS,0,0,,,,,,0,0,,,,,,0
+2022200104,162,9,1,2,9:30 PM,9:37,CAPITANES Timeout: Regular (Full 2 Short 0),,,,,2,1612709931,,,,,,0,0,,,,,,0,0,,,,,,0
+2022200104,164,8,0,2,9:31 PM,9:37,SUB: Mendoza FOR Pacheco,,,,,4,1631344,Caio Pacheco,1612709931.0,Mexico City,Capitanes,MXC,4,1628150,Rigoberto Mendoza,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0
+2022200104,165,8,0,2,9:31 PM,9:37,,,SUB: Bassey FOR Barlow,,,5,1631230,Dominick Barlow,1612709890.0,Austin,Spurs,AUS,5,1629646,Charles Bassey,1612709890.0,Austin,Spurs,AUS,0,0,,,,,,0
+2022200104,168,5,45,2,9:33 PM,9:19,Napier Out of Bounds - Bad Pass Turnover Turnover (P1.T2),,,,,4,203894,Shabazz Napier,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,1,0,,,,,,0
+2022200104,169,1,78,2,9:33 PM,8:58,,,Bassey 9' Floating Jump Shot (6 PTS) (Hall 2 AST),38 - 35,-3,5,1629646,Charles Bassey,1612709890.0,Austin,Spurs,AUS,5,1631160,Jordan Hall,1612709890.0,Austin,Spurs,AUS,0,0,,,,,,0
+2022200104,171,5,2,2,9:34 PM,8:38,Faried Lost Ball Turnover (P2.T3),,Johnson STEAL (1 STL),,,4,202702,Kenneth Faried,1612709931.0,Mexico City,Capitanes,MXC,5,1628993,Alize Johnson,1612709890.0,Austin,Spurs,AUS,0,0,,,,,,0
+2022200104,173,2,41,2,9:34 PM,8:33,Faried BLOCK (1 BLK),,MISS Johnson 6' Running Layup,,,5,1628993,Alize Johnson,1612709890.0,Austin,Spurs,AUS,0,0,,,,,,4,202702,Kenneth Faried,1612709931.0,Mexico City,Capitanes,MXC,0
+2022200104,175,4,0,2,9:34 PM,8:31,Faried REBOUND (Off:2 Def:1),,,,,4,202702,Kenneth Faried,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200104,176,1,41,2,9:34 PM,8:25,McKinnie 4' Running Layup (2 PTS) (Napier 2 AST),,,38 - 37,-1,4,1628035,Alfonzo McKinnie,1612709931.0,Mexico City,Capitanes,MXC,4,203894,Shabazz Napier,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0
+2022200104,178,2,6,2,9:35 PM,8:15,,,MISS Zegarowski 5' Driving Layup,,,5,1630681,Marcus Zegarowski,1612709890.0,Austin,Spurs,AUS,0,0,,,,,,0,0,,,,,,0
+2022200104,179,4,0,2,9:35 PM,8:12,Bonilla REBOUND (Off:0 Def:1),,,,,4,1641566,Gael Bonilla,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200104,180,5,4,2,9:35 PM,8:06,Bonilla Traveling Turnover (P1.T4),,,,,4,1641566,Gael Bonilla,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,1,0,,,,,,0
+2022200104,181,8,0,2,9:35 PM,8:06,SUB: Jones FOR Napier,,,,,4,203894,Shabazz Napier,1612709931.0,Mexico City,Capitanes,MXC,4,1630222,Mason Jones,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0
+2022200104,182,8,0,2,9:35 PM,8:06,SUB: Clark FOR Faried,,,,,4,202702,Kenneth Faried,1612709931.0,Mexico City,Capitanes,MXC,4,1629109,Gary Clark,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0
+2022200104,185,1,98,2,9:35 PM,7:45,,,Bassey 5' Cutting Layup Shot (8 PTS) (Hall 3 AST),40 - 37,-3,5,1629646,Charles Bassey,1612709890.0,Austin,Spurs,AUS,5,1631160,Jordan Hall,1612709890.0,Austin,Spurs,AUS,0,0,,,,,,0
+2022200104,187,6,11,2,9:36 PM,7:41,Faried T.FOUL (P1.T0),,,,,4,202702,Kenneth Faried,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,1,0,,,,,,0
+2022200104,188,3,38,2,9:36 PM,7:41,,,Zegarowski Free Technical 1PT (3 PTS),41 - 37,-4,5,1630681,Marcus Zegarowski,1612709890.0,Austin,Spurs,AUS,0,0,,,,,,0,0,,,,,,0
+2022200104,189,8,0,2,9:36 PM,7:41,SUB: Minaya FOR Bonilla,,,,,4,1641566,Gael Bonilla,1612709931.0,Mexico City,Capitanes,MXC,4,1631303,Justin Minaya,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0
+2022200104,191,8,0,2,9:36 PM,7:41,,,SUB: Kier FOR Hall,,,5,1631160,Jordan Hall,1612709890.0,Austin,Spurs,AUS,5,1641505,Justin Kier,1612709890.0,Austin,Spurs,AUS,0,0,,,,,,0
+2022200104,193,1,102,2,9:37 PM,7:25,McKinnie 11' Driving Floating Bank Jump Shot (4 PTS) (Jones 2 AST),,,41 - 39,-2,4,1628035,Alfonzo McKinnie,1612709931.0,Mexico City,Capitanes,MXC,4,1630222,Mason Jones,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0
+2022200104,194,2,1,2,9:37 PM,7:06,,,MISS Zegarowski 3PT Jump Shot,,,5,1630681,Marcus Zegarowski,1612709890.0,Austin,Spurs,AUS,0,0,,,,,,0,0,,,,,,0
+2022200104,195,4,0,2,9:37 PM,7:04,McKinnie REBOUND (Off:0 Def:1),,,,,4,1628035,Alfonzo McKinnie,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200104,196,1,98,2,9:37 PM,6:53,Jones 7' Cutting Layup Shot (14 PTS) (Mendoza 1 AST),,,41 - 41,TIE,4,1630222,Mason Jones,1612709931.0,Mexico City,Capitanes,MXC,4,1628150,Rigoberto Mendoza,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0
+2022200104,198,6,4,2,9:37 PM,6:47,,,Bassey OFF.Foul (P1),,,5,1629646,Charles Bassey,1612709890.0,Austin,Spurs,AUS,4,1631303,Justin Minaya,1612709931.0,Mexico City,Capitanes,MXC,1,0,,,,,,0
+2022200104,200,5,37,2,9:37 PM,6:47,,,Bassey Offensive Foul Turnover (P2.T6),,,5,1629646,Charles Bassey,1612709890.0,Austin,Spurs,AUS,0,0,,,,,,1,0,,,,,,0
+2022200104,201,6,11,2,9:37 PM,6:47,,,Mahoney T.FOUL (P1.T1),,,5,1630778,Denzel Mahoney,1612709890.0,Austin,Spurs,AUS,0,0,,,,,,1,0,,,,,,0
+2022200104,202,3,38,2,9:38 PM,6:47,Clark Free Technical 1PT (1 PTS),,,41 - 42,1,4,1629109,Gary Clark,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200104,203,8,0,2,9:38 PM,6:35,,,SUB: Adaway FOR Zegarowski,,,5,1630681,Marcus Zegarowski,1612709890.0,Austin,Spurs,AUS,5,1631286,Jalen Adaway,1612709890.0,Austin,Spurs,AUS,0,0,,,,,,0
+2022200104,204,8,0,2,9:38 PM,6:35,,,SUB: Kuhse FOR Mahoney,,,5,1630778,Denzel Mahoney,1612709890.0,Austin,Spurs,AUS,5,1631339,Tommy Kuhse,1612709890.0,Austin,Spurs,AUS,0,0,,,,,,0
+2022200104,207,2,63,2,9:39 PM,6:21,MISS McKinnie 12' Fadeaway Jumper,,Bassey BLOCK (1 BLK),,,4,1628035,Alfonzo McKinnie,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,5,1629646,Charles Bassey,1612709890.0,Austin,Spurs,AUS,0
+2022200104,209,4,0,2,9:39 PM,6:18,,,Johnson REBOUND (Off:2 Def:4),,,5,1628993,Alize Johnson,1612709890.0,Austin,Spurs,AUS,0,0,,,,,,0,0,,,,,,0
+2022200104,210,1,2,2,9:39 PM,6:12,,,Kier 25' 3PT Running Jump Shot (5 PTS) (Johnson 1 AST),44 - 42,-2,5,1641505,Justin Kier,1612709890.0,Austin,Spurs,AUS,5,1628993,Alize Johnson,1612709890.0,Austin,Spurs,AUS,0,0,,,,,,0
+2022200104,212,2,5,2,9:39 PM,5:57,MISS McKinnie 5' Layup,,,,,4,1628035,Alfonzo McKinnie,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200104,213,4,0,2,9:39 PM,5:54,,,Bassey REBOUND (Off:1 Def:4),,,5,1629646,Charles Bassey,1612709890.0,Austin,Spurs,AUS,0,0,,,,,,0,0,,,,,,0
+2022200104,214,6,1,2,9:39 PM,5:53,Jones P.FOUL (P1.T1),,,,,4,1630222,Mason Jones,1612709931.0,Mexico City,Capitanes,MXC,5,1628993,Alize Johnson,1612709890.0,Austin,Spurs,AUS,1,0,,,,,,0
+2022200104,216,1,78,2,9:40 PM,5:40,,,Bassey 7' Floating Jump Shot (10 PTS) (Kier 1 AST),46 - 42,-4,5,1629646,Charles Bassey,1612709890.0,Austin,Spurs,AUS,5,1641505,Justin Kier,1612709890.0,Austin,Spurs,AUS,0,0,,,,,,0
+2022200104,218,2,3,2,9:40 PM,5:19,MISS Clark 4' Hook Shot,,,,,4,1629109,Gary Clark,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200104,219,4,0,2,9:40 PM,5:17,,,Adaway REBOUND (Off:1 Def:1),,,5,1631286,Jalen Adaway,1612709890.0,Austin,Spurs,AUS,0,0,,,,,,0,0,,,,,,0
+2022200104,220,2,5,2,9:40 PM,5:13,,,MISS Bassey 1' Layup,,,5,1629646,Charles Bassey,1612709890.0,Austin,Spurs,AUS,0,0,,,,,,0,0,,,,,,0
+2022200104,221,4,0,2,9:40 PM,5:10,McKinnie REBOUND (Off:0 Def:2),,,,,4,1628035,Alfonzo McKinnie,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200104,222,1,1,2,9:40 PM,5:01,Clark 25' 3PT Jump Shot (4 PTS) (Jones 3 AST),,,46 - 45,-1,4,1629109,Gary Clark,1612709931.0,Mexico City,Capitanes,MXC,4,1630222,Mason Jones,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0
+2022200104,224,1,108,2,9:41 PM,4:43,,,Bassey Cutting Dunk Shot (12 PTS) (Kier 2 AST),48 - 45,-3,5,1629646,Charles Bassey,1612709890.0,Austin,Spurs,AUS,5,1641505,Justin Kier,1612709890.0,Austin,Spurs,AUS,0,0,,,,,,0
+2022200104,226,2,58,2,9:41 PM,4:21,MISS Jones 4' Turnaround Hook Shot,,,,,4,1630222,Mason Jones,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200104,227,4,0,2,9:41 PM,4:19,,,Johnson REBOUND (Off:2 Def:5),,,5,1628993,Alize Johnson,1612709890.0,Austin,Spurs,AUS,0,0,,,,,,0,0,,,,,,0
+2022200104,228,2,5,2,9:41 PM,4:12,,,MISS Bassey 1' Layup,,,5,1629646,Charles Bassey,1612709890.0,Austin,Spurs,AUS,0,0,,,,,,0,0,,,,,,0
+2022200104,229,4,0,2,9:42 PM,4:08,,,Kuhse REBOUND (Off:1 Def:1),,,5,1631339,Tommy Kuhse,1612709890.0,Austin,Spurs,AUS,0,0,,,,,,0,0,,,,,,0
+2022200104,230,2,97,2,9:42 PM,4:08,,,MISS Kuhse Tip Layup Shot,,,5,1631339,Tommy Kuhse,1612709890.0,Austin,Spurs,AUS,0,0,,,,,,0,0,,,,,,0
+2022200104,231,4,0,2,9:42 PM,4:08,McKinnie REBOUND (Off:0 Def:3),,,,,4,1628035,Alfonzo McKinnie,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200104,232,1,80,2,9:42 PM,3:55,Mendoza 28' 3PT Step Back Jump Shot (12 PTS),,,48 - 48,TIE,4,1628150,Rigoberto Mendoza,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200104,233,1,7,2,9:42 PM,3:38,,,Bassey 1' Dunk (14 PTS) (Kuhse 3 AST),50 - 48,-2,5,1629646,Charles Bassey,1612709890.0,Austin,Spurs,AUS,5,1631339,Tommy Kuhse,1612709890.0,Austin,Spurs,AUS,0,0,,,,,,0
+2022200104,235,2,98,2,9:42 PM,3:20,MISS Mendoza 6' Cutting Layup Shot,,,,,4,1628150,Rigoberto Mendoza,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200104,236,4,0,2,9:42 PM,3:20,,,Bassey REBOUND (Off:1 Def:5),,,5,1629646,Charles Bassey,1612709890.0,Austin,Spurs,AUS,0,0,,,,,,0,0,,,,,,0
+2022200104,237,5,4,2,9:42 PM,3:20,,,Johnson Traveling Turnover (P2.T7),,,5,1628993,Alize Johnson,1612709890.0,Austin,Spurs,AUS,0,0,,,,,,1,0,,,,,,0
+2022200104,238,8,0,2,9:43 PM,3:20,SUB: Faried FOR McKinnie,,,,,4,1628035,Alfonzo McKinnie,1612709931.0,Mexico City,Capitanes,MXC,4,202702,Kenneth Faried,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0
+2022200104,239,8,0,2,9:43 PM,3:20,,,SUB: Barlow FOR Johnson,,,5,1628993,Alize Johnson,1612709890.0,Austin,Spurs,AUS,5,1631230,Dominick Barlow,1612709890.0,Austin,Spurs,AUS,0,0,,,,,,0
+2022200104,240,8,0,2,9:43 PM,3:20,,,SUB: Murphy FOR Bassey,,,5,1629646,Charles Bassey,1612709890.0,Austin,Spurs,AUS,5,1629818,Jordan Murphy,1612709890.0,Austin,Spurs,AUS,0,0,,,,,,0
+2022200104,244,5,2,2,9:43 PM,3:12,Jones Lost Ball Turnover (P1.T5),,Murphy STEAL (1 STL),,,4,1630222,Mason Jones,1612709931.0,Mexico City,Capitanes,MXC,5,1629818,Jordan Murphy,1612709890.0,Austin,Spurs,AUS,0,0,,,,,,0
+2022200104,247,2,41,2,9:43 PM,3:09,,,MISS Kier 1' Running Layup,,,5,1641505,Justin Kier,1612709890.0,Austin,Spurs,AUS,0,0,,,,,,0,0,,,,,,0
+2022200104,248,4,0,2,9:43 PM,3:05,Clark REBOUND (Off:0 Def:1),,,,,4,1629109,Gary Clark,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200104,249,2,1,2,9:43 PM,2:57,MISS Clark 28' 3PT Jump Shot,,,,,4,1629109,Gary Clark,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200104,250,4,0,2,9:43 PM,2:57,CAPITANES Rebound,,,,,2,1612709931,,,,,,0,0,,,,,,0,0,,,,,,0
+2022200104,251,6,3,2,9:44 PM,2:57,,,Barlow L.B.FOUL (P1.T2),,,5,1631230,Dominick Barlow,1612709890.0,Austin,Spurs,AUS,4,202702,Kenneth Faried,1612709931.0,Mexico City,Capitanes,MXC,1,0,,,,,,0
+2022200104,253,9,1,2,9:44 PM,2:57,,,Spurs Timeout: Regular (Reg.2 Short 0),,,3,1612709890,,,,,,0,0,,,,,,0,0,,,,,,0
+2022200104,254,8,0,2,9:44 PM,2:57,,,SUB: Hall FOR Adaway,,,5,1631286,Jalen Adaway,1612709890.0,Austin,Spurs,AUS,5,1631160,Jordan Hall,1612709890.0,Austin,Spurs,AUS,0,0,,,,,,0
+2022200104,255,8,0,2,9:44 PM,2:57,,,SUB: Mahoney FOR Kier,,,5,1641505,Justin Kier,1612709890.0,Austin,Spurs,AUS,5,1630778,Denzel Mahoney,1612709890.0,Austin,Spurs,AUS,0,0,,,,,,0
+2022200104,258,5,11,2,9:46 PM,2:43,CAPITANES Turnover: Shot Clock (T#6),,,,,2,1612709931,,,,,,0,0,,,,,,1,0,,,,,,0
+2022200104,259,2,1,2,9:47 PM,2:31,,,MISS Hall 26' 3PT Jump Shot,,,5,1631160,Jordan Hall,1612709890.0,Austin,Spurs,AUS,0,0,,,,,,0,0,,,,,,0
+2022200104,260,4,0,2,9:47 PM,2:28,Clark REBOUND (Off:0 Def:2),,,,,4,1629109,Gary Clark,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200104,261,1,9,2,9:47 PM,2:20,Clark 1' Driving Dunk (6 PTS) (Minaya 1 AST),,,50 - 50,TIE,4,1629109,Gary Clark,1612709931.0,Mexico City,Capitanes,MXC,4,1631303,Justin Minaya,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0
+2022200104,262,1,6,2,9:47 PM,2:10,,,Barlow 2' Driving Layup (4 PTS) (Kuhse 4 AST),52 - 50,-2,5,1631230,Dominick Barlow,1612709890.0,Austin,Spurs,AUS,5,1631339,Tommy Kuhse,1612709890.0,Austin,Spurs,AUS,0,0,,,,,,0
+2022200104,263,2,1,2,9:47 PM,1:56,MISS Clark 24' 3PT Jump Shot,,,,,4,1629109,Gary Clark,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200104,264,4,0,2,9:47 PM,1:54,,,Barlow REBOUND (Off:2 Def:2),,,5,1631230,Dominick Barlow,1612709890.0,Austin,Spurs,AUS,0,0,,,,,,0,0,,,,,,0
+2022200104,265,6,2,2,9:47 PM,1:47,Mendoza S.FOUL (P1.T2),,,,,4,1628150,Rigoberto Mendoza,1612709931.0,Mexico City,Capitanes,MXC,5,1631230,Dominick Barlow,1612709890.0,Austin,Spurs,AUS,1,0,,,,,,0
+2022200104,267,3,31,2,9:48 PM,1:47,,,Barlow Free Throw 2PT (6 PTS),54 - 50,-4,5,1631230,Dominick Barlow,1612709890.0,Austin,Spurs,AUS,0,0,,,,,,0,0,,,,,,0
+2022200104,268,1,6,2,9:48 PM,1:43,Jones 3' Driving Layup (16 PTS),,,54 - 52,-2,4,1630222,Mason Jones,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200104,269,6,2,2,9:48 PM,1:43,,,Hall S.FOUL (P2.T3),,,5,1631160,Jordan Hall,1612709890.0,Austin,Spurs,AUS,4,1630222,Mason Jones,1612709931.0,Mexico City,Capitanes,MXC,1,0,,,,,,0
+2022200104,271,3,30,2,9:48 PM,1:43,Jones Free Throw 1PT (17 PTS),,,54 - 53,-1,4,1630222,Mason Jones,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200104,272,5,1,2,9:49 PM,1:28,Faried STEAL (2 STL),,Kuhse Bad Pass Turnover (P2.T8),,,5,1631339,Tommy Kuhse,1612709890.0,Austin,Spurs,AUS,4,202702,Kenneth Faried,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0
+2022200104,274,2,79,2,9:49 PM,1:11,MISS Jones 31' 3PT Pullup Jump Shot,,,,,4,1630222,Mason Jones,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200104,275,4,0,2,9:49 PM,1:10,Faried REBOUND (Off:3 Def:1),,,,,4,202702,Kenneth Faried,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200104,276,6,2,2,9:50 PM,1:09,,,Hall S.FOUL (P3.PN),,,5,1631160,Jordan Hall,1612709890.0,Austin,Spurs,AUS,4,1631303,Justin Minaya,1612709931.0,Mexico City,Capitanes,MXC,1,0,,,,,,0
+2022200104,278,8,0,2,9:50 PM,1:09,,,SUB: Kier FOR Hall,,,5,1631160,Jordan Hall,1612709890.0,Austin,Spurs,AUS,5,1641505,Justin Kier,1612709890.0,Austin,Spurs,AUS,0,0,,,,,,0
+2022200104,280,3,31,2,9:50 PM,1:09,Minaya Free Throw 2PT (8 PTS),,,54 - 55,1,4,1631303,Justin Minaya,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200104,281,1,47,2,9:50 PM,0:57,,,Barlow 6' Turnaround Jump Shot (8 PTS),56 - 55,-1,5,1631230,Dominick Barlow,1612709890.0,Austin,Spurs,AUS,0,0,,,,,,0,0,,,,,,0
+2022200104,282,6,2,2,9:50 PM,0:42,,,Murphy S.FOUL (P1.PN),,,5,1629818,Jordan Murphy,1612709890.0,Austin,Spurs,AUS,4,1629109,Gary Clark,1612709931.0,Mexico City,Capitanes,MXC,1,0,,,,,,0
+2022200104,284,3,31,2,9:51 PM,0:42,Clark Free Throw 2PT (8 PTS),,,56 - 57,1,4,1629109,Gary Clark,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200104,285,1,47,2,9:51 PM,0:25,,,Kuhse 10' Turnaround Jump Shot (8 PTS),58 - 57,-1,5,1631339,Tommy Kuhse,1612709890.0,Austin,Spurs,AUS,0,0,,,,,,0,0,,,,,,0
+2022200104,286,6,2,2,9:52 PM,0:04,,,Kier S.FOUL (P1.PN),,,5,1641505,Justin Kier,1612709890.0,Austin,Spurs,AUS,4,1629109,Gary Clark,1612709931.0,Mexico City,Capitanes,MXC,1,0,,,,,,0
+2022200104,288,3,31,2,9:52 PM,0:04,Clark Free Throw 2PT (10 PTS),,,58 - 59,1,4,1629109,Gary Clark,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200104,289,2,1,2,9:52 PM,0:01,,,MISS Mahoney 25' 3PT Jump Shot,,,5,1630778,Denzel Mahoney,1612709890.0,Austin,Spurs,AUS,0,0,,,,,,0,0,,,,,,0
+2022200104,290,4,0,2,9:52 PM,0:01,,,Spurs Rebound,,,3,1612709890,,,,,,0,0,,,,,,0,0,,,,,,0
+2022200104,291,13,0,2,9:52 PM,0:00,,End of 2nd Period (9:52 PM EST),,58 - 59,1,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+2022200104,300,12,0,3,10:08 PM,12:00,,Start of 3rd Period (10:08 PM EST),,58 - 59,1,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+2022200104,301,5,2,3,10:09 PM,11:36,Faried STEAL (3 STL),,Bassey Lost Ball Turnover (P3.T9),,,5,1629646,Charles Bassey,1612709890.0,Austin,Spurs,AUS,4,202702,Kenneth Faried,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0
+2022200104,303,1,2,3,10:09 PM,11:30,McKinnie 25' 3PT Running Jump Shot (7 PTS) (Jones 4 AST),,,58 - 62,4,4,1628035,Alfonzo McKinnie,1612709931.0,Mexico City,Capitanes,MXC,4,1630222,Mason Jones,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0
+2022200104,305,1,79,3,10:09 PM,11:16,,,Mahoney 26' 3PT Pullup Jump Shot (8 PTS),61 - 62,1,5,1630778,Denzel Mahoney,1612709890.0,Austin,Spurs,AUS,0,0,,,,,,0,0,,,,,,0
+2022200104,306,1,98,3,10:10 PM,10:58,Jones 1' Cutting Layup Shot (19 PTS) (Faried 2 AST),,,61 - 64,3,4,1630222,Mason Jones,1612709931.0,Mexico City,Capitanes,MXC,4,202702,Kenneth Faried,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0
+2022200104,308,2,1,3,10:10 PM,10:40,,,MISS Barlow 27' 3PT Jump Shot,,,5,1631230,Dominick Barlow,1612709890.0,Austin,Spurs,AUS,0,0,,,,,,0,0,,,,,,0
+2022200104,309,4,0,3,10:10 PM,10:38,Jones REBOUND (Off:0 Def:3),,,,,4,1630222,Mason Jones,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200104,310,2,1,3,10:10 PM,10:17,MISS McKinnie 25' 3PT Jump Shot,,,,,4,1628035,Alfonzo McKinnie,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200104,311,4,0,3,10:10 PM,10:14,,,Bassey REBOUND (Off:1 Def:6),,,5,1629646,Charles Bassey,1612709890.0,Austin,Spurs,AUS,0,0,,,,,,0,0,,,,,,0
+2022200104,312,5,1,3,10:10 PM,10:12,Minaya STEAL (2 STL),,Hall Bad Pass Turnover (P1.T10),,,5,1631160,Jordan Hall,1612709890.0,Austin,Spurs,AUS,4,1631303,Justin Minaya,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0
+2022200104,314,2,101,3,10:11 PM,9:48,MISS Minaya 6' Driving Floating Jump Shot,,,,,4,1631303,Justin Minaya,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200104,315,4,0,3,10:11 PM,9:45,Faried REBOUND (Off:4 Def:1),,,,,4,202702,Kenneth Faried,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200104,316,2,97,3,10:11 PM,9:45,MISS Faried Tip Layup Shot,,,,,4,202702,Kenneth Faried,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200104,317,4,0,3,10:11 PM,9:44,,,Zegarowski REBOUND (Off:0 Def:2),,,5,1630681,Marcus Zegarowski,1612709890.0,Austin,Spurs,AUS,0,0,,,,,,0,0,,,,,,0
+2022200104,318,6,2,3,10:11 PM,9:41,Jones S.FOUL (P2.T1),,,,,4,1630222,Mason Jones,1612709931.0,Mexico City,Capitanes,MXC,5,1629646,Charles Bassey,1612709890.0,Austin,Spurs,AUS,1,0,,,,,,0
+2022200104,320,3,31,3,10:11 PM,9:41,,,Bassey Free Throw 2PT (16 PTS),63 - 64,1,5,1629646,Charles Bassey,1612709890.0,Austin,Spurs,AUS,0,0,,,,,,0,0,,,,,,0
+2022200104,321,1,98,3,10:12 PM,9:25,Faried 1' Cutting Layup Shot (2 PTS) (Mendoza 2 AST),,,63 - 66,3,4,202702,Kenneth Faried,1612709931.0,Mexico City,Capitanes,MXC,4,1628150,Rigoberto Mendoza,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0
+2022200104,646,2,6,3,10:12 PM,9:06,Faried BLOCK (2 BLK),,MISS Mahoney 7' Driving Layup,,,5,1630778,Denzel Mahoney,1612709890.0,Austin,Spurs,AUS,0,0,,,,,,4,202702,Kenneth Faried,1612709931.0,Mexico City,Capitanes,MXC,0
+2022200104,648,4,0,3,10:12 PM,9:05,,,Spurs Rebound,,,3,1612709890,,,,,,0,0,,,,,,0,0,,,,,,0
+2022200104,323,2,1,3,10:12 PM,9:00,,,MISS Bassey 27' 3PT Jump Shot,,,5,1629646,Charles Bassey,1612709890.0,Austin,Spurs,AUS,0,0,,,,,,0,0,,,,,,0
+2022200104,324,4,0,3,10:12 PM,8:58,,,Barlow REBOUND (Off:3 Def:2),,,5,1631230,Dominick Barlow,1612709890.0,Austin,Spurs,AUS,0,0,,,,,,0,0,,,,,,0
+2022200104,325,2,1,3,10:12 PM,8:56,,,MISS Mahoney 26' 3PT Jump Shot,,,5,1630778,Denzel Mahoney,1612709890.0,Austin,Spurs,AUS,0,0,,,,,,0,0,,,,,,0
+2022200104,326,4,0,3,10:12 PM,8:52,McKinnie REBOUND (Off:0 Def:4),,,,,4,1628035,Alfonzo McKinnie,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200104,327,6,2,3,10:13 PM,8:49,,,Mahoney S.FOUL (P2.T1),,,5,1630778,Denzel Mahoney,1612709890.0,Austin,Spurs,AUS,4,1628150,Rigoberto Mendoza,1612709931.0,Mexico City,Capitanes,MXC,1,0,,,,,,0
+2022200104,329,3,31,3,10:13 PM,8:49,Mendoza Free Throw 2PT (14 PTS),,,63 - 68,5,4,1628150,Rigoberto Mendoza,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200104,330,1,80,3,10:14 PM,8:27,,,Zegarowski 26' 3PT Step Back Jump Shot (6 PTS),66 - 68,2,5,1630681,Marcus Zegarowski,1612709890.0,Austin,Spurs,AUS,0,0,,,,,,0,0,,,,,,0
+2022200104,331,2,7,3,10:14 PM,8:13,MISS Faried 1' Dunk,,,,,4,202702,Kenneth Faried,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200104,332,4,0,3,10:14 PM,8:11,,,Barlow REBOUND (Off:3 Def:3),,,5,1631230,Dominick Barlow,1612709890.0,Austin,Spurs,AUS,0,0,,,,,,0,0,,,,,,0
+2022200104,333,6,2,3,10:14 PM,8:10,McKinnie S.FOUL (P2.T2),,,,,4,1628035,Alfonzo McKinnie,1612709931.0,Mexico City,Capitanes,MXC,5,1631230,Dominick Barlow,1612709890.0,Austin,Spurs,AUS,1,0,,,,,,0
+2022200104,335,3,31,3,10:14 PM,8:10,,,MISS Barlow Free Throw 2PT,,,5,1631230,Dominick Barlow,1612709890.0,Austin,Spurs,AUS,0,0,,,,,,0,0,,,,,,0
+2022200104,336,4,0,3,10:15 PM,8:07,Faried REBOUND (Off:4 Def:2),,,,,4,202702,Kenneth Faried,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200104,337,2,3,3,10:15 PM,7:50,MISS Jones 9' Hook Shot,,,,,4,1630222,Mason Jones,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200104,338,4,0,3,10:15 PM,7:50,CAPITANES Rebound,,,,,2,1612709931,,,,,,0,0,,,,,,0,0,,,,,,0
+2022200104,339,1,6,3,10:15 PM,7:41,Minaya 1' Driving Layup (10 PTS),,,66 - 70,4,4,1631303,Justin Minaya,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200104,340,6,2,3,10:16 PM,7:41,,,Bassey S.FOUL (P2.T2),,,5,1629646,Charles Bassey,1612709890.0,Austin,Spurs,AUS,4,1631303,Justin Minaya,1612709931.0,Mexico City,Capitanes,MXC,1,0,,,,,,0
+2022200104,342,8,0,3,10:16 PM,7:41,SUB: Napier FOR Mendoza,,,,,4,1628150,Rigoberto Mendoza,1612709931.0,Mexico City,Capitanes,MXC,4,203894,Shabazz Napier,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0
+2022200104,343,8,0,3,10:16 PM,7:41,,,SUB: Kier FOR Hall,,,5,1631160,Jordan Hall,1612709890.0,Austin,Spurs,AUS,5,1641505,Justin Kier,1612709890.0,Austin,Spurs,AUS,0,0,,,,,,0
+2022200104,346,3,30,3,10:16 PM,7:41,Minaya Free Throw 1PT (11 PTS),,,66 - 71,5,4,1631303,Justin Minaya,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200104,347,1,108,3,10:16 PM,7:25,,,Bassey 1' Cutting Dunk Shot (18 PTS) (Mahoney 1 AST),68 - 71,3,5,1629646,Charles Bassey,1612709890.0,Austin,Spurs,AUS,5,1630778,Denzel Mahoney,1612709890.0,Austin,Spurs,AUS,0,0,,,,,,0
+2022200104,349,5,1,3,10:17 PM,7:06,Faried Bad Pass Turnover (P3.T7),,Bassey STEAL (1 STL),,,4,202702,Kenneth Faried,1612709931.0,Mexico City,Capitanes,MXC,5,1629646,Charles Bassey,1612709890.0,Austin,Spurs,AUS,0,0,,,,,,0
+2022200104,351,1,103,3,10:17 PM,7:01,,,Kier 26' 3PT Running Pull-Up Jump Shot (8 PTS) (Bassey 3 AST),71 - 71,TIE,5,1641505,Justin Kier,1612709890.0,Austin,Spurs,AUS,5,1629646,Charles Bassey,1612709890.0,Austin,Spurs,AUS,0,0,,,,,,0
+2022200104,353,2,101,3,10:17 PM,6:40,MISS McKinnie 9' Driving Floating Jump Shot,,,,,4,1628035,Alfonzo McKinnie,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200104,354,4,0,3,10:17 PM,6:36,Faried REBOUND (Off:5 Def:2),,,,,4,202702,Kenneth Faried,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200104,355,1,97,3,10:17 PM,6:36,Faried Tip Layup Shot (4 PTS),,,71 - 73,2,4,202702,Kenneth Faried,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200104,356,2,44,3,10:17 PM,6:25,,,MISS Bassey 1' Reverse Layup,,,5,1629646,Charles Bassey,1612709890.0,Austin,Spurs,AUS,0,0,,,,,,0,0,,,,,,0
+2022200104,357,4,0,3,10:17 PM,6:22,Faried REBOUND (Off:5 Def:3),,,,,4,202702,Kenneth Faried,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200104,358,1,1,3,10:18 PM,6:02,Minaya 24' 3PT Jump Shot (14 PTS) (Napier 3 AST),,,71 - 76,5,4,1631303,Justin Minaya,1612709931.0,Mexico City,Capitanes,MXC,4,203894,Shabazz Napier,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0
+2022200104,360,9,1,3,10:18 PM,5:52,CAPITANES Timeout: Regular (Full 3 Short 0),,,,,2,1612709931,,,,,,0,0,,,,,,0,0,,,,,,0
+2022200104,361,8,0,3,10:18 PM,5:52,SUB: Pacheco FOR McKinnie,,,,,4,1628035,Alfonzo McKinnie,1612709931.0,Mexico City,Capitanes,MXC,4,1631344,Caio Pacheco,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0
+2022200104,362,8,0,3,10:18 PM,5:52,SUB: Culver FOR Faried,,,,,4,202702,Kenneth Faried,1612709931.0,Mexico City,Capitanes,MXC,4,1630633,Derek Culver,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0
+2022200104,363,8,0,3,10:18 PM,5:52,,,SUB: Kuhse FOR Zegarowski,,,5,1630681,Marcus Zegarowski,1612709890.0,Austin,Spurs,AUS,5,1631339,Tommy Kuhse,1612709890.0,Austin,Spurs,AUS,0,0,,,,,,0
+2022200104,364,8,0,3,10:18 PM,5:52,,,SUB: Johnson FOR Barlow,,,5,1631230,Dominick Barlow,1612709890.0,Austin,Spurs,AUS,5,1628993,Alize Johnson,1612709890.0,Austin,Spurs,AUS,0,0,,,,,,0
+2022200104,365,8,0,3,10:18 PM,5:52,,,SUB: Adaway FOR Mahoney,,,5,1630778,Denzel Mahoney,1612709890.0,Austin,Spurs,AUS,5,1631286,Jalen Adaway,1612709890.0,Austin,Spurs,AUS,0,0,,,,,,0
+2022200104,371,5,40,3,10:20 PM,5:43,,,Kier Out of Bounds Lost Ball Turnover (P3.T11),,,5,1641505,Justin Kier,1612709890.0,Austin,Spurs,AUS,0,0,,,,,,1,0,,,,,,0
+2022200104,372,2,1,3,10:20 PM,5:25,MISS Minaya 24' 3PT Jump Shot,,,,,4,1631303,Justin Minaya,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200104,373,4,0,3,10:20 PM,5:23,Culver REBOUND (Off:2 Def:1),,,,,4,1630633,Derek Culver,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200104,374,2,72,3,10:20 PM,5:23,MISS Culver 1' Putback Layup,,Bassey BLOCK (2 BLK),,,4,1630633,Derek Culver,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,5,1629646,Charles Bassey,1612709890.0,Austin,Spurs,AUS,0
+2022200104,376,4,0,3,10:20 PM,5:22,Minaya REBOUND (Off:1 Def:0),,,,,4,1631303,Justin Minaya,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200104,403,2,66,3,10:21 PM,5:22,MISS Minaya 8' Jump Bank Shot,,,,,4,1631303,Justin Minaya,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200104,404,4,0,3,10:21 PM,5:21,,,Bassey REBOUND (Off:1 Def:7),,,5,1629646,Charles Bassey,1612709890.0,Austin,Spurs,AUS,0,0,,,,,,0,0,,,,,,0
+2022200104,377,6,1,3,10:21 PM,5:13,Pacheco P.FOUL (P1.T3),,,,,4,1631344,Caio Pacheco,1612709931.0,Mexico City,Capitanes,MXC,5,1629646,Charles Bassey,1612709890.0,Austin,Spurs,AUS,1,0,,,,,,0
+2022200104,379,6,2,3,10:21 PM,5:04,Culver S.FOUL (P1.T4),,,,,4,1630633,Derek Culver,1612709931.0,Mexico City,Capitanes,MXC,5,1629646,Charles Bassey,1612709890.0,Austin,Spurs,AUS,1,0,,,,,,0
+2022200104,381,3,31,3,10:22 PM,5:04,,,Bassey Free Throw 2PT (20 PTS),73 - 76,3,5,1629646,Charles Bassey,1612709890.0,Austin,Spurs,AUS,0,0,,,,,,0,0,,,,,,0
+2022200104,382,2,1,3,10:22 PM,4:40,MISS Minaya 3PT Jump Shot,,,,,4,1631303,Justin Minaya,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200104,383,4,0,3,10:22 PM,4:37,,,Kier REBOUND (Off:0 Def:1),,,5,1641505,Justin Kier,1612709890.0,Austin,Spurs,AUS,0,0,,,,,,0,0,,,,,,0
+2022200104,384,5,1,3,10:22 PM,4:33,Minaya STEAL (3 STL),,Kier Bad Pass Turnover (P4.T12),,,5,1641505,Justin Kier,1612709890.0,Austin,Spurs,AUS,4,1631303,Justin Minaya,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0
+2022200104,386,1,50,3,10:22 PM,4:27,Minaya 1' Running Dunk (16 PTS),,,73 - 78,5,4,1631303,Justin Minaya,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200104,387,1,52,3,10:23 PM,4:11,,,Bassey 2' Alley Oop Dunk (22 PTS) (Kier 3 AST),75 - 78,3,5,1629646,Charles Bassey,1612709890.0,Austin,Spurs,AUS,5,1641505,Justin Kier,1612709890.0,Austin,Spurs,AUS,0,0,,,,,,0
+2022200104,389,2,1,3,10:23 PM,3:59,MISS Jones 26' 3PT Jump Shot,,,,,4,1630222,Mason Jones,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200104,390,4,0,3,10:23 PM,3:56,Culver REBOUND (Off:3 Def:1),,,,,4,1630633,Derek Culver,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200104,391,6,2,3,10:23 PM,3:56,,,Johnson S.FOUL (P1.T3),,,5,1628993,Alize Johnson,1612709890.0,Austin,Spurs,AUS,4,1630633,Derek Culver,1612709931.0,Mexico City,Capitanes,MXC,1,0,,,,,,0
+2022200104,393,8,0,3,10:23 PM,3:56,SUB: Bonilla FOR Minaya,,,,,4,1631303,Justin Minaya,1612709931.0,Mexico City,Capitanes,MXC,4,1641566,Gael Bonilla,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0
+2022200104,394,8,0,3,10:23 PM,3:56,,,SUB: Barlow FOR Bassey,,,5,1629646,Charles Bassey,1612709890.0,Austin,Spurs,AUS,5,1631230,Dominick Barlow,1612709890.0,Austin,Spurs,AUS,0,0,,,,,,0
+2022200104,397,3,31,3,10:23 PM,3:56,Culver Free Throw 2PT (6 PTS),,,75 - 80,5,4,1630633,Derek Culver,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200104,398,1,6,3,10:24 PM,3:43,,,Johnson 3' Driving Layup (10 PTS),77 - 80,3,5,1628993,Alize Johnson,1612709890.0,Austin,Spurs,AUS,0,0,,,,,,0,0,,,,,,0
+2022200104,399,2,58,3,10:24 PM,3:25,MISS Culver 7' Turnaround Hook Shot,,,,,4,1630633,Derek Culver,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200104,400,4,0,3,10:24 PM,3:23,,,Adaway REBOUND (Off:1 Def:2),,,5,1631286,Jalen Adaway,1612709890.0,Austin,Spurs,AUS,0,0,,,,,,0,0,,,,,,0
+2022200104,401,6,2,3,10:24 PM,3:21,Pacheco S.FOUL (P2.PN),,,,,4,1631344,Caio Pacheco,1612709931.0,Mexico City,Capitanes,MXC,5,1631230,Dominick Barlow,1612709890.0,Austin,Spurs,AUS,1,0,,,,,,0
+2022200104,405,8,0,3,10:24 PM,3:21,,,SUB: Mahoney FOR Kier,,,5,1641505,Justin Kier,1612709890.0,Austin,Spurs,AUS,5,1630778,Denzel Mahoney,1612709890.0,Austin,Spurs,AUS,0,0,,,,,,0
+2022200104,407,3,31,3,10:24 PM,3:21,,,Barlow Free Throw 2PT (10 PTS),79 - 80,1,5,1631230,Dominick Barlow,1612709890.0,Austin,Spurs,AUS,0,0,,,,,,0,0,,,,,,0
+2022200104,408,6,1,3,10:25 PM,3:11,,,Kuhse P.FOUL (P1.T4),,,5,1631339,Tommy Kuhse,1612709890.0,Austin,Spurs,AUS,4,1630222,Mason Jones,1612709931.0,Mexico City,Capitanes,MXC,1,0,,,,,,0
+2022200104,410,1,6,3,10:25 PM,3:01,Jones 2' Driving Layup (21 PTS),,,79 - 82,3,4,1630222,Mason Jones,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200104,411,2,5,3,10:25 PM,2:41,,,MISS Barlow 3' Layup,,,5,1631230,Dominick Barlow,1612709890.0,Austin,Spurs,AUS,0,0,,,,,,0,0,,,,,,0
+2022200104,413,4,0,3,10:25 PM,2:37,,,Barlow REBOUND (Off:4 Def:3),,,5,1631230,Dominick Barlow,1612709890.0,Austin,Spurs,AUS,0,0,,,,,,0,0,,,,,,0
+2022200104,414,1,72,3,10:25 PM,2:36,,,Barlow 3' Putback Layup (12 PTS),81 - 82,1,5,1631230,Dominick Barlow,1612709890.0,Austin,Spurs,AUS,0,0,,,,,,0,0,,,,,,0
+2022200104,415,5,2,3,10:26 PM,2:32,Pacheco Lost Ball Turnover (P1.T8),,Kuhse STEAL (1 STL),,,4,1631344,Caio Pacheco,1612709931.0,Mexico City,Capitanes,MXC,5,1631339,Tommy Kuhse,1612709890.0,Austin,Spurs,AUS,0,0,,,,,,0
+2022200104,417,1,66,3,10:26 PM,2:29,,,Kuhse 8' Jump Bank Shot (10 PTS),83 - 82,-1,5,1631339,Tommy Kuhse,1612709890.0,Austin,Spurs,AUS,0,0,,,,,,0,0,,,,,,0
+2022200104,418,1,5,3,10:26 PM,2:08,Culver Layup (8 PTS),,,83 - 84,1,4,1630633,Derek Culver,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200104,419,6,2,3,10:26 PM,2:08,,,Adaway S.FOUL (P2.PN),,,5,1631286,Jalen Adaway,1612709890.0,Austin,Spurs,AUS,4,1630633,Derek Culver,1612709931.0,Mexico City,Capitanes,MXC,1,0,,,,,,0
+2022200104,421,9,1,3,10:26 PM,2:08,,,Spurs Timeout: Regular (Reg.3 Short 0),,,3,1612709890,,,,,,0,0,,,,,,0,0,,,,,,0
+2022200104,422,8,0,3,10:26 PM,2:08,SUB: Mendoza FOR Jones,,,,,4,1630222,Mason Jones,1612709931.0,Mexico City,Capitanes,MXC,4,1628150,Rigoberto Mendoza,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0
+2022200104,424,3,30,3,10:28 PM,2:08,Culver Free Throw 1PT (9 PTS),,,83 - 85,2,4,1630633,Derek Culver,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200104,425,1,5,3,10:29 PM,1:47,,,Johnson 1' Layup (12 PTS),85 - 85,TIE,5,1628993,Alize Johnson,1612709890.0,Austin,Spurs,AUS,0,0,,,,,,0,0,,,,,,0
+2022200104,426,1,80,3,10:29 PM,1:23,Mendoza 26' 3PT Step Back Jump Shot (17 PTS),,,85 - 88,3,4,1628150,Rigoberto Mendoza,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200104,427,6,1,3,10:29 PM,1:16,Mendoza P.FOUL (P2.PN),,,,,4,1628150,Rigoberto Mendoza,1612709931.0,Mexico City,Capitanes,MXC,5,1630778,Denzel Mahoney,1612709890.0,Austin,Spurs,AUS,1,0,,,,,,0
+2022200104,429,8,0,3,10:29 PM,1:16,SUB: McKinnie FOR Bonilla,,,,,4,1641566,Gael Bonilla,1612709931.0,Mexico City,Capitanes,MXC,4,1628035,Alfonzo McKinnie,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0
+2022200104,431,3,31,3,10:30 PM,1:16,,,Mahoney Free Throw 2PT (10 PTS),87 - 88,1,5,1630778,Denzel Mahoney,1612709890.0,Austin,Spurs,AUS,0,0,,,,,,0,0,,,,,,0
+2022200104,432,6,1,3,10:30 PM,0:57,,,Mahoney P.FOUL (P3.PN),,,5,1630778,Denzel Mahoney,1612709890.0,Austin,Spurs,AUS,4,1628150,Rigoberto Mendoza,1612709931.0,Mexico City,Capitanes,MXC,1,0,,,,,,0
+2022200104,434,3,31,3,10:31 PM,0:57,Mendoza Free Throw 2PT (19 PTS),,,87 - 90,3,4,1628150,Rigoberto Mendoza,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200104,435,6,2,3,10:31 PM,0:44,Culver S.FOUL (P2.PN),,,,,4,1630633,Derek Culver,1612709931.0,Mexico City,Capitanes,MXC,5,1631230,Dominick Barlow,1612709890.0,Austin,Spurs,AUS,1,0,,,,,,0
+2022200104,437,3,31,3,10:31 PM,0:44,,,Barlow Free Throw 2PT (14 PTS),89 - 90,1,5,1631230,Dominick Barlow,1612709890.0,Austin,Spurs,AUS,0,0,,,,,,0,0,,,,,,0
+2022200104,438,2,1,3,10:32 PM,0:32,MISS Pacheco 25' 3PT Jump Shot,,,,,4,1631344,Caio Pacheco,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200104,439,4,0,3,10:32 PM,0:30,,,Johnson REBOUND (Off:2 Def:6),,,5,1628993,Alize Johnson,1612709890.0,Austin,Spurs,AUS,0,0,,,,,,0,0,,,,,,0
+2022200104,440,1,1,3,10:32 PM,0:23,,,Mahoney 26' 3PT Jump Shot (13 PTS) (Kuhse 5 AST),92 - 90,-2,5,1630778,Denzel Mahoney,1612709890.0,Austin,Spurs,AUS,5,1631339,Tommy Kuhse,1612709890.0,Austin,Spurs,AUS,0,0,,,,,,0
+2022200104,442,13,0,3,10:32 PM,0:00,,End of 3rd Period (10:32 PM EST),,92 - 90,-2,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+2022200104,449,12,0,4,10:35 PM,12:00,,Start of 4th Period (10:35 PM EST),,92 - 90,-2,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+2022200104,450,2,1,4,10:35 PM,11:39,MISS Faried 24' 3PT Jump Shot,,,,,4,202702,Kenneth Faried,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200104,451,4,0,4,10:35 PM,11:36,,,Kuhse REBOUND (Off:1 Def:2),,,5,1631339,Tommy Kuhse,1612709890.0,Austin,Spurs,AUS,0,0,,,,,,0,0,,,,,,0
+2022200104,452,1,75,4,10:36 PM,11:21,,,Hall 3' Driving Finger Roll Layup (2 PTS),94 - 90,-4,5,1631160,Jordan Hall,1612709890.0,Austin,Spurs,AUS,0,0,,,,,,0,0,,,,,,0
+2022200104,453,6,2,4,10:36 PM,11:21,Mendoza S.FOUL (P3.T1),,,,,4,1628150,Rigoberto Mendoza,1612709931.0,Mexico City,Capitanes,MXC,5,1631160,Jordan Hall,1612709890.0,Austin,Spurs,AUS,1,0,,,,,,0
+2022200104,455,3,30,4,10:36 PM,11:21,,,Hall Free Throw 1PT (3 PTS),95 - 90,-5,5,1631160,Jordan Hall,1612709890.0,Austin,Spurs,AUS,0,0,,,,,,0,0,,,,,,0
+2022200104,456,2,80,4,10:37 PM,10:55,MISS McKinnie 16' Step Back Jump Shot,,,,,4,1628035,Alfonzo McKinnie,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200104,457,4,0,4,10:37 PM,10:53,,,Kuhse REBOUND (Off:1 Def:3),,,5,1631339,Tommy Kuhse,1612709890.0,Austin,Spurs,AUS,0,0,,,,,,0,0,,,,,,0
+2022200104,458,1,41,4,10:37 PM,10:49,,,Kuhse 7' Running Layup (12 PTS),97 - 90,-7,5,1631339,Tommy Kuhse,1612709890.0,Austin,Spurs,AUS,0,0,,,,,,0,0,,,,,,0
+2022200104,459,9,1,4,10:37 PM,10:48,CAPITANES Timeout: Regular (Full 4 Short 0),,,,,2,1612709931,,,,,,0,0,,,,,,0,0,,,,,,0
+2022200104,460,8,0,4,10:37 PM,10:48,SUB: Jones FOR Pacheco,,,,,4,1631344,Caio Pacheco,1612709931.0,Mexico City,Capitanes,MXC,4,1630222,Mason Jones,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0
+2022200104,462,2,1,4,10:39 PM,10:32,MISS McKinnie 3PT Jump Shot,,,,,4,1628035,Alfonzo McKinnie,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200104,463,4,0,4,10:39 PM,10:29,Faried REBOUND (Off:6 Def:3),,,,,4,202702,Kenneth Faried,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200104,464,1,1,4,10:39 PM,10:26,Mendoza 3PT Jump Shot (22 PTS) (Napier 4 AST),,,97 - 93,-4,4,1628150,Rigoberto Mendoza,1612709931.0,Mexico City,Capitanes,MXC,4,203894,Shabazz Napier,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0
+2022200104,466,2,1,4,10:40 PM,9:57,,,MISS Bassey 26' 3PT Jump Shot,,,5,1629646,Charles Bassey,1612709890.0,Austin,Spurs,AUS,0,0,,,,,,0,0,,,,,,0
+2022200104,467,4,0,4,10:40 PM,9:55,McKinnie REBOUND (Off:0 Def:5),,,,,4,1628035,Alfonzo McKinnie,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200104,468,6,2,4,10:40 PM,9:39,,,Bassey S.FOUL (P3.T1),,,5,1629646,Charles Bassey,1612709890.0,Austin,Spurs,AUS,4,202702,Kenneth Faried,1612709931.0,Mexico City,Capitanes,MXC,1,0,,,,,,0
+2022200104,470,8,0,4,10:40 PM,9:39,,,SUB: Zegarowski FOR Kuhse,,,5,1631339,Tommy Kuhse,1612709890.0,Austin,Spurs,AUS,5,1630681,Marcus Zegarowski,1612709890.0,Austin,Spurs,AUS,0,0,,,,,,0
+2022200104,471,8,0,4,10:40 PM,9:39,,,SUB: Kier FOR Mahoney,,,5,1630778,Denzel Mahoney,1612709890.0,Austin,Spurs,AUS,5,1641505,Justin Kier,1612709890.0,Austin,Spurs,AUS,0,0,,,,,,0
+2022200104,474,3,31,4,10:41 PM,9:39,MISS Faried Free Throw 2PT,,,,,4,202702,Kenneth Faried,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200104,475,4,0,4,10:41 PM,9:36,,,Bassey REBOUND (Off:1 Def:8),,,5,1629646,Charles Bassey,1612709890.0,Austin,Spurs,AUS,0,0,,,,,,0,0,,,,,,0
+2022200104,476,2,79,4,10:41 PM,9:14,,,MISS Kier 29' 3PT Pullup Jump Shot,,,5,1641505,Justin Kier,1612709890.0,Austin,Spurs,AUS,0,0,,,,,,0,0,,,,,,0
+2022200104,477,4,0,4,10:41 PM,9:12,,,Hall REBOUND (Off:1 Def:0),,,5,1631160,Jordan Hall,1612709890.0,Austin,Spurs,AUS,0,0,,,,,,0,0,,,,,,0
+2022200104,478,1,5,4,10:41 PM,9:10,,,Bassey 2' Layup (24 PTS) (Hall 4 AST),99 - 93,-6,5,1629646,Charles Bassey,1612709890.0,Austin,Spurs,AUS,5,1631160,Jordan Hall,1612709890.0,Austin,Spurs,AUS,0,0,,,,,,0
+2022200104,480,6,2,4,10:41 PM,9:10,Faried S.FOUL (P2.T2),,,,,4,202702,Kenneth Faried,1612709931.0,Mexico City,Capitanes,MXC,5,1629646,Charles Bassey,1612709890.0,Austin,Spurs,AUS,1,0,,,,,,0
+2022200104,482,3,30,4,10:42 PM,9:10,,,Hall Free Throw 1PT (4 PTS),100 - 93,-7,5,1631160,Jordan Hall,1612709890.0,Austin,Spurs,AUS,0,0,,,,,,0,0,,,,,,0
+2022200104,483,1,6,4,10:42 PM,8:59,Jones 1' Driving Layup (23 PTS),,,100 - 95,-5,4,1630222,Mason Jones,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200104,484,6,2,4,10:42 PM,8:59,,,Kier S.FOUL (P2.T2),,,5,1641505,Justin Kier,1612709890.0,Austin,Spurs,AUS,4,1630222,Mason Jones,1612709931.0,Mexico City,Capitanes,MXC,1,0,,,,,,0
+2022200104,486,3,30,4,10:43 PM,8:59,Jones Free Throw 1PT (24 PTS),,,100 - 96,-4,4,1630222,Mason Jones,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200104,487,5,1,4,10:43 PM,8:43,Napier STEAL (2 STL),,Hall Bad Pass Turnover (P2.T13),,,5,1631160,Jordan Hall,1612709890.0,Austin,Spurs,AUS,4,203894,Shabazz Napier,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0
+2022200104,489,1,41,4,10:43 PM,8:38,Jones 1' Running Layup (26 PTS) (Napier 5 AST),,,100 - 98,-2,4,1630222,Mason Jones,1612709931.0,Mexico City,Capitanes,MXC,4,203894,Shabazz Napier,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0
+2022200104,494,18,1,4,10:43 PM,8:33,,Instant Replay4th Period (10:43 PM EST),,100 - 98,-2,0,491,,,,,,0,0,,,,,,1,0,,,,,,0
+2022200104,495,8,0,4,10:46 PM,8:33,,,SUB: Johnson FOR Barlow,,,5,1631230,Dominick Barlow,1612709890.0,Austin,Spurs,AUS,5,1628993,Alize Johnson,1612709890.0,Austin,Spurs,AUS,0,0,,,,,,0
+2022200104,497,1,5,4,10:46 PM,8:18,,,Bassey 2' Layup (26 PTS) (Hall 5 AST),102 - 98,-4,5,1629646,Charles Bassey,1612709890.0,Austin,Spurs,AUS,5,1631160,Jordan Hall,1612709890.0,Austin,Spurs,AUS,0,0,,,,,,0
+2022200104,499,2,1,4,10:47 PM,7:52,MISS McKinnie 24' 3PT Jump Shot,,,,,4,1628035,Alfonzo McKinnie,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200104,500,4,0,4,10:47 PM,7:50,Faried REBOUND (Off:7 Def:3),,,,,4,202702,Kenneth Faried,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200104,501,2,1,4,10:47 PM,7:48,MISS Mendoza 24' 3PT Jump Shot,,,,,4,1628150,Rigoberto Mendoza,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200104,502,4,0,4,10:47 PM,7:48,,,Johnson REBOUND (Off:2 Def:7),,,5,1628993,Alize Johnson,1612709890.0,Austin,Spurs,AUS,0,0,,,,,,0,0,,,,,,0
+2022200104,503,6,2,4,10:47 PM,7:37,Faried S.FOUL (P3.T3),,,,,4,202702,Kenneth Faried,1612709931.0,Mexico City,Capitanes,MXC,5,1629646,Charles Bassey,1612709890.0,Austin,Spurs,AUS,1,0,,,,,,0
+2022200104,505,8,0,4,10:47 PM,7:37,SUB: Minaya FOR McKinnie,,,,,4,1628035,Alfonzo McKinnie,1612709931.0,Mexico City,Capitanes,MXC,4,1631303,Justin Minaya,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0
+2022200104,507,3,31,4,10:48 PM,7:37,,,Bassey Free Throw 2PT (28 PTS),104 - 98,-6,5,1629646,Charles Bassey,1612709890.0,Austin,Spurs,AUS,0,0,,,,,,0,0,,,,,,0
+2022200104,508,2,79,4,10:48 PM,7:24,MISS Napier 14' Pullup Jump Shot,,,,,4,203894,Shabazz Napier,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200104,509,4,0,4,10:48 PM,7:24,,,Hall REBOUND (Off:1 Def:1),,,5,1631160,Jordan Hall,1612709890.0,Austin,Spurs,AUS,0,0,,,,,,0,0,,,,,,0
+2022200104,510,6,11,4,10:48 PM,7:24,Jones T.FOUL (P2.T3),,,,,4,1630222,Mason Jones,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,1,0,,,,,,0
+2022200104,512,8,0,4,10:48 PM,7:24,,,SUB: Barlow FOR Bassey,,,5,1629646,Charles Bassey,1612709890.0,Austin,Spurs,AUS,5,1631230,Dominick Barlow,1612709890.0,Austin,Spurs,AUS,0,0,,,,,,0
+2022200104,514,3,38,4,10:49 PM,7:24,,,Hall Free Technical 1PT (5 PTS),105 - 98,-7,5,1631160,Jordan Hall,1612709890.0,Austin,Spurs,AUS,0,0,,,,,,0,0,,,,,,0
+2022200104,515,6,26,4,10:49 PM,7:12,,,Barlow Offensive Charge Foul (P2),,,5,1631230,Dominick Barlow,1612709890.0,Austin,Spurs,AUS,4,1631303,Justin Minaya,1612709931.0,Mexico City,Capitanes,MXC,1,0,,,,,,0
+2022200104,517,5,37,4,10:49 PM,7:12,,,Barlow Offensive Foul Turnover (P1.T14),,,5,1631230,Dominick Barlow,1612709890.0,Austin,Spurs,AUS,0,0,,,,,,1,0,,,,,,0
+2022200104,518,5,4,4,10:50 PM,7:01,Jones Traveling Turnover (P2.T9),,,,,4,1630222,Mason Jones,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,1,0,,,,,,0
+2022200104,519,8,0,4,10:50 PM,6:43,SUB: Culver FOR Faried,,,,,4,202702,Kenneth Faried,1612709931.0,Mexico City,Capitanes,MXC,4,1630633,Derek Culver,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0
+2022200104,649,5,40,4,10:50 PM,6:43,,,Zegarowski Out of Bounds Lost Ball Turnover (P1.T15),,,5,1630681,Marcus Zegarowski,1612709890.0,Austin,Spurs,AUS,0,0,,,,,,1,0,,,,,,0
+2022200104,523,1,6,4,10:51 PM,6:26,Culver 3' Driving Layup (11 PTS),,,105 - 100,-5,4,1630633,Derek Culver,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200104,524,1,6,4,10:51 PM,6:11,,,Johnson 2' Driving Layup (14 PTS),107 - 100,-7,5,1628993,Alize Johnson,1612709890.0,Austin,Spurs,AUS,0,0,,,,,,0,0,,,,,,0
+2022200104,525,2,1,4,10:51 PM,5:55,MISS Napier 25' 3PT Jump Shot,,,,,4,203894,Shabazz Napier,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200104,526,4,0,4,10:51 PM,5:52,Minaya REBOUND (Off:2 Def:0),,,,,4,1631303,Justin Minaya,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200104,528,1,1,4,10:51 PM,5:51,Mendoza 26' 3PT Jump Shot (25 PTS) (Minaya 2 AST),,,107 - 103,-4,4,1628150,Rigoberto Mendoza,1612709931.0,Mexico City,Capitanes,MXC,4,1631303,Justin Minaya,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0
+2022200104,530,1,1,4,10:51 PM,5:41,,,Hall 24' 3PT Jump Shot (8 PTS) (Zegarowski 2 AST),110 - 103,-7,5,1631160,Jordan Hall,1612709890.0,Austin,Spurs,AUS,5,1630681,Marcus Zegarowski,1612709890.0,Austin,Spurs,AUS,0,0,,,,,,0
+2022200104,532,6,2,4,10:52 PM,5:21,,,Hall S.FOUL (P4.T3),,,5,1631160,Jordan Hall,1612709890.0,Austin,Spurs,AUS,4,1630222,Mason Jones,1612709931.0,Mexico City,Capitanes,MXC,1,0,,,,,,0
+2022200104,534,8,0,4,10:52 PM,5:21,SUB: McKinnie FOR Napier,,,,,4,203894,Shabazz Napier,1612709931.0,Mexico City,Capitanes,MXC,4,1628035,Alfonzo McKinnie,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0
+2022200104,535,8,0,4,10:52 PM,5:21,,,SUB: Mahoney FOR Kier,,,5,1641505,Justin Kier,1612709890.0,Austin,Spurs,AUS,5,1630778,Denzel Mahoney,1612709890.0,Austin,Spurs,AUS,0,0,,,,,,0
+2022200104,538,3,31,4,10:52 PM,5:21,MISS Jones Free Throw 2PT,,,,,4,1630222,Mason Jones,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200104,539,4,0,4,10:52 PM,5:21,,,Barlow REBOUND (Off:4 Def:4),,,5,1631230,Dominick Barlow,1612709890.0,Austin,Spurs,AUS,0,0,,,,,,0,0,,,,,,0
+2022200104,540,6,2,4,10:53 PM,5:15,Minaya S.FOUL (P1.T4),,,,,4,1631303,Justin Minaya,1612709931.0,Mexico City,Capitanes,MXC,5,1631160,Jordan Hall,1612709890.0,Austin,Spurs,AUS,1,0,,,,,,0
+2022200104,542,3,31,4,10:53 PM,5:15,,,Hall Free Throw 2PT (10 PTS),112 - 103,-9,5,1631160,Jordan Hall,1612709890.0,Austin,Spurs,AUS,0,0,,,,,,0,0,,,,,,0
+2022200104,543,1,1,4,10:53 PM,4:59,Minaya 3PT Jump Shot (19 PTS) (Culver 2 AST),,,112 - 106,-6,4,1631303,Justin Minaya,1612709931.0,Mexico City,Capitanes,MXC,4,1630633,Derek Culver,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0
+2022200104,545,1,1,4,10:54 PM,4:41,,,Johnson 3PT Jump Shot (17 PTS) (Hall 6 AST),115 - 106,-9,5,1628993,Alize Johnson,1612709890.0,Austin,Spurs,AUS,5,1631160,Jordan Hall,1612709890.0,Austin,Spurs,AUS,0,0,,,,,,0
+2022200104,547,1,6,4,10:54 PM,4:28,Jones 2' Driving Layup (28 PTS),,,115 - 108,-7,4,1630222,Mason Jones,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200104,548,6,2,4,10:54 PM,4:28,,,Mahoney S.FOUL (P4.T4),,,5,1630778,Denzel Mahoney,1612709890.0,Austin,Spurs,AUS,4,1630222,Mason Jones,1612709931.0,Mexico City,Capitanes,MXC,1,0,,,,,,0
+2022200104,550,8,0,4,10:54 PM,4:28,SUB: Faried FOR Culver,,,,,4,1630633,Derek Culver,1612709931.0,Mexico City,Capitanes,MXC,4,202702,Kenneth Faried,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0
+2022200104,551,8,0,4,10:54 PM,4:28,,,SUB: Kuhse FOR Zegarowski,,,5,1630681,Marcus Zegarowski,1612709890.0,Austin,Spurs,AUS,5,1631339,Tommy Kuhse,1612709890.0,Austin,Spurs,AUS,0,0,,,,,,0
+2022200104,552,8,0,4,10:54 PM,4:28,,,SUB: Kier FOR Barlow,,,5,1631230,Dominick Barlow,1612709890.0,Austin,Spurs,AUS,5,1641505,Justin Kier,1612709890.0,Austin,Spurs,AUS,0,0,,,,,,0
+2022200104,553,8,0,4,10:54 PM,4:28,,,SUB: Bassey FOR Hall,,,5,1631160,Jordan Hall,1612709890.0,Austin,Spurs,AUS,5,1629646,Charles Bassey,1612709890.0,Austin,Spurs,AUS,0,0,,,,,,0
+2022200104,558,3,30,4,10:55 PM,4:28,Jones Free Throw 1PT (29 PTS),,,115 - 109,-6,4,1630222,Mason Jones,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200104,559,6,1,4,10:55 PM,4:11,Minaya P.FOUL (P2.PN),,,,,4,1631303,Justin Minaya,1612709931.0,Mexico City,Capitanes,MXC,5,1641505,Justin Kier,1612709890.0,Austin,Spurs,AUS,1,0,,,,,,0
+2022200104,561,3,31,4,10:55 PM,4:11,,,MISS Kier Free Throw 2PT,,,5,1641505,Justin Kier,1612709890.0,Austin,Spurs,AUS,0,0,,,,,,0,0,,,,,,0
+2022200104,562,4,0,4,10:56 PM,4:07,McKinnie REBOUND (Off:0 Def:6),,,,,4,1628035,Alfonzo McKinnie,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200104,563,1,101,4,10:56 PM,4:00,Jones 12' Driving Floating Jump Shot (31 PTS),,,115 - 111,-4,4,1630222,Mason Jones,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200104,564,9,1,4,10:56 PM,4:00,,,Spurs Timeout: Regular (Reg.4 Short 0),,,3,1612709890,,,,,,0,0,,,,,,0,0,,,,,,0
+2022200104,565,1,98,4,10:58 PM,3:40,,,Johnson 2' Cutting Layup Shot (19 PTS) (Kier 4 AST),117 - 111,-6,5,1628993,Alize Johnson,1612709890.0,Austin,Spurs,AUS,5,1641505,Justin Kier,1612709890.0,Austin,Spurs,AUS,0,0,,,,,,0
+2022200104,650,7,2,4,10:58 PM,3:40,McKinnie Violation:Defensive Goaltending,,,,,4,1628035,Alfonzo McKinnie,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200104,567,1,1,4,10:58 PM,3:27,Jones 26' 3PT Jump Shot (34 PTS) (Mendoza 3 AST),,,117 - 114,-3,4,1630222,Mason Jones,1612709931.0,Mexico City,Capitanes,MXC,4,1628150,Rigoberto Mendoza,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0
+2022200104,568,5,1,4,10:58 PM,3:22,Minaya STEAL (4 STL),,Johnson Bad Pass Turnover (P3.T16),,,5,1628993,Alize Johnson,1612709890.0,Austin,Spurs,AUS,4,1631303,Justin Minaya,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0
+2022200104,570,2,1,4,10:59 PM,3:18,MISS Mendoza 26' 3PT Jump Shot,,,,,4,1628150,Rigoberto Mendoza,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200104,571,4,0,4,10:59 PM,3:16,Faried REBOUND (Off:8 Def:3),,,,,4,202702,Kenneth Faried,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200104,572,1,72,4,10:59 PM,3:16,Faried 1' Putback Layup (6 PTS),,,117 - 116,-1,4,202702,Kenneth Faried,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200104,573,9,1,4,10:59 PM,3:16,,,Spurs Timeout: Regular (Reg.5 Short 0),,,3,1612709890,,,,,,0,0,,,,,,0,0,,,,,,0
+2022200104,574,8,0,4,10:59 PM,3:16,,,SUB: Hall FOR Kier,,,5,1641505,Justin Kier,1612709890.0,Austin,Spurs,AUS,5,1631160,Jordan Hall,1612709890.0,Austin,Spurs,AUS,0,0,,,,,,0
+2022200104,576,6,2,4,11:00 PM,2:59,Jones S.FOUL (P3.PN),,,,,4,1630222,Mason Jones,1612709931.0,Mexico City,Capitanes,MXC,5,1630778,Denzel Mahoney,1612709890.0,Austin,Spurs,AUS,1,0,,,,,,0
+2022200104,578,3,31,4,11:01 PM,2:59,,,MISS Mahoney Free Throw 2PT,,,5,1630778,Denzel Mahoney,1612709890.0,Austin,Spurs,AUS,0,0,,,,,,0,0,,,,,,0
+2022200104,579,4,0,4,11:01 PM,2:58,,,Spurs Rebound,,,3,1612709890,,,,,,0,0,,,,,,0,0,,,,,,0
+2022200104,580,1,79,4,11:01 PM,2:50,,,Hall 9' Pullup Jump Shot (12 PTS),119 - 116,-3,5,1631160,Jordan Hall,1612709890.0,Austin,Spurs,AUS,0,0,,,,,,0,0,,,,,,0
+2022200104,581,5,2,4,11:01 PM,2:33,Jones Lost Ball Turnover (P3.T10),,Johnson STEAL (2 STL),,,4,1630222,Mason Jones,1612709931.0,Mexico City,Capitanes,MXC,5,1628993,Alize Johnson,1612709890.0,Austin,Spurs,AUS,0,0,,,,,,0
+2022200104,583,2,2,4,11:01 PM,2:28,,,MISS Hall 3PT Running Jump Shot,,,5,1631160,Jordan Hall,1612709890.0,Austin,Spurs,AUS,0,0,,,,,,0,0,,,,,,0
+2022200104,584,4,0,4,11:01 PM,2:25,McKinnie REBOUND (Off:0 Def:7),,,,,4,1628035,Alfonzo McKinnie,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200104,585,1,80,4,11:02 PM,2:13,Jones 25' 3PT Step Back Jump Shot (37 PTS),,,119 - 119,TIE,4,1630222,Mason Jones,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200104,586,6,2,4,11:02 PM,2:05,Jones S.FOUL (P4.PN),,,,,4,1630222,Mason Jones,1612709931.0,Mexico City,Capitanes,MXC,5,1631339,Tommy Kuhse,1612709890.0,Austin,Spurs,AUS,1,0,,,,,,0
+2022200104,588,3,31,4,11:02 PM,2:05,,,Kuhse Free Throw 2PT (14 PTS),121 - 119,-2,5,1631339,Tommy Kuhse,1612709890.0,Austin,Spurs,AUS,0,0,,,,,,0,0,,,,,,0
+2022200104,589,1,73,4,11:03 PM,1:44,Mendoza 2' Driving Reverse Layup (27 PTS) (McKinnie 1 AST),,,121 - 121,TIE,4,1628150,Rigoberto Mendoza,1612709931.0,Mexico City,Capitanes,MXC,4,1628035,Alfonzo McKinnie,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0
+2022200104,590,6,2,4,11:03 PM,1:44,,,Hall S.FOUL (P5.PN),,,5,1631160,Jordan Hall,1612709890.0,Austin,Spurs,AUS,4,1628150,Rigoberto Mendoza,1612709931.0,Mexico City,Capitanes,MXC,1,0,,,,,,0
+2022200104,592,3,10,4,11:03 PM,1:44,Mendoza Free Throw 1 of 1 (28 PTS),,,121 - 122,1,4,1628150,Rigoberto Mendoza,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200104,597,6,2,4,11:06 PM,1:29,Minaya S.FOUL (P3.PN),,,,,4,1631303,Justin Minaya,1612709931.0,Mexico City,Capitanes,MXC,5,1628993,Alize Johnson,1612709890.0,Austin,Spurs,AUS,1,0,,,,,,0
+2022200104,653,9,7,4,11:07 PM,1:29,CAPITANES Timeout: Coach Challenge (Full 4 Short 0),,,,,2,1612709931,,,,,,0,0,,,,,,0,0,,,,,,0
+2022200104,603,18,5,4,11:07 PM,1:29,,Instant Replay4th Period (11:07 PM EST),,121 - 122,1,0,0,,,,,,0,0,,,,,,1,0,,,,,,0
+2022200104,599,3,11,4,11:07 PM,1:29,,,MISS Johnson Free Throw 1 of 2,,,5,1628993,Alize Johnson,1612709890.0,Austin,Spurs,AUS,0,0,,,,,,0,0,,,,,,0
+2022200104,600,4,1,4,11:07 PM,1:29,,,Spurs Rebound,,,3,1612709890,,,,,,0,0,,,,,,0,0,,,,,,0
+2022200104,601,3,12,4,11:07 PM,1:29,,,MISS Johnson Free Throw 2 of 2,,,5,1628993,Alize Johnson,1612709890.0,Austin,Spurs,AUS,0,0,,,,,,0,0,,,,,,0
+2022200104,602,4,0,4,11:07 PM,1:27,Minaya REBOUND (Off:2 Def:1),,,,,4,1631303,Justin Minaya,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200104,604,1,6,4,11:08 PM,1:08,McKinnie 1' Driving Layup (9 PTS),,,121 - 124,3,4,1628035,Alfonzo McKinnie,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200104,605,6,2,4,11:08 PM,1:08,,,Johnson S.FOUL (P2.PN),,,5,1628993,Alize Johnson,1612709890.0,Austin,Spurs,AUS,4,1628035,Alfonzo McKinnie,1612709931.0,Mexico City,Capitanes,MXC,1,0,,,,,,0
+2022200104,607,3,10,4,11:08 PM,1:08,McKinnie Free Throw 1 of 1 (10 PTS),,,121 - 125,4,4,1628035,Alfonzo McKinnie,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200104,608,9,1,4,11:09 PM,1:00,,,Spurs Timeout: Regular (Reg.6 Short 0),,,3,1612709890,,,,,,0,0,,,,,,0,0,,,,,,0
+2022200104,609,2,1,4,11:10 PM,0:53,,,MISS Kuhse 26' 3PT Jump Shot,,,5,1631339,Tommy Kuhse,1612709890.0,Austin,Spurs,AUS,0,0,,,,,,0,0,,,,,,0
+2022200104,610,4,0,4,11:10 PM,0:53,,,Spurs Rebound,,,3,1612709890,,,,,,0,0,,,,,,0,0,,,,,,0
+2022200104,611,6,3,4,11:10 PM,0:53,Jones L.B.FOUL (P5.PN),,,,,4,1630222,Mason Jones,1612709931.0,Mexico City,Capitanes,MXC,5,1628993,Alize Johnson,1612709890.0,Austin,Spurs,AUS,1,0,,,,,,0
+2022200104,613,3,11,4,11:11 PM,0:53,,,Johnson Free Throw 1 of 2 (20 PTS),122 - 125,3,5,1628993,Alize Johnson,1612709890.0,Austin,Spurs,AUS,0,0,,,,,,0,0,,,,,,0
+2022200104,614,3,12,4,11:11 PM,0:53,,,Johnson Free Throw 2 of 2 (21 PTS),123 - 125,2,5,1628993,Alize Johnson,1612709890.0,Austin,Spurs,AUS,0,0,,,,,,0,0,,,,,,0
+2022200104,615,6,1,4,11:11 PM,0:36,,,Mahoney P.FOUL (P5.PN),,,5,1630778,Denzel Mahoney,1612709890.0,Austin,Spurs,AUS,4,202702,Kenneth Faried,1612709931.0,Mexico City,Capitanes,MXC,1,0,,,,,,0
+2022200104,617,3,11,4,11:12 PM,0:36,MISS Faried Free Throw 1 of 2,,,,,4,202702,Kenneth Faried,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200104,618,4,1,4,11:12 PM,0:36,CAPITANES Rebound,,,,,2,1612709931,,,,,,0,0,,,,,,0,0,,,,,,0
+2022200104,619,3,12,4,11:12 PM,0:36,MISS Faried Free Throw 2 of 2,,,,,4,202702,Kenneth Faried,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200104,620,4,0,4,11:12 PM,0:35,,,Johnson REBOUND (Off:2 Def:8),,,5,1628993,Alize Johnson,1612709890.0,Austin,Spurs,AUS,0,0,,,,,,0,0,,,,,,0
+2022200104,621,9,1,4,11:12 PM,0:35,,,Spurs Timeout: Regular (Reg.7 Short 0),,,3,1612709890,,,,,,0,0,,,,,,0,0,,,,,,0
+2022200104,622,2,1,4,11:14 PM,0:19,,,MISS Mahoney 28' 3PT Jump Shot,,,5,1630778,Denzel Mahoney,1612709890.0,Austin,Spurs,AUS,0,0,,,,,,0,0,,,,,,0
+2022200104,623,4,0,4,11:14 PM,0:15,,,Bassey REBOUND (Off:2 Def:8),,,5,1629646,Charles Bassey,1612709890.0,Austin,Spurs,AUS,0,0,,,,,,0,0,,,,,,0
+2022200104,624,2,97,4,11:14 PM,0:15,,,MISS Bassey Tip Layup Shot,,,5,1629646,Charles Bassey,1612709890.0,Austin,Spurs,AUS,0,0,,,,,,0,0,,,,,,0
+2022200104,625,4,0,4,11:14 PM,0:15,,,Bassey REBOUND (Off:3 Def:8),,,5,1629646,Charles Bassey,1612709890.0,Austin,Spurs,AUS,0,0,,,,,,0,0,,,,,,0
+2022200104,626,1,72,4,11:14 PM,0:15,,,Bassey Putback Layup (30 PTS),125 - 125,TIE,5,1629646,Charles Bassey,1612709890.0,Austin,Spurs,AUS,0,0,,,,,,0,0,,,,,,0
+2022200104,627,6,1,4,11:14 PM,0:05,,,Mahoney P.FOUL (P6.PN),,,5,1630778,Denzel Mahoney,1612709890.0,Austin,Spurs,AUS,4,1630222,Mason Jones,1612709931.0,Mexico City,Capitanes,MXC,1,0,,,,,,0
+2022200104,629,8,0,4,11:14 PM,0:05,,,SUB: Kier FOR Mahoney,,,5,1630778,Denzel Mahoney,1612709890.0,Austin,Spurs,AUS,5,1641505,Justin Kier,1612709890.0,Austin,Spurs,AUS,0,0,,,,,,0
+2022200104,631,3,11,4,11:15 PM,0:05,Jones Free Throw 1 of 2 (38 PTS),,,125 - 126,1,4,1630222,Mason Jones,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200104,632,3,12,4,11:15 PM,0:05,Jones Free Throw 2 of 2 (39 PTS),,,125 - 127,2,4,1630222,Mason Jones,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200104,633,8,0,4,11:15 PM,0:05,,,SUB: Barlow FOR Bassey,,,5,1629646,Charles Bassey,1612709890.0,Austin,Spurs,AUS,5,1631230,Dominick Barlow,1612709890.0,Austin,Spurs,AUS,0,0,,,,,,0
+2022200104,635,8,0,4,11:16 PM,0:05,,,SUB: Bassey FOR Barlow,,,5,1631230,Dominick Barlow,1612709890.0,Austin,Spurs,AUS,5,1629646,Charles Bassey,1612709890.0,Austin,Spurs,AUS,0,0,,,,,,0
+2022200104,637,2,1,4,11:16 PM,0:01,,,MISS Kier 26' 3PT Jump Shot,,,5,1641505,Justin Kier,1612709890.0,Austin,Spurs,AUS,0,0,,,,,,0,0,,,,,,0
+2022200104,638,4,0,4,11:16 PM,0:01,Faried REBOUND (Off:8 Def:4),,,,,4,202702,Kenneth Faried,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200104,639,13,0,4,11:16 PM,0:00,,End of 4th Period (11:16 PM EST),,125 - 127,2,0,0,,,,,,0,0,,,,,,0,0,,,,,,0

@@ -1,0 +1,407 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+2022200364,2,12,0,1,9:06 PM,12:00,,Start of 1st Period (9:06 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+2022200364,4,10,0,1,9:06 PM,12:00,Jump Ball Faried vs. Huff: Tip to Davis,,,,,4,202702,Kenneth Faried,1612709931.0,Mexico City,Capitanes,MXC,5,1630643,Jay Huff,1612709928.0,Capital City,Go-Go,CCG,5,1631098,Johnny Davis,1612709928.0,Capital City,Go-Go,CCG,0
+2022200364,7,1,51,1,9:06 PM,11:43,,,Huff 2' Reverse Dunk (2 PTS),2 - 0,-2,5,1630643,Jay Huff,1612709928.0,Capital City,Go-Go,CCG,0,0,,,,,,0,0,,,,,,0
+2022200364,8,2,78,1,9:06 PM,11:22,MISS Mays 5' Floating Jump Shot,,,,,4,1630219,Skylar Mays,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200364,9,4,0,1,9:06 PM,11:21,,,Davis REBOUND (Off:0 Def:1),,,5,1631098,Johnny Davis,1612709928.0,Capital City,Go-Go,CCG,0,0,,,,,,0,0,,,,,,0
+2022200364,10,2,1,1,9:06 PM,11:13,,,MISS Huff 29' 3PT Jump Shot,,,5,1630643,Jay Huff,1612709928.0,Capital City,Go-Go,CCG,0,0,,,,,,0,0,,,,,,0
+2022200364,11,4,0,1,9:06 PM,11:10,Clark REBOUND (Off:0 Def:1),,,,,4,1629109,Gary Clark,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200364,12,1,1,1,9:07 PM,10:52,Minaya 19' Jump Shot (2 PTS),,,2 - 2,TIE,4,1631303,Justin Minaya,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200364,13,2,1,1,9:07 PM,10:28,,,MISS Davis 15' Jump Shot,,,5,1631098,Johnny Davis,1612709928.0,Capital City,Go-Go,CCG,0,0,,,,,,0,0,,,,,,0
+2022200364,14,4,0,1,9:07 PM,10:28,Perez REBOUND (Off:0 Def:1),,,,,4,1631358,Jassel Perez,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200364,15,6,1,1,9:07 PM,10:28,,,Huff P.FOUL (P1.T1),,,5,1630643,Jay Huff,1612709928.0,Capital City,Go-Go,CCG,4,1631358,Jassel Perez,1612709931.0,Mexico City,Capitanes,MXC,1,0,,,,,,0
+2022200364,18,2,1,1,9:08 PM,10:06,MISS Perez 25' 3PT Jump Shot,,,,,4,1631358,Jassel Perez,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200364,19,4,0,1,9:08 PM,10:02,Minaya REBOUND (Off:1 Def:0),,,,,4,1631303,Justin Minaya,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200364,20,1,97,1,9:08 PM,10:02,Minaya Tip Layup Shot (4 PTS),,,2 - 4,2,4,1631303,Justin Minaya,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200364,21,2,5,1,9:08 PM,9:55,,,MISS Huff 4' Layup,,,5,1630643,Jay Huff,1612709928.0,Capital City,Go-Go,CCG,0,0,,,,,,0,0,,,,,,0
+2022200364,22,4,0,1,9:08 PM,9:53,Clark REBOUND (Off:0 Def:2),,,,,4,1629109,Gary Clark,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200364,23,5,2,1,9:09 PM,9:44,Clark Lost Ball Turnover (P1.T1),,Dotson STEAL (1 STL),,,4,1629109,Gary Clark,1612709931.0,Mexico City,Capitanes,MXC,5,1629653,Devon Dotson,1612709928.0,Capital City,Go-Go,CCG,0,0,,,,,,0
+2022200364,25,1,5,1,9:09 PM,9:35,,,Dotson 2' Layup (2 PTS),4 - 4,TIE,5,1629653,Devon Dotson,1612709928.0,Capital City,Go-Go,CCG,0,0,,,,,,0,0,,,,,,0
+2022200364,26,1,1,1,9:09 PM,9:17,Clark 25' 3PT Jump Shot (3 PTS) (Minaya 1 AST),,,4 - 7,3,4,1629109,Gary Clark,1612709931.0,Mexico City,Capitanes,MXC,4,1631303,Justin Minaya,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0
+2022200364,28,2,1,1,9:09 PM,9:02,Minaya BLOCK (1 BLK),,MISS Bernard 13' Jump Shot,,,5,1631262,Jules Bernard,1612709928.0,Capital City,Go-Go,CCG,0,0,,,,,,4,1631303,Justin Minaya,1612709931.0,Mexico City,Capitanes,MXC,0
+2022200364,30,4,0,1,9:09 PM,9:00,Faried REBOUND (Off:0 Def:1),,,,,4,202702,Kenneth Faried,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200364,31,2,1,1,9:10 PM,8:48,MISS Clark 26' 3PT Jump Shot,,,,,4,1629109,Gary Clark,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200364,32,4,0,1,9:10 PM,8:46,,,Huff REBOUND (Off:0 Def:1),,,5,1630643,Jay Huff,1612709928.0,Capital City,Go-Go,CCG,0,0,,,,,,0,0,,,,,,0
+2022200364,33,2,1,1,9:10 PM,8:39,,,MISS Huff 26' 3PT Jump Shot,,,5,1630643,Jay Huff,1612709928.0,Capital City,Go-Go,CCG,0,0,,,,,,0,0,,,,,,0
+2022200364,34,4,0,1,9:10 PM,8:36,Perez REBOUND (Off:0 Def:2),,,,,4,1631358,Jassel Perez,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200364,35,6,2,1,9:10 PM,8:35,,,Huff S.FOUL (P2.T2),,,5,1630643,Jay Huff,1612709928.0,Capital City,Go-Go,CCG,4,1629109,Gary Clark,1612709931.0,Mexico City,Capitanes,MXC,1,0,,,,,,0
+2022200364,37,8,0,1,9:10 PM,8:35,,,SUB: Williams FOR Huff,,,5,1630643,Jay Huff,1612709928.0,Capital City,Go-Go,CCG,5,1630652,Trevion Williams,1612709928.0,Capital City,Go-Go,CCG,0,0,,,,,,0
+2022200364,39,3,31,1,9:10 PM,8:35,MISS Clark Free Throw 2PT,,,,,4,1629109,Gary Clark,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200364,40,4,0,1,9:10 PM,8:33,,,Williams REBOUND (Off:0 Def:1),,,5,1630652,Trevion Williams,1612709928.0,Capital City,Go-Go,CCG,0,0,,,,,,0,0,,,,,,0
+2022200364,41,1,6,1,9:11 PM,8:14,,,Dotson 3' Driving Layup (4 PTS),6 - 7,1,5,1629653,Devon Dotson,1612709928.0,Capital City,Go-Go,CCG,0,0,,,,,,0,0,,,,,,0
+2022200364,42,6,2,1,9:11 PM,8:14,Mays S.FOUL (P1.T1),,,,,4,1630219,Skylar Mays,1612709931.0,Mexico City,Capitanes,MXC,5,1629653,Devon Dotson,1612709928.0,Capital City,Go-Go,CCG,1,0,,,,,,0
+2022200364,44,3,30,1,9:11 PM,8:14,,,Dotson Free Throw 1PT (5 PTS),7 - 7,TIE,5,1629653,Devon Dotson,1612709928.0,Capital City,Go-Go,CCG,0,0,,,,,,0,0,,,,,,0
+2022200364,45,5,1,1,9:12 PM,8:00,Mays Bad Pass Turnover (P1.T2),,Dotson STEAL (2 STL),,,4,1630219,Skylar Mays,1612709931.0,Mexico City,Capitanes,MXC,5,1629653,Devon Dotson,1612709928.0,Capital City,Go-Go,CCG,0,0,,,,,,0
+2022200364,47,5,2,1,9:12 PM,7:54,Minaya STEAL (1 STL),,Davis Lost Ball Turnover (P1.T1),,,5,1631098,Johnny Davis,1612709928.0,Capital City,Go-Go,CCG,4,1631303,Justin Minaya,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0
+2022200364,49,1,5,1,9:12 PM,7:47,Faried 2' Layup (2 PTS) (Mays 1 AST),,,7 - 9,2,4,202702,Kenneth Faried,1612709931.0,Mexico City,Capitanes,MXC,4,1630219,Skylar Mays,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0
+2022200364,51,1,5,1,9:12 PM,7:34,,,Bernard 2' Layup (2 PTS),9 - 9,TIE,5,1631262,Jules Bernard,1612709928.0,Capital City,Go-Go,CCG,0,0,,,,,,0,0,,,,,,0
+2022200364,52,6,2,1,9:12 PM,7:17,,,Bernard S.FOUL (P1.T3),,,5,1631262,Jules Bernard,1612709928.0,Capital City,Go-Go,CCG,4,1629109,Gary Clark,1612709931.0,Mexico City,Capitanes,MXC,1,0,,,,,,0
+2022200364,54,8,0,1,9:12 PM,7:17,SUB: Mendoza FOR Minaya,,,,,4,1631303,Justin Minaya,1612709931.0,Mexico City,Capitanes,MXC,4,1628150,Rigoberto Mendoza,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0
+2022200364,56,3,32,1,9:13 PM,7:17,Clark Free Throw 3PT (6 PTS),,,9 - 12,3,4,1629109,Gary Clark,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200364,57,5,39,1,9:13 PM,7:05,,,Todd Step Out of Bounds Turnover (P1.T2),,,5,1630225,Isaiah Todd,1612709928.0,Capital City,Go-Go,CCG,0,0,,,,,,1,0,,,,,,0
+2022200364,58,8,0,1,9:13 PM,7:05,SUB: Minaya FOR Perez,,,,,4,1631358,Jassel Perez,1612709931.0,Mexico City,Capitanes,MXC,4,1631303,Justin Minaya,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0
+2022200364,59,8,0,1,9:13 PM,7:05,SUB: Labissiere FOR Faried,,,,,4,202702,Kenneth Faried,1612709931.0,Mexico City,Capitanes,MXC,4,1627746,Skal Labissiere,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0
+2022200364,62,8,0,1,9:13 PM,7:05,SUB: Perez FOR Minaya,,,,,4,1631303,Justin Minaya,1612709931.0,Mexico City,Capitanes,MXC,4,1631358,Jassel Perez,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0
+2022200364,64,1,1,1,9:14 PM,6:50,Mendoza 27' 3PT Jump Shot (3 PTS),,,9 - 15,6,4,1628150,Rigoberto Mendoza,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200364,65,9,1,1,9:14 PM,6:50,,,Go-Go Timeout: Regular (Reg.1 Short 0),,,3,1612709928,,,,,,0,0,,,,,,0,0,,,,,,0
+2022200364,66,8,0,1,9:14 PM,6:49,,,SUB: Maker FOR Todd,,,5,1630225,Isaiah Todd,1612709928.0,Capital City,Go-Go,CCG,5,1630588,Makur Maker,1612709928.0,Capital City,Go-Go,CCG,0,0,,,,,,0
+2022200364,68,5,1,1,9:16 PM,6:26,Labissiere STEAL (1 STL),,Williams Bad Pass Turnover (P1.T3),,,5,1630652,Trevion Williams,1612709928.0,Capital City,Go-Go,CCG,4,1627746,Skal Labissiere,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0
+2022200364,70,1,44,1,9:16 PM,6:09,Mays 1' Reverse Layup (2 PTS) (Clark 1 AST),,,9 - 17,8,4,1630219,Skylar Mays,1612709931.0,Mexico City,Capitanes,MXC,4,1629109,Gary Clark,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0
+2022200364,72,2,5,1,9:17 PM,5:55,,,MISS Bernard 2' Layup,,,5,1631262,Jules Bernard,1612709928.0,Capital City,Go-Go,CCG,0,0,,,,,,0,0,,,,,,0
+2022200364,73,4,0,1,9:17 PM,5:55,CAPITANES Rebound,,,,,2,1612709931,,,,,,0,0,,,,,,0,0,,,,,,0
+2022200364,74,6,1,1,9:17 PM,5:48,,,Williams P.FOUL (P1.T4),,,5,1630652,Trevion Williams,1612709928.0,Capital City,Go-Go,CCG,4,1628150,Rigoberto Mendoza,1612709931.0,Mexico City,Capitanes,MXC,1,0,,,,,,0
+2022200364,76,2,1,1,9:17 PM,5:36,MISS Perez 3PT Jump Shot,,,,,4,1631358,Jassel Perez,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200364,77,4,0,1,9:17 PM,5:34,Labissiere REBOUND (Off:1 Def:0),,,,,4,1627746,Skal Labissiere,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200364,78,1,1,1,9:17 PM,5:26,Mendoza 26' 3PT Jump Shot (6 PTS),,,9 - 20,11,4,1628150,Rigoberto Mendoza,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200364,79,6,1,1,9:18 PM,5:09,Perez P.FOUL (P1.T2),,,,,4,1631358,Jassel Perez,1612709931.0,Mexico City,Capitanes,MXC,5,1629653,Devon Dotson,1612709928.0,Capital City,Go-Go,CCG,1,0,,,,,,0
+2022200364,81,8,0,1,9:18 PM,5:09,SUB: Mendez FOR Mays,,,,,4,1630219,Skylar Mays,1612709931.0,Mexico City,Capitanes,MXC,4,1631478,Orlando Mendez,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0
+2022200364,82,8,0,1,9:18 PM,5:09,,,SUB: Mintz FOR Dotson,,,5,1629653,Devon Dotson,1612709928.0,Capital City,Go-Go,CCG,5,1631293,Davion Mintz,1612709928.0,Capital City,Go-Go,CCG,0,0,,,,,,0
+2022200364,85,2,5,1,9:18 PM,5:00,,,MISS Davis 1' Layup,,,5,1631098,Johnny Davis,1612709928.0,Capital City,Go-Go,CCG,0,0,,,,,,0,0,,,,,,0
+2022200364,86,4,0,1,9:18 PM,4:57,,,Davis REBOUND (Off:1 Def:1),,,5,1631098,Johnny Davis,1612709928.0,Capital City,Go-Go,CCG,0,0,,,,,,0,0,,,,,,0
+2022200364,87,1,97,1,9:18 PM,4:57,,,Davis Tip Layup Shot (2 PTS),11 - 20,9,5,1631098,Johnny Davis,1612709928.0,Capital City,Go-Go,CCG,0,0,,,,,,0,0,,,,,,0
+2022200364,88,1,1,1,9:19 PM,4:44,Labissiere 13' Jump Shot (2 PTS) (Perez 1 AST),,,11 - 22,11,4,1627746,Skal Labissiere,1612709931.0,Mexico City,Capitanes,MXC,4,1631358,Jassel Perez,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0
+2022200364,90,1,1,1,9:19 PM,4:27,,,Bernard 26' 3PT Jump Shot (5 PTS) (Maker 1 AST),14 - 22,8,5,1631262,Jules Bernard,1612709928.0,Capital City,Go-Go,CCG,5,1630588,Makur Maker,1612709928.0,Capital City,Go-Go,CCG,0,0,,,,,,0
+2022200364,92,2,5,1,9:19 PM,4:00,MISS Clark 8' Layup,,,,,4,1629109,Gary Clark,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200364,93,4,0,1,9:19 PM,3:57,Mendoza REBOUND (Off:1 Def:0),,,,,4,1628150,Rigoberto Mendoza,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200364,113,2,1,1,9:19 PM,3:56,MISS Labissiere 7' Jump Shot,,,,,4,1627746,Skal Labissiere,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200364,114,4,0,1,9:19 PM,3:55,,,Go-Go Rebound,,,3,1612709928,,,,,,0,0,,,,,,0,0,,,,,,0
+2022200364,95,8,0,1,9:20 PM,3:55,SUB: Bonilla FOR Clark,,,,,4,1629109,Gary Clark,1612709931.0,Mexico City,Capitanes,MXC,4,1641566,Gael Bonilla,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0
+2022200364,96,8,0,1,9:20 PM,3:55,,,SUB: Sword FOR Davis,,,5,1631098,Johnny Davis,1612709928.0,Capital City,Go-Go,CCG,5,1628591,Craig Sword,1612709928.0,Capital City,Go-Go,CCG,0,0,,,,,,0
+2022200364,99,1,78,1,9:21 PM,3:32,,,Williams 3' Floating Jump Shot (2 PTS) (Mintz 1 AST),16 - 22,6,5,1630652,Trevion Williams,1612709928.0,Capital City,Go-Go,CCG,5,1631293,Davion Mintz,1612709928.0,Capital City,Go-Go,CCG,0,0,,,,,,0
+2022200364,101,2,5,1,9:21 PM,3:26,MISS Perez 2' Layup,,,,,4,1631358,Jassel Perez,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200364,102,4,0,1,9:21 PM,3:22,,,Bernard REBOUND (Off:0 Def:1),,,5,1631262,Jules Bernard,1612709928.0,Capital City,Go-Go,CCG,0,0,,,,,,0,0,,,,,,0
+2022200364,103,2,1,1,9:21 PM,3:18,,,MISS Bernard 27' 3PT Jump Shot,,,5,1631262,Jules Bernard,1612709928.0,Capital City,Go-Go,CCG,0,0,,,,,,0,0,,,,,,0
+2022200364,104,4,0,1,9:21 PM,3:15,Perez REBOUND (Off:0 Def:3),,,,,4,1631358,Jassel Perez,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200364,105,2,1,1,9:21 PM,3:09,MISS Labissiere 16' Jump Shot,,,,,4,1627746,Skal Labissiere,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200364,106,4,0,1,9:21 PM,3:07,,,Bernard REBOUND (Off:0 Def:2),,,5,1631262,Jules Bernard,1612709928.0,Capital City,Go-Go,CCG,0,0,,,,,,0,0,,,,,,0
+2022200364,107,8,0,1,9:21 PM,3:05,SUB: Minaya FOR Perez,,,,,4,1631358,Jassel Perez,1612709931.0,Mexico City,Capitanes,MXC,4,1631303,Justin Minaya,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0
+2022200364,108,8,0,1,9:21 PM,3:05,,,SUB: Dotson FOR Bernard,,,5,1631262,Jules Bernard,1612709928.0,Capital City,Go-Go,CCG,5,1629653,Devon Dotson,1612709928.0,Capital City,Go-Go,CCG,0,0,,,,,,0
+2022200364,111,2,1,1,9:22 PM,2:57,,,MISS Williams 27' 3PT Jump Shot,,,5,1630652,Trevion Williams,1612709928.0,Capital City,Go-Go,CCG,0,0,,,,,,0,0,,,,,,0
+2022200364,112,4,0,1,9:22 PM,2:55,Bonilla REBOUND (Off:0 Def:1),,,,,4,1641566,Gael Bonilla,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200364,115,1,5,1,9:22 PM,2:32,Mendez 9' Layup (2 PTS),,,16 - 24,8,4,1631478,Orlando Mendez,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200364,116,6,2,1,9:22 PM,2:18,Mendoza S.FOUL (P1.T3),,,,,4,1628150,Rigoberto Mendoza,1612709931.0,Mexico City,Capitanes,MXC,5,1631293,Davion Mintz,1612709928.0,Capital City,Go-Go,CCG,1,0,,,,,,0
+2022200364,118,9,1,1,9:23 PM,2:18,CAPITANES Timeout: Regular (Full 1 Short 0),,,,,2,1612709931,,,,,,0,0,,,,,,0,0,,,,,,0
+2022200364,119,3,31,1,9:25 PM,2:18,,,Mintz Free Throw 2PT (2 PTS),18 - 24,6,5,1631293,Davion Mintz,1612709928.0,Capital City,Go-Go,CCG,0,0,,,,,,0,0,,,,,,0
+2022200364,121,6,1,1,9:25 PM,1:58,,,Sword P.FOUL (P1.PN),,,5,1628591,Craig Sword,1612709928.0,Capital City,Go-Go,CCG,4,1631478,Orlando Mendez,1612709931.0,Mexico City,Capitanes,MXC,1,0,,,,,,0
+2022200364,123,8,0,1,9:25 PM,1:58,SUB: Faried FOR Labissiere,,,,,4,1627746,Skal Labissiere,1612709931.0,Mexico City,Capitanes,MXC,4,202702,Kenneth Faried,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0
+2022200364,125,3,31,1,9:25 PM,1:58,Mendez Free Throw 2PT (4 PTS),,,18 - 26,8,4,1631478,Orlando Mendez,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200364,126,6,2,1,9:26 PM,1:44,Mendez S.FOUL (P1.T4),,,,,4,1631478,Orlando Mendez,1612709931.0,Mexico City,Capitanes,MXC,5,1629653,Devon Dotson,1612709928.0,Capital City,Go-Go,CCG,1,0,,,,,,0
+2022200364,128,3,31,1,9:26 PM,1:44,,,Dotson Free Throw 2PT (7 PTS),20 - 26,6,5,1629653,Devon Dotson,1612709928.0,Capital City,Go-Go,CCG,0,0,,,,,,0,0,,,,,,0
+2022200364,129,1,5,1,9:27 PM,1:26,Mendoza 2' Layup (8 PTS),,,20 - 28,8,4,1628150,Rigoberto Mendoza,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200364,130,2,5,1,9:27 PM,1:10,,,MISS Sword 4' Layup,,,5,1628591,Craig Sword,1612709928.0,Capital City,Go-Go,CCG,0,0,,,,,,0,0,,,,,,0
+2022200364,131,4,0,1,9:27 PM,1:07,Faried REBOUND (Off:0 Def:2),,,,,4,202702,Kenneth Faried,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200364,132,2,3,1,9:27 PM,0:58,MISS Bonilla 6' Hook Shot,,,,,4,1641566,Gael Bonilla,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200364,133,4,0,1,9:27 PM,0:57,,,Williams REBOUND (Off:0 Def:2),,,5,1630652,Trevion Williams,1612709928.0,Capital City,Go-Go,CCG,0,0,,,,,,0,0,,,,,,0
+2022200364,134,1,6,1,9:27 PM,0:48,,,Dotson 2' Driving Layup (9 PTS),22 - 28,6,5,1629653,Devon Dotson,1612709928.0,Capital City,Go-Go,CCG,0,0,,,,,,0,0,,,,,,0
+2022200364,135,2,1,1,9:27 PM,0:37,MISS Mendoza 15' Jump Shot,,,,,4,1628150,Rigoberto Mendoza,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200364,136,4,0,1,9:28 PM,0:34,,,Maker REBOUND (Off:0 Def:1),,,5,1630588,Makur Maker,1612709928.0,Capital City,Go-Go,CCG,0,0,,,,,,0,0,,,,,,0
+2022200364,137,1,5,1,9:28 PM,0:17,,,Williams 3' Layup (4 PTS) (Sword 1 AST),24 - 28,4,5,1630652,Trevion Williams,1612709928.0,Capital City,Go-Go,CCG,5,1628591,Craig Sword,1612709928.0,Capital City,Go-Go,CCG,0,0,,,,,,0
+2022200364,139,2,1,1,9:28 PM,0:00,MISS Mendez 25' 3PT Jump Shot,,,,,4,1631478,Orlando Mendez,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200364,140,4,0,1,9:28 PM,0:00,,,Dotson REBOUND (Off:0 Def:1),,,5,1629653,Devon Dotson,1612709928.0,Capital City,Go-Go,CCG,0,0,,,,,,0,0,,,,,,0
+2022200364,141,13,0,1,9:28 PM,0:00,,End of 1st Period (9:28 PM EST),,24 - 28,4,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+2022200364,146,12,0,2,9:31 PM,12:00,,Start of 2nd Period (9:31 PM EST),,24 - 28,4,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+2022200364,147,2,1,2,9:31 PM,11:41,MISS Minaya 3PT Jump Shot,,,,,4,1631303,Justin Minaya,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200364,148,4,0,2,9:32 PM,11:38,,,Dotson REBOUND (Off:0 Def:2),,,5,1629653,Devon Dotson,1612709928.0,Capital City,Go-Go,CCG,0,0,,,,,,0,0,,,,,,0
+2022200364,149,1,1,2,9:32 PM,11:30,,,Davis 3PT Jump Shot (5 PTS) (Dotson 1 AST),27 - 28,1,5,1631098,Johnny Davis,1612709928.0,Capital City,Go-Go,CCG,5,1629653,Devon Dotson,1612709928.0,Capital City,Go-Go,CCG,0,0,,,,,,0
+2022200364,151,2,1,2,9:32 PM,11:12,MISS Minaya 24' 3PT Jump Shot,,,,,4,1631303,Justin Minaya,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200364,152,4,0,2,9:32 PM,11:10,,,Maker REBOUND (Off:0 Def:2),,,5,1630588,Makur Maker,1612709928.0,Capital City,Go-Go,CCG,0,0,,,,,,0,0,,,,,,0
+2022200364,153,6,2,2,9:32 PM,11:09,Mendoza S.FOUL (P2.T1),,,,,4,1628150,Rigoberto Mendoza,1612709931.0,Mexico City,Capitanes,MXC,5,1628591,Craig Sword,1612709928.0,Capital City,Go-Go,CCG,1,0,,,,,,0
+2022200364,155,3,31,2,9:33 PM,11:09,,,MISS Sword Free Throw 2PT,,,5,1628591,Craig Sword,1612709928.0,Capital City,Go-Go,CCG,0,0,,,,,,0,0,,,,,,0
+2022200364,156,4,0,2,9:33 PM,11:06,Bonilla REBOUND (Off:0 Def:2),,,,,4,1641566,Gael Bonilla,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200364,157,2,5,2,9:33 PM,10:45,MISS Minaya 3' Layup,,Davis BLOCK (1 BLK),,,4,1631303,Justin Minaya,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,5,1631098,Johnny Davis,1612709928.0,Capital City,Go-Go,CCG,0
+2022200364,158,4,0,2,9:33 PM,10:42,,,Mintz REBOUND (Off:0 Def:1),,,5,1631293,Davion Mintz,1612709928.0,Capital City,Go-Go,CCG,0,0,,,,,,0,0,,,,,,0
+2022200364,159,2,5,2,9:33 PM,10:39,Bonilla BLOCK (1 BLK),,MISS Mintz 1' Layup,,,5,1631293,Davion Mintz,1612709928.0,Capital City,Go-Go,CCG,0,0,,,,,,4,1641566,Gael Bonilla,1612709931.0,Mexico City,Capitanes,MXC,0
+2022200364,161,4,0,2,9:33 PM,10:36,Mendoza REBOUND (Off:1 Def:1),,,,,4,1628150,Rigoberto Mendoza,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200364,162,2,7,2,9:33 PM,10:33,MISS Faried 3' Dunk,,,,,4,202702,Kenneth Faried,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200364,163,4,0,2,9:33 PM,10:32,Minaya REBOUND (Off:2 Def:0),,,,,4,1631303,Justin Minaya,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200364,164,6,2,2,9:33 PM,10:32,,,Davis S.FOUL (P1.T1),,,5,1631098,Johnny Davis,1612709928.0,Capital City,Go-Go,CCG,4,1631303,Justin Minaya,1612709931.0,Mexico City,Capitanes,MXC,1,0,,,,,,0
+2022200364,166,3,31,2,9:34 PM,10:32,Minaya Free Throw 2PT (6 PTS),,,27 - 30,3,4,1631303,Justin Minaya,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200364,168,6,26,2,9:34 PM,10:17,,,Davis Offensive Charge Foul (P2),,,5,1631098,Johnny Davis,1612709928.0,Capital City,Go-Go,CCG,4,202702,Kenneth Faried,1612709931.0,Mexico City,Capitanes,MXC,1,0,,,,,,0
+2022200364,170,5,37,2,9:34 PM,10:17,,,Davis Offensive Foul Turnover (P2.T4),,,5,1631098,Johnny Davis,1612709928.0,Capital City,Go-Go,CCG,0,0,,,,,,1,0,,,,,,0
+2022200364,171,2,1,2,9:34 PM,10:06,MISS Mays 24' 3PT Jump Shot,,,,,4,1630219,Skylar Mays,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200364,172,4,0,2,9:34 PM,10:06,Faried REBOUND (Off:1 Def:2),,,,,4,202702,Kenneth Faried,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200364,173,6,2,2,9:34 PM,10:06,,,Maker S.FOUL (P1.T2),,,5,1630588,Makur Maker,1612709928.0,Capital City,Go-Go,CCG,4,202702,Kenneth Faried,1612709931.0,Mexico City,Capitanes,MXC,1,0,,,,,,0
+2022200364,175,8,0,2,9:35 PM,10:06,,,SUB: Huff FOR Maker,,,5,1630588,Makur Maker,1612709928.0,Capital City,Go-Go,CCG,5,1630643,Jay Huff,1612709928.0,Capital City,Go-Go,CCG,0,0,,,,,,0
+2022200364,177,3,31,2,9:35 PM,10:06,Faried Free Throw 2PT (4 PTS),,,27 - 32,5,4,202702,Kenneth Faried,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200364,178,2,1,2,9:35 PM,9:44,,,MISS Mintz 26' 3PT Jump Shot,,,5,1631293,Davion Mintz,1612709928.0,Capital City,Go-Go,CCG,0,0,,,,,,0,0,,,,,,0
+2022200364,179,4,0,2,9:35 PM,9:41,Mendoza REBOUND (Off:1 Def:2),,,,,4,1628150,Rigoberto Mendoza,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200364,182,8,0,2,9:36 PM,9:35,,,SUB: Todd FOR Sword,,,5,1628591,Craig Sword,1612709928.0,Capital City,Go-Go,CCG,5,1630225,Isaiah Todd,1612709928.0,Capital City,Go-Go,CCG,0,0,,,,,,0
+2022200364,184,2,78,2,9:36 PM,9:28,MISS Minaya 9' Floating Jump Shot,,,,,4,1631303,Justin Minaya,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200364,185,4,0,2,9:36 PM,9:28,,,Dotson REBOUND (Off:0 Def:3),,,5,1629653,Devon Dotson,1612709928.0,Capital City,Go-Go,CCG,0,0,,,,,,0,0,,,,,,0
+2022200364,186,6,1,2,9:36 PM,9:28,Faried P.FOUL (P1.T2),,,,,4,202702,Kenneth Faried,1612709931.0,Mexico City,Capitanes,MXC,5,1630225,Isaiah Todd,1612709928.0,Capital City,Go-Go,CCG,1,0,,,,,,0
+2022200364,188,6,1,2,9:37 PM,9:17,Faried P.FOUL (P2.T3),,,,,4,202702,Kenneth Faried,1612709931.0,Mexico City,Capitanes,MXC,5,1631293,Davion Mintz,1612709928.0,Capital City,Go-Go,CCG,1,0,,,,,,0
+2022200364,190,2,5,2,9:37 PM,9:14,,,MISS Mintz Layup,,,5,1631293,Davion Mintz,1612709928.0,Capital City,Go-Go,CCG,0,0,,,,,,0,0,,,,,,0
+2022200364,191,4,0,2,9:37 PM,9:12,Mays REBOUND (Off:0 Def:1),,,,,4,1630219,Skylar Mays,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200364,192,1,1,2,9:37 PM,9:06,Bonilla 25' 3PT Jump Shot (3 PTS) (Mays 2 AST),,,27 - 35,8,4,1641566,Gael Bonilla,1612709931.0,Mexico City,Capitanes,MXC,4,1630219,Skylar Mays,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0
+2022200364,194,1,1,2,9:37 PM,8:45,,,Mintz 27' 3PT Jump Shot (5 PTS) (Dotson 2 AST),30 - 35,5,5,1631293,Davion Mintz,1612709928.0,Capital City,Go-Go,CCG,5,1629653,Devon Dotson,1612709928.0,Capital City,Go-Go,CCG,0,0,,,,,,0
+2022200364,196,2,1,2,9:38 PM,8:24,MISS Mays 3PT Jump Shot,,,,,4,1630219,Skylar Mays,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200364,197,4,0,2,9:38 PM,8:24,Faried REBOUND (Off:2 Def:2),,,,,4,202702,Kenneth Faried,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200364,198,6,2,2,9:38 PM,8:19,,,Huff S.FOUL (P3.T3),,,5,1630643,Jay Huff,1612709928.0,Capital City,Go-Go,CCG,4,1628150,Rigoberto Mendoza,1612709931.0,Mexico City,Capitanes,MXC,1,0,,,,,,0
+2022200364,200,8,0,2,9:38 PM,8:19,,,SUB: Bernard FOR Mintz,,,5,1631293,Davion Mintz,1612709928.0,Capital City,Go-Go,CCG,5,1631262,Jules Bernard,1612709928.0,Capital City,Go-Go,CCG,0,0,,,,,,0
+2022200364,201,8,0,2,9:38 PM,8:19,,,SUB: John FOR Huff,,,5,1630643,Jay Huff,1612709928.0,Capital City,Go-Go,CCG,5,1631294,Theo John,1612709928.0,Capital City,Go-Go,CCG,0,0,,,,,,0
+2022200364,204,3,31,2,9:38 PM,8:19,Mendoza Free Throw 2PT (10 PTS),,,30 - 37,7,4,1628150,Rigoberto Mendoza,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200364,205,1,1,2,9:39 PM,8:06,,,Todd 28' 3PT Jump Shot (3 PTS) (Dotson 3 AST),33 - 37,4,5,1630225,Isaiah Todd,1612709928.0,Capital City,Go-Go,CCG,5,1629653,Devon Dotson,1612709928.0,Capital City,Go-Go,CCG,0,0,,,,,,0
+2022200364,207,5,2,2,9:39 PM,7:53,Faried Lost Ball Turnover (P1.T3),,John STEAL (1 STL),,,4,202702,Kenneth Faried,1612709931.0,Mexico City,Capitanes,MXC,5,1631294,Theo John,1612709928.0,Capital City,Go-Go,CCG,0,0,,,,,,0
+2022200364,209,5,40,2,9:39 PM,7:49,,,Todd Out of Bounds Lost Ball Turnover (P2.T5),,,5,1630225,Isaiah Todd,1612709928.0,Capital City,Go-Go,CCG,0,0,,,,,,1,0,,,,,,0
+2022200364,210,8,0,2,9:39 PM,7:49,SUB: Perez FOR Mendoza,,,,,4,1628150,Rigoberto Mendoza,1612709931.0,Mexico City,Capitanes,MXC,4,1631358,Jassel Perez,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0
+2022200364,218,2,1,2,9:40 PM,7:28,MISS Minaya 27' 3PT Jump Shot,,,,,4,1631303,Justin Minaya,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200364,219,4,0,2,9:40 PM,7:25,,,Davis REBOUND (Off:1 Def:2),,,5,1631098,Johnny Davis,1612709928.0,Capital City,Go-Go,CCG,0,0,,,,,,0,0,,,,,,0
+2022200364,220,2,1,2,9:40 PM,7:17,,,MISS Todd 25' 3PT Jump Shot,,,5,1630225,Isaiah Todd,1612709928.0,Capital City,Go-Go,CCG,0,0,,,,,,0,0,,,,,,0
+2022200364,221,4,0,2,9:40 PM,7:14,Mays REBOUND (Off:0 Def:2),,,,,4,1630219,Skylar Mays,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200364,222,8,0,2,9:40 PM,7:05,SUB: Clark FOR Minaya,,,,,4,1631303,Justin Minaya,1612709931.0,Mexico City,Capitanes,MXC,4,1629109,Gary Clark,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0
+2022200364,223,8,0,2,9:40 PM,7:05,SUB: Labissiere FOR Faried,,,,,4,202702,Kenneth Faried,1612709931.0,Mexico City,Capitanes,MXC,4,1627746,Skal Labissiere,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0
+2022200364,226,2,5,2,9:41 PM,6:56,MISS Labissiere 5' Layup,,,,,4,1627746,Skal Labissiere,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200364,227,4,0,2,9:41 PM,6:55,,,John REBOUND (Off:0 Def:1),,,5,1631294,Theo John,1612709928.0,Capital City,Go-Go,CCG,0,0,,,,,,0,0,,,,,,0
+2022200364,228,2,1,2,9:41 PM,6:46,,,MISS Dotson 11' Jump Shot,,,5,1629653,Devon Dotson,1612709928.0,Capital City,Go-Go,CCG,0,0,,,,,,0,0,,,,,,0
+2022200364,229,4,0,2,9:41 PM,6:45,Labissiere REBOUND (Off:1 Def:1),,,,,4,1627746,Skal Labissiere,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200364,230,2,5,2,9:41 PM,6:32,MISS Perez 2' Layup,,John BLOCK (1 BLK),,,4,1631358,Jassel Perez,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,5,1631294,Theo John,1612709928.0,Capital City,Go-Go,CCG,0
+2022200364,232,4,0,2,9:41 PM,6:28,Labissiere REBOUND (Off:2 Def:1),,,,,4,1627746,Skal Labissiere,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200364,233,2,5,2,9:41 PM,6:26,MISS Labissiere 1' Layup,,,,,4,1627746,Skal Labissiere,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200364,234,4,0,2,9:41 PM,6:25,Labissiere REBOUND (Off:3 Def:1),,,,,4,1627746,Skal Labissiere,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200364,235,2,5,2,9:41 PM,6:24,MISS Labissiere 4' Layup,,,,,4,1627746,Skal Labissiere,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200364,236,4,0,2,9:41 PM,6:24,,,Todd REBOUND (Off:0 Def:1),,,5,1630225,Isaiah Todd,1612709928.0,Capital City,Go-Go,CCG,0,0,,,,,,0,0,,,,,,0
+2022200364,237,2,1,2,9:41 PM,6:20,,,MISS Davis 20' Jump Shot,,,5,1631098,Johnny Davis,1612709928.0,Capital City,Go-Go,CCG,0,0,,,,,,0,0,,,,,,0
+2022200364,238,4,0,2,9:41 PM,6:17,,,Todd REBOUND (Off:1 Def:1),,,5,1630225,Isaiah Todd,1612709928.0,Capital City,Go-Go,CCG,0,0,,,,,,0,0,,,,,,0
+2022200364,239,2,5,2,9:41 PM,6:17,,,MISS Todd Layup,,,5,1630225,Isaiah Todd,1612709928.0,Capital City,Go-Go,CCG,0,0,,,,,,0,0,,,,,,0
+2022200364,240,4,0,2,9:41 PM,6:17,,,Bernard REBOUND (Off:1 Def:2),,,5,1631262,Jules Bernard,1612709928.0,Capital City,Go-Go,CCG,0,0,,,,,,0,0,,,,,,0
+2022200364,241,2,5,2,9:42 PM,6:17,,,MISS Davis 3' Layup,,,5,1631098,Johnny Davis,1612709928.0,Capital City,Go-Go,CCG,0,0,,,,,,0,0,,,,,,0
+2022200364,242,4,0,2,9:42 PM,6:17,CAPITANES Rebound,,,,,2,1612709931,,,,,,0,0,,,,,,0,0,,,,,,0
+2022200364,243,9,1,2,9:42 PM,6:17,CAPITANES Timeout: Regular (Full 2 Short 0),,,,,2,1612709931,,,,,,0,0,,,,,,0,0,,,,,,0
+2022200364,244,8,0,2,9:42 PM,6:17,,,SUB: Mintz FOR Dotson,,,5,1629653,Devon Dotson,1612709928.0,Capital City,Go-Go,CCG,5,1631293,Davion Mintz,1612709928.0,Capital City,Go-Go,CCG,0,0,,,,,,0
+2022200364,246,1,5,2,9:44 PM,5:51,Labissiere 1' Layup (4 PTS),,,33 - 39,6,4,1627746,Skal Labissiere,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200364,247,6,2,2,9:44 PM,5:51,,,John S.FOUL (P1.T4),,,5,1631294,Theo John,1612709928.0,Capital City,Go-Go,CCG,4,1627746,Skal Labissiere,1612709931.0,Mexico City,Capitanes,MXC,1,0,,,,,,0
+2022200364,249,3,30,2,9:45 PM,5:51,Labissiere Free Throw 1PT (5 PTS),,,33 - 40,7,4,1627746,Skal Labissiere,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200364,250,1,5,2,9:45 PM,5:34,,,Davis 1' Layup (7 PTS) (Mintz 2 AST),35 - 40,5,5,1631098,Johnny Davis,1612709928.0,Capital City,Go-Go,CCG,5,1631293,Davion Mintz,1612709928.0,Capital City,Go-Go,CCG,0,0,,,,,,0
+2022200364,252,1,7,2,9:45 PM,5:10,Bonilla 1' Dunk (5 PTS) (Labissiere 1 AST),,,35 - 42,7,4,1641566,Gael Bonilla,1612709931.0,Mexico City,Capitanes,MXC,4,1627746,Skal Labissiere,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0
+2022200364,254,6,26,2,9:46 PM,5:04,,,John Offensive Charge Foul (P2),,,5,1631294,Theo John,1612709928.0,Capital City,Go-Go,CCG,4,1631358,Jassel Perez,1612709931.0,Mexico City,Capitanes,MXC,1,0,,,,,,0
+2022200364,256,5,37,2,9:46 PM,5:04,,,John Offensive Foul Turnover (P1.T6),,,5,1631294,Theo John,1612709928.0,Capital City,Go-Go,CCG,0,0,,,,,,1,0,,,,,,0
+2022200364,257,8,0,2,9:46 PM,5:04,,,SUB: Williams FOR Davis,,,5,1631098,Johnny Davis,1612709928.0,Capital City,Go-Go,CCG,5,1630652,Trevion Williams,1612709928.0,Capital City,Go-Go,CCG,0,0,,,,,,0
+2022200364,258,8,0,2,9:46 PM,5:04,,,SUB: Dotson FOR John,,,5,1631294,Theo John,1612709928.0,Capital City,Go-Go,CCG,5,1629653,Devon Dotson,1612709928.0,Capital City,Go-Go,CCG,0,0,,,,,,0
+2022200364,261,1,6,2,9:46 PM,4:53,Mays 3' Driving Layup (4 PTS),,,35 - 44,9,4,1630219,Skylar Mays,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200364,262,1,6,2,9:46 PM,4:30,,,Bernard 2' Driving Layup (7 PTS),37 - 44,7,5,1631262,Jules Bernard,1612709928.0,Capital City,Go-Go,CCG,0,0,,,,,,0,0,,,,,,0
+2022200364,263,2,3,2,9:47 PM,4:05,MISS Clark 5' Hook Shot,,,,,4,1629109,Gary Clark,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200364,264,4,0,2,9:47 PM,4:02,,,Mintz REBOUND (Off:0 Def:2),,,5,1631293,Davion Mintz,1612709928.0,Capital City,Go-Go,CCG,0,0,,,,,,0,0,,,,,,0
+2022200364,265,6,2,2,9:47 PM,3:40,Mays S.FOUL (P2.T4),,,,,4,1630219,Skylar Mays,1612709931.0,Mexico City,Capitanes,MXC,5,1631262,Jules Bernard,1612709928.0,Capital City,Go-Go,CCG,1,0,,,,,,0
+2022200364,267,8,0,2,9:47 PM,3:40,SUB: Minaya FOR Bonilla,,,,,4,1641566,Gael Bonilla,1612709931.0,Mexico City,Capitanes,MXC,4,1631303,Justin Minaya,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0
+2022200364,268,8,0,2,9:47 PM,3:40,SUB: Mendoza FOR Mays,,,,,4,1630219,Skylar Mays,1612709931.0,Mexico City,Capitanes,MXC,4,1628150,Rigoberto Mendoza,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0
+2022200364,271,3,31,2,9:48 PM,3:40,,,Bernard Free Throw 2PT (9 PTS),39 - 44,5,5,1631262,Jules Bernard,1612709928.0,Capital City,Go-Go,CCG,0,0,,,,,,0,0,,,,,,0
+2022200364,272,2,1,2,9:48 PM,3:20,MISS Labissiere 6' Jump Shot,,,,,4,1627746,Skal Labissiere,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200364,273,4,0,2,9:48 PM,3:18,,,Williams REBOUND (Off:0 Def:3),,,5,1630652,Trevion Williams,1612709928.0,Capital City,Go-Go,CCG,0,0,,,,,,0,0,,,,,,0
+2022200364,274,1,78,2,9:48 PM,3:08,,,Williams 10' Floating Jump Shot (6 PTS) (Dotson 4 AST),41 - 44,3,5,1630652,Trevion Williams,1612709928.0,Capital City,Go-Go,CCG,5,1629653,Devon Dotson,1612709928.0,Capital City,Go-Go,CCG,0,0,,,,,,0
+2022200364,276,5,2,2,9:49 PM,2:44,Minaya Lost Ball Turnover (P1.T4),,Dotson STEAL (3 STL),,,4,1631303,Justin Minaya,1612709931.0,Mexico City,Capitanes,MXC,5,1629653,Devon Dotson,1612709928.0,Capital City,Go-Go,CCG,0,0,,,,,,0
+2022200364,278,1,5,2,9:49 PM,2:39,,,Dotson 1' Layup (11 PTS),43 - 44,1,5,1629653,Devon Dotson,1612709928.0,Capital City,Go-Go,CCG,0,0,,,,,,0,0,,,,,,0
+2022200364,279,9,1,2,9:49 PM,2:39,CAPITANES Timeout: Regular (Full 3 Short 0),,,,,2,1612709931,,,,,,0,0,,,,,,0,0,,,,,,0
+2022200364,280,8,0,2,9:49 PM,2:39,SUB: Faried FOR Labissiere,,,,,4,1627746,Skal Labissiere,1612709931.0,Mexico City,Capitanes,MXC,4,202702,Kenneth Faried,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0
+2022200364,282,1,78,2,9:52 PM,2:12,Mendoza 7' Floating Jump Shot (12 PTS),,,43 - 46,3,4,1628150,Rigoberto Mendoza,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200364,283,2,1,2,9:52 PM,1:56,,,MISS Bernard 27' 3PT Jump Shot,,,5,1631262,Jules Bernard,1612709928.0,Capital City,Go-Go,CCG,0,0,,,,,,0,0,,,,,,0
+2022200364,284,4,0,2,9:52 PM,1:54,Mendoza REBOUND (Off:1 Def:3),,,,,4,1628150,Rigoberto Mendoza,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200364,285,6,2,2,9:52 PM,1:47,,,Todd S.FOUL (P1.PN),,,5,1630225,Isaiah Todd,1612709928.0,Capital City,Go-Go,CCG,4,202702,Kenneth Faried,1612709931.0,Mexico City,Capitanes,MXC,1,0,,,,,,0
+2022200364,287,3,31,2,9:52 PM,1:47,MISS Faried Free Throw 2PT,,,,,4,202702,Kenneth Faried,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200364,288,4,0,2,9:52 PM,1:45,,,Williams REBOUND (Off:0 Def:4),,,5,1630652,Trevion Williams,1612709928.0,Capital City,Go-Go,CCG,0,0,,,,,,0,0,,,,,,0
+2022200364,289,2,1,2,9:53 PM,1:23,,,MISS Todd 26' 3PT Jump Shot,,,5,1630225,Isaiah Todd,1612709928.0,Capital City,Go-Go,CCG,0,0,,,,,,0,0,,,,,,0
+2022200364,290,4,0,2,9:53 PM,1:21,,,Williams REBOUND (Off:1 Def:4),,,5,1630652,Trevion Williams,1612709928.0,Capital City,Go-Go,CCG,0,0,,,,,,0,0,,,,,,0
+2022200364,291,5,1,2,9:53 PM,1:17,Perez STEAL (1 STL),,Bernard Bad Pass Turnover (P1.T7),,,5,1631262,Jules Bernard,1612709928.0,Capital City,Go-Go,CCG,4,1631358,Jassel Perez,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0
+2022200364,293,1,9,2,9:53 PM,1:13,Perez Driving Dunk (2 PTS),,,43 - 48,5,4,1631358,Jassel Perez,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200364,294,2,1,2,9:53 PM,0:48,,,MISS Dotson 27' 3PT Jump Shot,,,5,1629653,Devon Dotson,1612709928.0,Capital City,Go-Go,CCG,0,0,,,,,,0,0,,,,,,0
+2022200364,295,4,0,2,9:53 PM,0:46,Faried REBOUND (Off:2 Def:3),,,,,4,202702,Kenneth Faried,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200364,296,1,5,2,9:54 PM,0:39,Faried 3' Layup (6 PTS) (Mendoza 1 AST),,,43 - 50,7,4,202702,Kenneth Faried,1612709931.0,Mexico City,Capitanes,MXC,4,1628150,Rigoberto Mendoza,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0
+2022200364,298,9,1,2,9:54 PM,0:38,,,Go-Go Timeout: Regular (Reg.2 Short 0),,,3,1612709928,,,,,,0,0,,,,,,0,0,,,,,,0
+2022200364,299,2,1,2,9:55 PM,0:29,,,MISS Mintz 25' 3PT Jump Shot,,,5,1631293,Davion Mintz,1612709928.0,Capital City,Go-Go,CCG,0,0,,,,,,0,0,,,,,,0
+2022200364,300,4,0,2,9:55 PM,0:26,CAPITANES Rebound,,,,,2,1612709931,,,,,,0,0,,,,,,0,0,,,,,,0
+2022200364,301,8,0,2,9:55 PM,0:26,,,SUB: Sword FOR Todd,,,5,1630225,Isaiah Todd,1612709928.0,Capital City,Go-Go,CCG,5,1628591,Craig Sword,1612709928.0,Capital City,Go-Go,CCG,0,0,,,,,,0
+2022200364,302,8,0,2,9:55 PM,0:26,,,SUB: John FOR Williams,,,5,1630652,Trevion Williams,1612709928.0,Capital City,Go-Go,CCG,5,1631294,Theo John,1612709928.0,Capital City,Go-Go,CCG,0,0,,,,,,0
+2022200364,305,1,6,2,9:56 PM,0:10,Mendoza 2' Driving Layup (14 PTS),,,43 - 52,9,4,1628150,Rigoberto Mendoza,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200364,306,2,1,2,9:56 PM,0:00,,,MISS Dotson 27' 3PT Jump Shot,,,5,1629653,Devon Dotson,1612709928.0,Capital City,Go-Go,CCG,0,0,,,,,,0,0,,,,,,0
+2022200364,307,4,0,2,9:56 PM,0:00,,,Go-Go Rebound,,,3,1612709928,,,,,,0,0,,,,,,0,0,,,,,,0
+2022200364,308,13,0,2,9:56 PM,0:00,,End of 2nd Period (9:56 PM EST),,43 - 52,9,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+2022200364,317,12,0,3,10:12 PM,12:00,,Start of 3rd Period (10:12 PM EST),,43 - 52,9,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+2022200364,318,1,9,3,10:12 PM,11:34,Minaya 1' Driving Dunk (8 PTS),,,43 - 54,11,4,1631303,Justin Minaya,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200364,319,2,1,3,10:13 PM,11:12,,,MISS Davis 25' 3PT Jump Shot,,,5,1631098,Johnny Davis,1612709928.0,Capital City,Go-Go,CCG,0,0,,,,,,0,0,,,,,,0
+2022200364,320,4,0,3,10:13 PM,11:09,Clark REBOUND (Off:0 Def:3),,,,,4,1629109,Gary Clark,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200364,321,1,1,3,10:13 PM,11:00,Mays 27' 3PT Jump Shot (7 PTS),,,43 - 57,14,4,1630219,Skylar Mays,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200364,322,2,1,3,10:13 PM,10:42,,,MISS Maker 25' 3PT Jump Shot,,,5,1630588,Makur Maker,1612709928.0,Capital City,Go-Go,CCG,0,0,,,,,,0,0,,,,,,0
+2022200364,323,4,0,3,10:13 PM,10:40,Perez REBOUND (Off:0 Def:4),,,,,4,1631358,Jassel Perez,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200364,324,1,7,3,10:13 PM,10:39,Clark Dunk (8 PTS) (Perez 2 AST),,,43 - 59,16,4,1629109,Gary Clark,1612709931.0,Mexico City,Capitanes,MXC,4,1631358,Jassel Perez,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0
+2022200364,326,9,1,3,10:14 PM,10:38,,,Go-Go Timeout: Regular (Reg.3 Short 0),,,3,1612709928,,,,,,0,0,,,,,,0,0,,,,,,0
+2022200364,327,6,2,3,10:16 PM,10:19,Mays S.FOUL (P3.T1),,,,,4,1630219,Skylar Mays,1612709931.0,Mexico City,Capitanes,MXC,5,1631098,Johnny Davis,1612709928.0,Capital City,Go-Go,CCG,1,0,,,,,,0
+2022200364,329,3,31,3,10:16 PM,10:19,,,Davis Free Throw 2PT (9 PTS),45 - 59,14,5,1631098,Johnny Davis,1612709928.0,Capital City,Go-Go,CCG,0,0,,,,,,0,0,,,,,,0
+2022200364,330,2,1,3,10:16 PM,9:59,MISS Mays 13' Jump Shot,,,,,4,1630219,Skylar Mays,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200364,331,4,0,3,10:16 PM,9:57,,,Huff REBOUND (Off:0 Def:2),,,5,1630643,Jay Huff,1612709928.0,Capital City,Go-Go,CCG,0,0,,,,,,0,0,,,,,,0
+2022200364,332,6,1,3,10:17 PM,9:54,Perez P.FOUL (P2.T2),,,,,4,1631358,Jassel Perez,1612709931.0,Mexico City,Capitanes,MXC,5,1629653,Devon Dotson,1612709928.0,Capital City,Go-Go,CCG,1,0,,,,,,0
+2022200364,334,5,1,3,10:17 PM,9:40,Faried STEAL (1 STL),,Davis Bad Pass Turnover (P3.T8),,,5,1631098,Johnny Davis,1612709928.0,Capital City,Go-Go,CCG,4,202702,Kenneth Faried,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0
+2022200364,336,2,1,3,10:17 PM,9:32,MISS Clark 27' 3PT Jump Shot,,,,,4,1629109,Gary Clark,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200364,337,4,0,3,10:17 PM,9:30,,,Maker REBOUND (Off:0 Def:3),,,5,1630588,Makur Maker,1612709928.0,Capital City,Go-Go,CCG,0,0,,,,,,0,0,,,,,,0
+2022200364,338,6,2,3,10:17 PM,9:27,Faried S.FOUL (P3.T3),,,,,4,202702,Kenneth Faried,1612709931.0,Mexico City,Capitanes,MXC,5,1631098,Johnny Davis,1612709928.0,Capital City,Go-Go,CCG,1,0,,,,,,0
+2022200364,340,8,0,3,10:18 PM,9:27,SUB: Mendoza FOR Mays,,,,,4,1630219,Skylar Mays,1612709931.0,Mexico City,Capitanes,MXC,4,1628150,Rigoberto Mendoza,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0
+2022200364,342,3,31,3,10:18 PM,9:27,,,Davis Free Throw 2PT (11 PTS),47 - 59,12,5,1631098,Johnny Davis,1612709928.0,Capital City,Go-Go,CCG,0,0,,,,,,0,0,,,,,,0
+2022200364,343,2,5,3,10:18 PM,9:22,MISS Minaya 2' Layup,,,,,4,1631303,Justin Minaya,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200364,344,4,0,3,10:18 PM,9:20,Minaya REBOUND (Off:3 Def:0),,,,,4,1631303,Justin Minaya,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200364,345,2,97,3,10:18 PM,9:20,MISS Minaya Tip Layup Shot,,,,,4,1631303,Justin Minaya,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200364,346,4,0,3,10:18 PM,9:19,,,Dotson REBOUND (Off:0 Def:4),,,5,1629653,Devon Dotson,1612709928.0,Capital City,Go-Go,CCG,0,0,,,,,,0,0,,,,,,0
+2022200364,347,1,1,3,10:18 PM,9:14,,,Bernard 27' 3PT Jump Shot (12 PTS) (Dotson 5 AST),50 - 59,9,5,1631262,Jules Bernard,1612709928.0,Capital City,Go-Go,CCG,5,1629653,Devon Dotson,1612709928.0,Capital City,Go-Go,CCG,0,0,,,,,,0
+2022200364,349,6,1,3,10:19 PM,8:55,,,Davis P.FOUL (P3.T1),,,5,1631098,Johnny Davis,1612709928.0,Capital City,Go-Go,CCG,4,1629109,Gary Clark,1612709931.0,Mexico City,Capitanes,MXC,1,0,,,,,,0
+2022200364,351,2,1,3,10:19 PM,8:40,MISS Clark 21' Jump Shot,,,,,4,1629109,Gary Clark,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200364,352,4,0,3,10:19 PM,8:40,,,Go-Go Rebound,,,3,1612709928,,,,,,0,0,,,,,,0,0,,,,,,0
+2022200364,353,6,1,3,10:19 PM,8:40,Faried P.FOUL (P4.T4),,,,,4,202702,Kenneth Faried,1612709931.0,Mexico City,Capitanes,MXC,5,1630643,Jay Huff,1612709928.0,Capital City,Go-Go,CCG,1,0,,,,,,0
+2022200364,355,8,0,3,10:19 PM,8:40,SUB: Labissiere FOR Faried,,,,,4,202702,Kenneth Faried,1612709931.0,Mexico City,Capitanes,MXC,4,1627746,Skal Labissiere,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0
+2022200364,357,1,1,3,10:20 PM,8:21,,,Bernard 25' 3PT Jump Shot (15 PTS) (Dotson 6 AST),53 - 59,6,5,1631262,Jules Bernard,1612709928.0,Capital City,Go-Go,CCG,5,1629653,Devon Dotson,1612709928.0,Capital City,Go-Go,CCG,0,0,,,,,,0
+2022200364,359,9,1,3,10:20 PM,8:20,CAPITANES Timeout: Regular (Full 4 Short 0),,,,,2,1612709931,,,,,,0,0,,,,,,0,0,,,,,,0
+2022200364,360,5,1,3,10:22 PM,7:58,Minaya Bad Pass Turnover (P2.T5),,Huff STEAL (1 STL),,,4,1631303,Justin Minaya,1612709931.0,Mexico City,Capitanes,MXC,5,1630643,Jay Huff,1612709928.0,Capital City,Go-Go,CCG,0,0,,,,,,0
+2022200364,362,1,6,3,10:22 PM,7:49,,,Bernard 1' Driving Layup (17 PTS),55 - 59,4,5,1631262,Jules Bernard,1612709928.0,Capital City,Go-Go,CCG,0,0,,,,,,0,0,,,,,,0
+2022200364,363,1,1,3,10:23 PM,7:31,Minaya 3PT Jump Shot (11 PTS) (Clark 2 AST),,,55 - 62,7,4,1631303,Justin Minaya,1612709931.0,Mexico City,Capitanes,MXC,4,1629109,Gary Clark,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0
+2022200364,365,5,1,3,10:23 PM,7:08,Clark STEAL (1 STL),,Bernard Bad Pass Turnover (P2.T9),,,5,1631262,Jules Bernard,1612709928.0,Capital City,Go-Go,CCG,4,1629109,Gary Clark,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0
+2022200364,367,2,1,3,10:23 PM,6:46,MISS Minaya 21' Jump Shot,,,,,4,1631303,Justin Minaya,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200364,368,4,0,3,10:23 PM,6:43,,,Maker REBOUND (Off:0 Def:4),,,5,1630588,Makur Maker,1612709928.0,Capital City,Go-Go,CCG,0,0,,,,,,0,0,,,,,,0
+2022200364,371,6,26,3,10:24 PM,6:36,,,Davis Offensive Charge Foul (P4),,,5,1631098,Johnny Davis,1612709928.0,Capital City,Go-Go,CCG,4,1627746,Skal Labissiere,1612709931.0,Mexico City,Capitanes,MXC,1,0,,,,,,0
+2022200364,373,5,37,3,10:24 PM,6:36,,,Davis Offensive Foul Turnover (P4.T10),,,5,1631098,Johnny Davis,1612709928.0,Capital City,Go-Go,CCG,0,0,,,,,,1,0,,,,,,0
+2022200364,374,8,0,3,10:24 PM,6:36,,,SUB: Mintz FOR Davis,,,5,1631098,Johnny Davis,1612709928.0,Capital City,Go-Go,CCG,5,1631293,Davion Mintz,1612709928.0,Capital City,Go-Go,CCG,0,0,,,,,,0
+2022200364,376,5,1,3,10:24 PM,6:22,Mendoza Bad Pass Turnover (P1.T6),,Dotson STEAL (4 STL),,,4,1628150,Rigoberto Mendoza,1612709931.0,Mexico City,Capitanes,MXC,5,1629653,Devon Dotson,1612709928.0,Capital City,Go-Go,CCG,0,0,,,,,,0
+2022200364,379,1,1,3,10:24 PM,6:15,,,Mintz 3PT Jump Shot (8 PTS) (Dotson 7 AST),58 - 62,4,5,1631293,Davion Mintz,1612709928.0,Capital City,Go-Go,CCG,5,1629653,Devon Dotson,1612709928.0,Capital City,Go-Go,CCG,0,0,,,,,,0
+2022200364,381,2,5,3,10:25 PM,5:53,MISS Clark 3' Layup,,,,,4,1629109,Gary Clark,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200364,382,4,0,3,10:25 PM,5:53,CAPITANES Rebound,,,,,2,1612709931,,,,,,0,0,,,,,,0,0,,,,,,0
+2022200364,383,6,1,3,10:25 PM,5:53,,,Bernard P.FOUL (P2.T2),,,5,1631262,Jules Bernard,1612709928.0,Capital City,Go-Go,CCG,4,1629109,Gary Clark,1612709931.0,Mexico City,Capitanes,MXC,1,0,,,,,,0
+2022200364,386,8,0,3,10:25 PM,5:53,SUB: Bonilla FOR Perez,,,,,4,1631358,Jassel Perez,1612709931.0,Mexico City,Capitanes,MXC,4,1641566,Gael Bonilla,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0
+2022200364,396,8,0,3,10:25 PM,5:53,,,SUB: Todd FOR Maker,,,5,1630588,Makur Maker,1612709928.0,Capital City,Go-Go,CCG,5,1630225,Isaiah Todd,1612709928.0,Capital City,Go-Go,CCG,0,0,,,,,,0
+2022200364,388,2,5,3,10:26 PM,5:39,MISS Mendoza 2' Layup,,,,,4,1628150,Rigoberto Mendoza,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200364,389,4,0,3,10:26 PM,5:39,Minaya REBOUND (Off:4 Def:0),,,,,4,1631303,Justin Minaya,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200364,390,2,1,3,10:26 PM,5:31,MISS Clark 3PT Jump Shot,,,,,4,1629109,Gary Clark,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200364,391,4,0,3,10:26 PM,5:29,,,Bernard REBOUND (Off:1 Def:3),,,5,1631262,Jules Bernard,1612709928.0,Capital City,Go-Go,CCG,0,0,,,,,,0,0,,,,,,0
+2022200364,392,6,2,3,10:26 PM,5:26,Minaya S.FOUL (P1.PN),,,,,4,1631303,Justin Minaya,1612709931.0,Mexico City,Capitanes,MXC,5,1630225,Isaiah Todd,1612709928.0,Capital City,Go-Go,CCG,1,0,,,,,,0
+2022200364,435,8,0,3,10:27 PM,5:26,SUB: Mendez FOR Minaya,,,,,4,1631303,Justin Minaya,1612709931.0,Mexico City,Capitanes,MXC,4,1631478,Orlando Mendez,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0
+2022200364,400,3,31,3,10:27 PM,5:26,,,Todd Free Throw 2PT (5 PTS),60 - 62,2,5,1630225,Isaiah Todd,1612709928.0,Capital City,Go-Go,CCG,0,0,,,,,,0,0,,,,,,0
+2022200364,403,1,5,3,10:27 PM,5:02,Clark 1' Layup (10 PTS) (Mendez 1 AST),,,60 - 64,4,4,1629109,Gary Clark,1612709931.0,Mexico City,Capitanes,MXC,4,1631478,Orlando Mendez,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0
+2022200364,405,2,5,3,10:28 PM,4:45,,,MISS Bernard 2' Layup,,,5,1631262,Jules Bernard,1612709928.0,Capital City,Go-Go,CCG,0,0,,,,,,0,0,,,,,,0
+2022200364,406,4,0,3,10:28 PM,4:42,,,Huff REBOUND (Off:1 Def:2),,,5,1630643,Jay Huff,1612709928.0,Capital City,Go-Go,CCG,0,0,,,,,,0,0,,,,,,0
+2022200364,407,1,97,3,10:28 PM,4:42,,,Huff Tip Layup Shot (4 PTS),62 - 64,2,5,1630643,Jay Huff,1612709928.0,Capital City,Go-Go,CCG,0,0,,,,,,0,0,,,,,,0
+2022200364,408,2,5,3,10:28 PM,4:17,MISS Clark 11' Layup,,,,,4,1629109,Gary Clark,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200364,409,4,0,3,10:28 PM,4:15,,,Dotson REBOUND (Off:0 Def:5),,,5,1629653,Devon Dotson,1612709928.0,Capital City,Go-Go,CCG,0,0,,,,,,0,0,,,,,,0
+2022200364,410,2,5,3,10:28 PM,3:55,Labissiere BLOCK (1 BLK),,MISS Huff 1' Layup,,,5,1630643,Jay Huff,1612709928.0,Capital City,Go-Go,CCG,0,0,,,,,,4,1627746,Skal Labissiere,1612709931.0,Mexico City,Capitanes,MXC,0
+2022200364,412,4,0,3,10:29 PM,3:51,Mendez REBOUND (Off:0 Def:1),,,,,4,1631478,Orlando Mendez,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200364,413,1,5,3,10:29 PM,3:32,Bonilla 5' Layup (7 PTS),,,62 - 66,4,4,1641566,Gael Bonilla,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200364,414,1,78,3,10:29 PM,3:17,,,Dotson 15' Floating Jump Shot (13 PTS),64 - 66,2,5,1629653,Devon Dotson,1612709928.0,Capital City,Go-Go,CCG,0,0,,,,,,0,0,,,,,,0
+2022200364,415,2,1,3,10:29 PM,2:53,MISS Bonilla 3PT Jump Shot,,,,,4,1641566,Gael Bonilla,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200364,416,4,0,3,10:30 PM,2:50,Mendoza REBOUND (Off:2 Def:3),,,,,4,1628150,Rigoberto Mendoza,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200364,417,1,5,3,10:30 PM,2:50,Mendoza 2' Layup (16 PTS),,,64 - 68,4,4,1628150,Rigoberto Mendoza,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200364,418,2,5,3,10:30 PM,2:32,,,MISS Dotson 4' Layup,,,5,1629653,Devon Dotson,1612709928.0,Capital City,Go-Go,CCG,0,0,,,,,,0,0,,,,,,0
+2022200364,419,4,0,3,10:30 PM,2:30,Labissiere REBOUND (Off:3 Def:2),,,,,4,1627746,Skal Labissiere,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200364,420,1,5,3,10:30 PM,2:25,Clark 2' Layup (12 PTS) (Bonilla 1 AST),,,64 - 70,6,4,1629109,Gary Clark,1612709931.0,Mexico City,Capitanes,MXC,4,1641566,Gael Bonilla,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0
+2022200364,422,9,1,3,10:30 PM,2:24,,,Go-Go Timeout: Regular (Reg.4 Short 0),,,3,1612709928,,,,,,0,0,,,,,,0,0,,,,,,0
+2022200364,451,8,0,3,10:31 PM,2:24,,,SUB: Sword FOR Bernard,,,5,1631262,Jules Bernard,1612709928.0,Capital City,Go-Go,CCG,5,1628591,Craig Sword,1612709928.0,Capital City,Go-Go,CCG,0,0,,,,,,0
+2022200364,452,8,0,3,10:31 PM,2:24,,,SUB: Williams FOR Huff,,,5,1630643,Jay Huff,1612709928.0,Capital City,Go-Go,CCG,5,1630652,Trevion Williams,1612709928.0,Capital City,Go-Go,CCG,0,0,,,,,,0
+2022200364,455,8,0,3,10:31 PM,2:24,SUB: Minaya FOR Clark,,,,,4,1629109,Gary Clark,1612709931.0,Mexico City,Capitanes,MXC,4,1631303,Justin Minaya,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0
+2022200364,429,2,1,3,10:32 PM,1:59,,,MISS Mintz 26' 3PT Jump Shot,,,5,1631293,Davion Mintz,1612709928.0,Capital City,Go-Go,CCG,0,0,,,,,,0,0,,,,,,0
+2022200364,430,4,0,3,10:32 PM,1:57,,,Williams REBOUND (Off:2 Def:4),,,5,1630652,Trevion Williams,1612709928.0,Capital City,Go-Go,CCG,0,0,,,,,,0,0,,,,,,0
+2022200364,431,2,5,3,10:32 PM,1:56,,,MISS Williams 2' Layup,,,5,1630652,Trevion Williams,1612709928.0,Capital City,Go-Go,CCG,0,0,,,,,,0,0,,,,,,0
+2022200364,432,4,0,3,10:32 PM,1:56,,,Todd REBOUND (Off:2 Def:1),,,5,1630225,Isaiah Todd,1612709928.0,Capital City,Go-Go,CCG,0,0,,,,,,0,0,,,,,,0
+2022200364,433,1,97,3,10:32 PM,1:53,,,Todd Tip Layup Shot (7 PTS),66 - 70,4,5,1630225,Isaiah Todd,1612709928.0,Capital City,Go-Go,CCG,0,0,,,,,,0,0,,,,,,0
+2022200364,434,5,45,3,10:32 PM,1:38,Mendez Out of Bounds - Bad Pass Turnover Turnover (P1.T7),,,,,4,1631478,Orlando Mendez,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,1,0,,,,,,0
+2022200364,437,5,40,3,10:32 PM,1:28,,,Mintz Out of Bounds Lost Ball Turnover (P1.T11),,,5,1631293,Davion Mintz,1612709928.0,Capital City,Go-Go,CCG,0,0,,,,,,1,0,,,,,,0
+2022200364,438,1,1,3,10:33 PM,1:06,Mendoza 27' 3PT Jump Shot (19 PTS) (Bonilla 2 AST),,,66 - 73,7,4,1628150,Rigoberto Mendoza,1612709931.0,Mexico City,Capitanes,MXC,4,1641566,Gael Bonilla,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0
+2022200364,440,5,2,3,10:33 PM,0:50,Labissiere STEAL (2 STL),,Dotson Lost Ball Turnover (P1.T12),,,5,1629653,Devon Dotson,1612709928.0,Capital City,Go-Go,CCG,4,1627746,Skal Labissiere,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0
+2022200364,442,2,5,3,10:33 PM,0:45,MISS Mendoza 1' Layup,,,,,4,1628150,Rigoberto Mendoza,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200364,443,4,0,3,10:33 PM,0:43,Minaya REBOUND (Off:5 Def:0),,,,,4,1631303,Justin Minaya,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200364,444,1,97,3,10:33 PM,0:43,Minaya Tip Layup Shot (13 PTS),,,66 - 75,9,4,1631303,Justin Minaya,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200364,445,1,1,3,10:34 PM,0:27,,,Sword 3PT Jump Shot (3 PTS) (Mintz 3 AST),69 - 75,6,5,1628591,Craig Sword,1612709928.0,Capital City,Go-Go,CCG,5,1631293,Davion Mintz,1612709928.0,Capital City,Go-Go,CCG,0,0,,,,,,0
+2022200364,447,1,1,3,10:34 PM,0:02,Mendez 27' 3PT Jump Shot (7 PTS),,,69 - 78,9,4,1631478,Orlando Mendez,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200364,448,1,1,3,10:35 PM,0:00,,,Todd 28' 3PT Jump Shot (10 PTS) (Williams 1 AST),72 - 78,6,5,1630225,Isaiah Todd,1612709928.0,Capital City,Go-Go,CCG,5,1630652,Trevion Williams,1612709928.0,Capital City,Go-Go,CCG,0,0,,,,,,0
+2022200364,450,13,0,3,10:35 PM,0:00,,End of 3rd Period (10:35 PM EST),,72 - 78,6,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+2022200364,461,12,0,4,10:38 PM,12:00,,Start of 4th Period (10:38 PM EST),,72 - 78,6,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+2022200364,462,1,78,4,10:38 PM,11:39,,,Williams 9' Floating Jump Shot (8 PTS) (Davis 1 AST),74 - 78,4,5,1630652,Trevion Williams,1612709928.0,Capital City,Go-Go,CCG,5,1631098,Johnny Davis,1612709928.0,Capital City,Go-Go,CCG,0,0,,,,,,0
+2022200364,464,2,1,4,10:39 PM,11:13,MISS Mendoza 25' 3PT Jump Shot,,,,,4,1628150,Rigoberto Mendoza,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200364,465,4,0,4,10:39 PM,11:13,,,Go-Go Rebound,,,3,1612709928,,,,,,0,0,,,,,,0,0,,,,,,0
+2022200364,467,5,1,4,10:39 PM,11:04,Mendoza STEAL (1 STL),,Mintz Bad Pass Turnover (P2.T13),,,5,1631293,Davion Mintz,1612709928.0,Capital City,Go-Go,CCG,4,1628150,Rigoberto Mendoza,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0
+2022200364,469,6,26,4,10:39 PM,10:57,Bonilla Offensive Charge Foul (P1),,,,,4,1641566,Gael Bonilla,1612709931.0,Mexico City,Capitanes,MXC,5,1631293,Davion Mintz,1612709928.0,Capital City,Go-Go,CCG,1,0,,,,,,0
+2022200364,471,5,37,4,10:39 PM,10:57,Bonilla Offensive Foul Turnover (P1.T8),,,,,4,1641566,Gael Bonilla,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,1,0,,,,,,0
+2022200364,472,2,5,4,10:40 PM,10:42,,,MISS Davis 14' Layup,,,5,1631098,Johnny Davis,1612709928.0,Capital City,Go-Go,CCG,0,0,,,,,,0,0,,,,,,0
+2022200364,473,4,0,4,10:40 PM,10:34,Bonilla REBOUND (Off:0 Def:3),,,,,4,1641566,Gael Bonilla,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200364,474,5,1,4,10:40 PM,10:34,Bonilla Bad Pass Turnover (P2.T9),,Davis STEAL (1 STL),,,4,1641566,Gael Bonilla,1612709931.0,Mexico City,Capitanes,MXC,5,1631098,Johnny Davis,1612709928.0,Capital City,Go-Go,CCG,0,0,,,,,,0
+2022200364,476,1,5,4,10:40 PM,10:29,,,Williams 3' Layup (10 PTS),76 - 78,2,5,1630652,Trevion Williams,1612709928.0,Capital City,Go-Go,CCG,0,0,,,,,,0,0,,,,,,0
+2022200364,477,2,1,4,10:40 PM,10:16,MISS Mendez 26' 3PT Jump Shot,,,,,4,1631478,Orlando Mendez,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200364,478,4,0,4,10:40 PM,10:14,Mendez REBOUND (Off:1 Def:1),,,,,4,1631478,Orlando Mendez,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200364,479,2,1,4,10:40 PM,10:10,MISS Mendez 4' Jump Shot,,,,,4,1631478,Orlando Mendez,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200364,480,4,0,4,10:40 PM,10:10,,,Mintz REBOUND (Off:0 Def:3),,,5,1631293,Davion Mintz,1612709928.0,Capital City,Go-Go,CCG,0,0,,,,,,0,0,,,,,,0
+2022200364,481,5,1,4,10:41 PM,9:58,Minaya STEAL (2 STL),,Todd Bad Pass Turnover (P3.T14),,,5,1630225,Isaiah Todd,1612709928.0,Capital City,Go-Go,CCG,4,1631303,Justin Minaya,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0
+2022200364,483,5,1,4,10:41 PM,9:45,Mendez Bad Pass Turnover (P2.T10),,Davis STEAL (2 STL),,,4,1631478,Orlando Mendez,1612709931.0,Mexico City,Capitanes,MXC,5,1631098,Johnny Davis,1612709928.0,Capital City,Go-Go,CCG,0,0,,,,,,0
+2022200364,485,1,5,4,10:41 PM,9:42,,,Davis 1' Layup (13 PTS),78 - 78,TIE,5,1631098,Johnny Davis,1612709928.0,Capital City,Go-Go,CCG,0,0,,,,,,0,0,,,,,,0
+2022200364,486,2,1,4,10:41 PM,9:20,MISS Minaya 27' 3PT Jump Shot,,,,,4,1631303,Justin Minaya,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200364,487,4,0,4,10:41 PM,9:18,Faried REBOUND (Off:3 Def:3),,,,,4,202702,Kenneth Faried,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200364,488,1,5,4,10:41 PM,9:17,Faried 3' Layup (8 PTS),,,78 - 80,2,4,202702,Kenneth Faried,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200364,489,6,2,4,10:41 PM,9:17,,,Williams S.FOUL (P2.T1),,,5,1630652,Trevion Williams,1612709928.0,Capital City,Go-Go,CCG,4,202702,Kenneth Faried,1612709931.0,Mexico City,Capitanes,MXC,1,0,,,,,,0
+2022200364,491,8,0,4,10:41 PM,9:17,SUB: Clark FOR Mendoza,,,,,4,1628150,Rigoberto Mendoza,1612709931.0,Mexico City,Capitanes,MXC,4,1629109,Gary Clark,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0
+2022200364,492,8,0,4,10:41 PM,9:17,SUB: Mays FOR Bonilla,,,,,4,1641566,Gael Bonilla,1612709931.0,Mexico City,Capitanes,MXC,4,1630219,Skylar Mays,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0
+2022200364,493,8,0,4,10:41 PM,9:17,,,SUB: Bernard FOR Todd,,,5,1630225,Isaiah Todd,1612709928.0,Capital City,Go-Go,CCG,5,1631262,Jules Bernard,1612709928.0,Capital City,Go-Go,CCG,0,0,,,,,,0
+2022200364,497,3,30,4,10:42 PM,9:17,MISS Faried Free Throw 1PT,,,,,4,202702,Kenneth Faried,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200364,498,4,0,4,10:42 PM,9:13,,,Williams REBOUND (Off:2 Def:5),,,5,1630652,Trevion Williams,1612709928.0,Capital City,Go-Go,CCG,0,0,,,,,,0,0,,,,,,0
+2022200364,499,1,1,4,10:42 PM,8:54,,,Sword 3PT Jump Shot (6 PTS) (Davis 2 AST),81 - 80,-1,5,1628591,Craig Sword,1612709928.0,Capital City,Go-Go,CCG,5,1631098,Johnny Davis,1612709928.0,Capital City,Go-Go,CCG,0,0,,,,,,0
+2022200364,501,1,7,4,10:43 PM,8:38,Faried 2' Dunk (10 PTS) (Mays 3 AST),,,81 - 82,1,4,202702,Kenneth Faried,1612709931.0,Mexico City,Capitanes,MXC,4,1630219,Skylar Mays,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0
+2022200364,503,2,6,4,10:43 PM,8:21,,,MISS Mintz 3' Driving Layup,,,5,1631293,Davion Mintz,1612709928.0,Capital City,Go-Go,CCG,0,0,,,,,,0,0,,,,,,0
+2022200364,504,4,0,4,10:43 PM,8:19,,,Williams REBOUND (Off:3 Def:5),,,5,1630652,Trevion Williams,1612709928.0,Capital City,Go-Go,CCG,0,0,,,,,,0,0,,,,,,0
+2022200364,505,1,1,4,10:43 PM,8:17,,,Sword 3PT Jump Shot (9 PTS) (Williams 2 AST),84 - 82,-2,5,1628591,Craig Sword,1612709928.0,Capital City,Go-Go,CCG,5,1630652,Trevion Williams,1612709928.0,Capital City,Go-Go,CCG,0,0,,,,,,0
+2022200364,507,5,1,4,10:43 PM,8:08,Mays Bad Pass Turnover (P2.T11),,Williams STEAL (1 STL),,,4,1630219,Skylar Mays,1612709931.0,Mexico City,Capitanes,MXC,5,1630652,Trevion Williams,1612709928.0,Capital City,Go-Go,CCG,0,0,,,,,,0
+2022200364,509,2,5,4,10:43 PM,8:04,Minaya BLOCK (2 BLK),,MISS Mintz 2' Layup,,,5,1631293,Davion Mintz,1612709928.0,Capital City,Go-Go,CCG,0,0,,,,,,4,1631303,Justin Minaya,1612709931.0,Mexico City,Capitanes,MXC,0
+2022200364,511,4,0,4,10:43 PM,8:02,Mays REBOUND (Off:0 Def:3),,,,,4,1630219,Skylar Mays,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200364,512,1,1,4,10:43 PM,7:55,Clark 26' 3PT Jump Shot (15 PTS) (Mendez 2 AST),,,84 - 85,1,4,1629109,Gary Clark,1612709931.0,Mexico City,Capitanes,MXC,4,1631478,Orlando Mendez,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0
+2022200364,514,5,2,4,10:44 PM,7:35,Minaya STEAL (3 STL),,Williams Lost Ball Turnover (P2.T15),,,5,1630652,Trevion Williams,1612709928.0,Capital City,Go-Go,CCG,4,1631303,Justin Minaya,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0
+2022200364,516,1,5,4,10:44 PM,7:29,Mays 3' Layup (9 PTS),,,84 - 87,3,4,1630219,Skylar Mays,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200364,517,6,2,4,10:44 PM,7:29,,,Williams S.FOUL (P3.T2),,,5,1630652,Trevion Williams,1612709928.0,Capital City,Go-Go,CCG,4,1630219,Skylar Mays,1612709931.0,Mexico City,Capitanes,MXC,1,0,,,,,,0
+2022200364,519,8,0,4,10:44 PM,7:29,SUB: Mendoza FOR Mendez,,,,,4,1631478,Orlando Mendez,1612709931.0,Mexico City,Capitanes,MXC,4,1628150,Rigoberto Mendoza,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0
+2022200364,520,8,0,4,10:44 PM,7:29,,,SUB: Huff FOR Mintz,,,5,1631293,Davion Mintz,1612709928.0,Capital City,Go-Go,CCG,5,1630643,Jay Huff,1612709928.0,Capital City,Go-Go,CCG,0,0,,,,,,0
+2022200364,521,8,0,4,10:44 PM,7:29,,,SUB: Dotson FOR Williams,,,5,1630652,Trevion Williams,1612709928.0,Capital City,Go-Go,CCG,5,1629653,Devon Dotson,1612709928.0,Capital City,Go-Go,CCG,0,0,,,,,,0
+2022200364,525,3,30,4,10:44 PM,7:29,Mays Free Throw 1PT (10 PTS),,,84 - 88,4,4,1630219,Skylar Mays,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200364,526,6,1,4,10:45 PM,7:16,Mays P.FOUL (P4.T1),,,,,4,1630219,Skylar Mays,1612709931.0,Mexico City,Capitanes,MXC,5,1631262,Jules Bernard,1612709928.0,Capital City,Go-Go,CCG,1,0,,,,,,0
+2022200364,528,6,2,4,10:45 PM,7:08,Clark S.FOUL (P1.T2),,,,,4,1629109,Gary Clark,1612709931.0,Mexico City,Capitanes,MXC,5,1628591,Craig Sword,1612709928.0,Capital City,Go-Go,CCG,1,0,,,,,,0
+2022200364,530,3,31,4,10:46 PM,7:08,,,MISS Sword Free Throw 2PT,,,5,1628591,Craig Sword,1612709928.0,Capital City,Go-Go,CCG,0,0,,,,,,0,0,,,,,,0
+2022200364,531,4,0,4,10:46 PM,7:04,,,Bernard REBOUND (Off:2 Def:3),,,5,1631262,Jules Bernard,1612709928.0,Capital City,Go-Go,CCG,0,0,,,,,,0,0,,,,,,0
+2022200364,532,1,5,4,10:46 PM,7:03,,,Bernard 2' Layup (19 PTS),86 - 88,2,5,1631262,Jules Bernard,1612709928.0,Capital City,Go-Go,CCG,0,0,,,,,,0,0,,,,,,0
+2022200364,533,6,1,4,10:46 PM,6:49,,,Sword P.FOUL (P2.T3),,,5,1628591,Craig Sword,1612709928.0,Capital City,Go-Go,CCG,4,1628150,Rigoberto Mendoza,1612709931.0,Mexico City,Capitanes,MXC,1,0,,,,,,0
+2022200364,535,9,1,4,10:46 PM,6:49,,,Go-Go Timeout: Regular (Reg.5 Short 0),,,3,1612709928,,,,,,0,0,,,,,,0,0,,,,,,0
+2022200364,536,6,26,4,10:49 PM,6:43,Faried Offensive Charge Foul (P5),,,,,4,202702,Kenneth Faried,1612709931.0,Mexico City,Capitanes,MXC,5,1631098,Johnny Davis,1612709928.0,Capital City,Go-Go,CCG,1,0,,,,,,0
+2022200364,538,5,37,4,10:49 PM,6:43,Faried Offensive Foul Turnover (P2.T12),,,,,4,202702,Kenneth Faried,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,1,0,,,,,,0
+2022200364,539,8,0,4,10:49 PM,6:43,SUB: Labissiere FOR Faried,,,,,4,202702,Kenneth Faried,1612709931.0,Mexico City,Capitanes,MXC,4,1627746,Skal Labissiere,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0
+2022200364,541,2,5,4,10:49 PM,6:21,Labissiere BLOCK (2 BLK),,MISS Bernard 2' Layup,,,5,1631262,Jules Bernard,1612709928.0,Capital City,Go-Go,CCG,0,0,,,,,,4,1627746,Skal Labissiere,1612709931.0,Mexico City,Capitanes,MXC,0
+2022200364,543,4,0,4,10:49 PM,6:18,,,Huff REBOUND (Off:2 Def:2),,,5,1630643,Jay Huff,1612709928.0,Capital City,Go-Go,CCG,0,0,,,,,,0,0,,,,,,0
+2022200364,544,1,7,4,10:49 PM,6:17,,,Huff 1' Dunk (6 PTS),88 - 88,TIE,5,1630643,Jay Huff,1612709928.0,Capital City,Go-Go,CCG,0,0,,,,,,0,0,,,,,,0
+2022200364,545,6,26,4,10:50 PM,6:00,Labissiere Offensive Charge Foul (P1),,,,,4,1627746,Skal Labissiere,1612709931.0,Mexico City,Capitanes,MXC,5,1628591,Craig Sword,1612709928.0,Capital City,Go-Go,CCG,1,0,,,,,,0
+2022200364,547,5,37,4,10:50 PM,6:00,Labissiere Offensive Foul Turnover (P1.T13),,,,,4,1627746,Skal Labissiere,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,1,0,,,,,,0
+2022200364,548,1,6,4,10:50 PM,5:39,,,Dotson 1' Driving Layup (15 PTS),90 - 88,-2,5,1629653,Devon Dotson,1612709928.0,Capital City,Go-Go,CCG,0,0,,,,,,0,0,,,,,,0
+2022200364,549,6,1,4,10:51 PM,5:26,,,Bernard P.FOUL (P3.T4),,,5,1631262,Jules Bernard,1612709928.0,Capital City,Go-Go,CCG,4,1629109,Gary Clark,1612709931.0,Mexico City,Capitanes,MXC,1,0,,,,,,0
+2022200364,551,1,1,4,10:51 PM,5:19,Mays 20' Jump Shot (12 PTS),,,90 - 90,TIE,4,1630219,Skylar Mays,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200364,552,6,2,4,10:52 PM,5:03,Mendoza S.FOUL (P3.T3),,,,,4,1628150,Rigoberto Mendoza,1612709931.0,Mexico City,Capitanes,MXC,5,1631262,Jules Bernard,1612709928.0,Capital City,Go-Go,CCG,1,0,,,,,,0
+2022200364,554,3,31,4,10:52 PM,5:03,,,Bernard Free Throw 2PT (21 PTS),92 - 90,-2,5,1631262,Jules Bernard,1612709928.0,Capital City,Go-Go,CCG,0,0,,,,,,0,0,,,,,,0
+2022200364,555,2,1,4,10:52 PM,4:53,MISS Mays 26' 3PT Jump Shot,,,,,4,1630219,Skylar Mays,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200364,556,4,0,4,10:52 PM,4:49,,,Sword REBOUND (Off:0 Def:1),,,5,1628591,Craig Sword,1612709928.0,Capital City,Go-Go,CCG,0,0,,,,,,0,0,,,,,,0
+2022200364,557,1,6,4,10:53 PM,4:32,,,Sword 2' Driving Layup (11 PTS),94 - 90,-4,5,1628591,Craig Sword,1612709928.0,Capital City,Go-Go,CCG,0,0,,,,,,0,0,,,,,,0
+2022200364,558,2,3,4,10:53 PM,4:12,MISS Clark 3' Hook Shot,,Huff BLOCK (1 BLK),,,4,1629109,Gary Clark,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,5,1630643,Jay Huff,1612709928.0,Capital City,Go-Go,CCG,0
+2022200364,560,4,0,4,10:53 PM,4:10,Clark REBOUND (Off:1 Def:3),,,,,4,1629109,Gary Clark,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200364,561,2,1,4,10:53 PM,4:06,MISS Labissiere 10' Jump Shot,,,,,4,1627746,Skal Labissiere,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200364,562,4,0,4,10:53 PM,4:03,,,Bernard REBOUND (Off:2 Def:4),,,5,1631262,Jules Bernard,1612709928.0,Capital City,Go-Go,CCG,0,0,,,,,,0,0,,,,,,0
+2022200364,563,2,1,4,10:53 PM,3:42,,,MISS Sword 26' 3PT Jump Shot,,,5,1628591,Craig Sword,1612709928.0,Capital City,Go-Go,CCG,0,0,,,,,,0,0,,,,,,0
+2022200364,564,4,0,4,10:54 PM,3:42,CAPITANES Rebound,,,,,2,1612709931,,,,,,0,0,,,,,,0,0,,,,,,0
+2022200364,565,8,0,4,10:54 PM,3:42,SUB: Faried FOR Labissiere,,,,,4,1627746,Skal Labissiere,1612709931.0,Mexico City,Capitanes,MXC,4,202702,Kenneth Faried,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0
+2022200364,567,6,26,4,10:54 PM,3:28,Faried Offensive Charge Foul (P6),,,,,4,202702,Kenneth Faried,1612709931.0,Mexico City,Capitanes,MXC,5,1631262,Jules Bernard,1612709928.0,Capital City,Go-Go,CCG,1,0,,,,,,0
+2022200364,569,5,37,4,10:54 PM,3:28,Faried Offensive Foul Turnover (P3.T14),,,,,4,202702,Kenneth Faried,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,1,0,,,,,,0
+2022200364,570,9,1,4,10:54 PM,3:28,,,Go-Go Timeout: Regular (Reg.6 Short 0),,,3,1612709928,,,,,,0,0,,,,,,0,0,,,,,,0
+2022200364,571,8,0,4,10:54 PM,3:28,SUB: Mendez FOR Faried,,,,,4,202702,Kenneth Faried,1612709931.0,Mexico City,Capitanes,MXC,4,1631478,Orlando Mendez,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0
+2022200364,573,1,44,4,10:56 PM,3:16,,,Davis 2' Reverse Layup (15 PTS),96 - 90,-6,5,1631098,Johnny Davis,1612709928.0,Capital City,Go-Go,CCG,0,0,,,,,,0,0,,,,,,0
+2022200364,574,2,1,4,10:57 PM,2:57,MISS Clark 28' 3PT Jump Shot,,,,,4,1629109,Gary Clark,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200364,575,4,0,4,10:57 PM,2:57,,,Dotson REBOUND (Off:0 Def:6),,,5,1629653,Devon Dotson,1612709928.0,Capital City,Go-Go,CCG,0,0,,,,,,0,0,,,,,,0
+2022200364,576,1,1,4,10:57 PM,2:41,,,Dotson 16' Jump Shot (17 PTS),98 - 90,-8,5,1629653,Devon Dotson,1612709928.0,Capital City,Go-Go,CCG,0,0,,,,,,0,0,,,,,,0
+2022200364,577,2,1,4,10:57 PM,2:14,MISS Clark 27' 3PT Jump Shot,,,,,4,1629109,Gary Clark,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200364,578,4,0,4,10:57 PM,2:12,,,Sword REBOUND (Off:0 Def:2),,,5,1628591,Craig Sword,1612709928.0,Capital City,Go-Go,CCG,0,0,,,,,,0,0,,,,,,0
+2022200364,579,1,1,4,10:58 PM,1:51,,,Bernard 25' 3PT Jump Shot (24 PTS),101 - 90,-11,5,1631262,Jules Bernard,1612709928.0,Capital City,Go-Go,CCG,0,0,,,,,,0,0,,,,,,0
+2022200364,580,9,1,4,10:58 PM,1:51,CAPITANES Timeout: Regular (Full 5 Short 0),,,,,2,1612709931,,,,,,0,0,,,,,,0,0,,,,,,0
+2022200364,581,2,6,4,10:59 PM,1:44,MISS Mays 2' Driving Layup,,,,,4,1630219,Skylar Mays,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200364,582,4,0,4,10:59 PM,1:43,,,Dotson REBOUND (Off:0 Def:7),,,5,1629653,Devon Dotson,1612709928.0,Capital City,Go-Go,CCG,0,0,,,,,,0,0,,,,,,0
+2022200364,583,1,5,4,10:59 PM,1:36,,,Dotson 1' Layup (19 PTS),103 - 90,-13,5,1629653,Devon Dotson,1612709928.0,Capital City,Go-Go,CCG,0,0,,,,,,0,0,,,,,,0
+2022200364,585,5,1,4,11:00 PM,1:31,Mendez Bad Pass Turnover (P3.T15),,Sword STEAL (1 STL),,,4,1631478,Orlando Mendez,1612709931.0,Mexico City,Capitanes,MXC,5,1628591,Craig Sword,1612709928.0,Capital City,Go-Go,CCG,0,0,,,,,,0
+2022200364,587,1,5,4,11:00 PM,1:29,,,Sword Layup (13 PTS),105 - 90,-15,5,1628591,Craig Sword,1612709928.0,Capital City,Go-Go,CCG,0,0,,,,,,0,0,,,,,,0
+2022200364,588,2,1,4,11:00 PM,1:24,MISS Clark 27' 3PT Jump Shot,,,,,4,1629109,Gary Clark,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200364,589,4,0,4,11:00 PM,1:21,,,Davis REBOUND (Off:1 Def:3),,,5,1631098,Johnny Davis,1612709928.0,Capital City,Go-Go,CCG,0,0,,,,,,0,0,,,,,,0
+2022200364,590,1,1,4,11:00 PM,1:07,,,Davis 15' Jump Shot (17 PTS),107 - 90,-17,5,1631098,Johnny Davis,1612709928.0,Capital City,Go-Go,CCG,0,0,,,,,,0,0,,,,,,0
+2022200364,591,5,1,4,11:00 PM,0:57,Minaya Bad Pass Turnover (P3.T16),,Dotson STEAL (5 STL),,,4,1631303,Justin Minaya,1612709931.0,Mexico City,Capitanes,MXC,5,1629653,Devon Dotson,1612709928.0,Capital City,Go-Go,CCG,0,0,,,,,,0
+2022200364,593,2,6,4,11:00 PM,0:54,,,MISS Dotson 1' Driving Layup,,,5,1629653,Devon Dotson,1612709928.0,Capital City,Go-Go,CCG,0,0,,,,,,0,0,,,,,,0
+2022200364,594,4,0,4,11:01 PM,0:52,Mays REBOUND (Off:0 Def:4),,,,,4,1630219,Skylar Mays,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200364,595,2,1,4,11:01 PM,0:37,MISS Mendoza 18' Jump Shot,,,,,4,1628150,Rigoberto Mendoza,1612709931.0,Mexico City,Capitanes,MXC,0,0,,,,,,0,0,,,,,,0
+2022200364,596,4,0,4,11:01 PM,0:34,,,Dotson REBOUND (Off:0 Def:8),,,5,1629653,Devon Dotson,1612709928.0,Capital City,Go-Go,CCG,0,0,,,,,,0,0,,,,,,0
+2022200364,597,1,1,4,11:01 PM,0:16,,,Dotson 13' Jump Shot (21 PTS),109 - 90,-19,5,1629653,Devon Dotson,1612709928.0,Capital City,Go-Go,CCG,0,0,,,,,,0,0,,,,,,0
+2022200364,598,13,0,4,11:02 PM,0:00,,End of 4th Period (11:02 PM EST),,109 - 90,-19,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
